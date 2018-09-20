@@ -1,0 +1,6876 @@
+[{
+        "Nom": "1000MERCIS",
+        "ISIN": "FR0010285965",
+        "Symbole": "ALMIL"
+    },
+    {
+        "Nom": "2VALORISE",
+        "ISIN": "BE0974275076",
+        "Symbole": "VALOR"
+    },
+    {
+        "Nom": "4SERVICE CLOUD",
+        "ISIN": "CH0299791381",
+        "Symbole": "MLOVE"
+    },
+    {
+        "Nom": "A TOUTE VITESSE",
+        "ISIN": "FR0010050773",
+        "Symbole": "MLATV"
+    },
+    {
+        "Nom": "A.S.T. GROUPE",
+        "ISIN": "FR0000076887",
+        "Symbole": "ASP"
+    },
+    {
+        "Nom": "A2MICILE EUROPE",
+        "ISIN": "FR0010795476",
+        "Symbole": "ALA2M"
+    },
+    {
+        "Nom": "AALBERTS INDUSTR",
+        "ISIN": "NL0000852564",
+        "Symbole": "AALB"
+    },
+    {
+        "Nom": "AB INBEV",
+        "ISIN": "BE0974293251",
+        "Symbole": "ABI"
+    },
+    {
+        "Nom": "AB SCIENCE",
+        "ISIN": "FR0010557264",
+        "Symbole": "AB"
+    },
+    {
+        "Nom": "ABC ARBITRAGE",
+        "ISIN": "FR0004040608",
+        "Symbole": "ABCA"
+    },
+    {
+        "Nom": "ABC ORTHODONTICS",
+        "ISIN": "CH0044947239",
+        "Symbole": "MLABC"
+    },
+    {
+        "Nom": "ABCARBIBSAA29JUN18",
+        "ISIN": "FR0013254489",
+        "Symbole": "ABCBS"
+    },
+    {
+        "Nom": "ABEO",
+        "ISIN": "FR0013185857",
+        "Symbole": "ABEO"
+    },
+    {
+        "Nom": "ABIVAX",
+        "ISIN": "FR0012333284",
+        "Symbole": "ABVX"
+    },
+    {
+        "Nom": "ABLYNX",
+        "ISIN": "BE0003877942",
+        "Symbole": "ABLX"
+    },
+    {
+        "Nom": "ABN AMRO Group",
+        "ISIN": "NL0011540547",
+        "Symbole": "ABN"
+    },
+    {
+        "Nom": "ABO GROUP",
+        "ISIN": "BE0974278104",
+        "Symbole": "ABO"
+    },
+    {
+        "Nom": "ACACIA PHARMA",
+        "ISIN": "GB00BYWF9Y76",
+        "Symbole": "ACPH"
+    },
+    {
+        "Nom": "ACANTHE DEV.",
+        "ISIN": "FR0000064602",
+        "Symbole": "ACAN"
+    },
+    {
+        "Nom": "ACCELL GROUP",
+        "ISIN": "NL0009767532",
+        "Symbole": "ACCEL"
+    },
+    {
+        "Nom": "ACCENTIS",
+        "ISIN": "BE0003696102",
+        "Symbole": "ACCB"
+    },
+    {
+        "Nom": "ACCOR",
+        "ISIN": "FR0000120404",
+        "Symbole": "AC"
+    },
+    {
+        "Nom": "ACCOR NV18",
+        "ISIN": "FR0013306149",
+        "Symbole": "ACNV"
+    },
+    {
+        "Nom": "ACCSYS",
+        "ISIN": "GB00BQQFX454",
+        "Symbole": "AXS"
+    },
+    {
+        "Nom": "ACEP FRANCE",
+        "ISIN": "FR0010762740",
+        "Symbole": "MLACP"
+    },
+    {
+        "Nom": "ACHETER-LOUER.FR",
+        "ISIN": "FR0010493510",
+        "Symbole": "ALALO"
+    },
+    {
+        "Nom": "ACKERMANS V.HAAREN",
+        "ISIN": "BE0003764785",
+        "Symbole": "ACKB"
+    },
+    {
+        "Nom": "ACTEOS",
+        "ISIN": "FR0000076861",
+        "Symbole": "EOS"
+    },
+    {
+        "Nom": "ACTIA GROUP",
+        "ISIN": "FR0000076655",
+        "Symbole": "ATI"
+    },
+    {
+        "Nom": "ACTIPLAY (GROUPE)",
+        "ISIN": "FR0011038348",
+        "Symbole": "ALACT"
+    },
+    {
+        "Nom": "ACTIVIUM GROUP",
+        "ISIN": "FR0010979377",
+        "Symbole": "MLACT"
+    },
+    {
+        "Nom": "ADA",
+        "ISIN": "FR0000053076",
+        "Symbole": "ALADA"
+    },
+    {
+        "Nom": "ADC SIIC",
+        "ISIN": "BE0974269012",
+        "Symbole": "ALDV"
+    },
+    {
+        "Nom": "ADEUNIS",
+        "ISIN": "FR0013284627",
+        "Symbole": "ALARF"
+    },
+    {
+        "Nom": "ADL PARTNER",
+        "ISIN": "FR0000062978",
+        "Symbole": "ALP"
+    },
+    {
+        "Nom": "ADOCIA",
+        "ISIN": "FR0011184241",
+        "Symbole": "ADOC"
+    },
+    {
+        "Nom": "ADOMOS",
+        "ISIN": "FR0013247244",
+        "Symbole": "ALADO"
+    },
+    {
+        "Nom": "ADOMOS BS",
+        "ISIN": "FR0013247228",
+        "Symbole": "ALABS"
+    },
+    {
+        "Nom": "ADP",
+        "ISIN": "FR0010340141",
+        "Symbole": "ADP"
+    },
+    {
+        "Nom": "ADTHINK MEDIA",
+        "ISIN": "FR0010457531",
+        "Symbole": "ALADM"
+    },
+    {
+        "Nom": "ADUX",
+        "ISIN": "FR0012821890",
+        "Symbole": "ADUX"
+    },
+    {
+        "Nom": "ADVENIS",
+        "ISIN": "FR0004152874",
+        "Symbole": "ADV"
+    },
+    {
+        "Nom": "ADVICENNE",
+        "ISIN": "FR0013296746",
+        "Symbole": "ADVIC"
+    },
+    {
+        "Nom": "ADVINI",
+        "ISIN": "FR0000053043",
+        "Symbole": "ADVI"
+    },
+    {
+        "Nom": "AEDIFICA",
+        "ISIN": "BE0003851681",
+        "Symbole": "AED"
+    },
+    {
+        "Nom": "AEGON",
+        "ISIN": "NL0000303709",
+        "Symbole": "AGN"
+    },
+    {
+        "Nom": "AFFINE R.E.",
+        "ISIN": "FR0000036105",
+        "Symbole": "IML"
+    },
+    {
+        "Nom": "AFONE PARTICIP.",
+        "ISIN": "FR0000044612",
+        "Symbole": "AFO"
+    },
+    {
+        "Nom": "AFRIQUE TELECOM",
+        "ISIN": "FR0011233659",
+        "Symbole": "MLAFT"
+    },
+    {
+        "Nom": "AG3I",
+        "ISIN": "FR0011908045",
+        "Symbole": "MLAGI"
+    },
+    {
+        "Nom": "AGEAS",
+        "ISIN": "BE0974264930",
+        "Symbole": "AGS"
+    },
+    {
+        "Nom": "AGFA-GEVAERT",
+        "ISIN": "BE0003755692",
+        "Symbole": "AGFB"
+    },
+    {
+        "Nom": "AGROGENERATION",
+        "ISIN": "FR0010641449",
+        "Symbole": "ALAGR"
+    },
+    {
+        "Nom": "AGTA RECORD",
+        "ISIN": "CH0008853209",
+        "Symbole": "AGTA"
+    },
+    {
+        "Nom": "AGUAS DA CURIA",
+        "ISIN": "PTCUR0AP0000",
+        "Symbole": "CUR"
+    },
+    {
+        "Nom": "AHOLD DEL",
+        "ISIN": "NL0011794037",
+        "Symbole": "AD"
+    },
+    {
+        "Nom": "AIR FRANCE -KLM",
+        "ISIN": "FR0000031122",
+        "Symbole": "AF"
+    },
+    {
+        "Nom": "AIR LIQUIDE",
+        "ISIN": "FR0000120073",
+        "Symbole": "AI"
+    },
+    {
+        "Nom": "AIR MARINE",
+        "ISIN": "FR0013285103",
+        "Symbole": "MLAIM"
+    },
+    {
+        "Nom": "AIRBUS",
+        "ISIN": "NL0000235190",
+        "Symbole": "AIR"
+    },
+    {
+        "Nom": "AJAX",
+        "ISIN": "NL0000018034",
+        "Symbole": "AJAX"
+    },
+    {
+        "Nom": "AKKA TECHNOLOGIES",
+        "ISIN": "FR0004180537",
+        "Symbole": "AKA"
+    },
+    {
+        "Nom": "AKZO NOBEL",
+        "ISIN": "NL0000009132",
+        "Symbole": "AKZA"
+    },
+    {
+        "Nom": "ALBIOMA",
+        "ISIN": "FR0000060402",
+        "Symbole": "ABIO"
+    },
+    {
+        "Nom": "ALD",
+        "ISIN": "FR0013258662",
+        "Symbole": "ALD"
+    },
+    {
+        "Nom": "ALES GROUPE",
+        "ISIN": "FR0000054652",
+        "Symbole": "ALPHY"
+    },
+    {
+        "Nom": "ALFEN",
+        "ISIN": "NL0012817175",
+        "Symbole": "ALFEN"
+    },
+    {
+        "Nom": "ALPES (COMPAGNIE)",
+        "ISIN": "FR0000053324",
+        "Symbole": "CDA"
+    },
+    {
+        "Nom": "ALPHA MOS",
+        "ISIN": "FR0000062804",
+        "Symbole": "ALM"
+    },
+    {
+        "Nom": "ALSTOM",
+        "ISIN": "FR0010220475",
+        "Symbole": "ALO"
+    },
+    {
+        "Nom": "ALTAMIR",
+        "ISIN": "FR0000053837",
+        "Symbole": "LTA"
+    },
+    {
+        "Nom": "ALTAREA",
+        "ISIN": "FR0000033219",
+        "Symbole": "ALTA"
+    },
+    {
+        "Nom": "ALTAREIT",
+        "ISIN": "FR0000039216",
+        "Symbole": "AREIT"
+    },
+    {
+        "Nom": "ALTEN",
+        "ISIN": "FR0000071946",
+        "Symbole": "ATE"
+    },
+    {
+        "Nom": "ALTICE",
+        "ISIN": "NL0011333752",
+        "Symbole": "ATC"
+    },
+    {
+        "Nom": "ALTICE B",
+        "ISIN": "NL0011333760",
+        "Symbole": "ATCB"
+    },
+    {
+        "Nom": "ALTRAN DS",
+        "ISIN": "FR0013324498",
+        "Symbole": "ALTDS"
+    },
+    {
+        "Nom": "ALTRAN TECHN.",
+        "ISIN": "FR0000034639",
+        "Symbole": "ALT"
+    },
+    {
+        "Nom": "ALTRI SGPS",
+        "ISIN": "PTALT0AE0002",
+        "Symbole": "ALTR"
+    },
+    {
+        "Nom": "ALTUR INVEST.",
+        "ISIN": "FR0010395681",
+        "Symbole": "ALTUR"
+    },
+    {
+        "Nom": "ALUMEXX N.V.",
+        "ISIN": "NL0012194724",
+        "Symbole": "ALX"
+    },
+    {
+        "Nom": "ALVEEN",
+        "ISIN": "FR0013253812",
+        "Symbole": "MLALV"
+    },
+    {
+        "Nom": "AMATHEON AGRI",
+        "ISIN": "NL0010273694",
+        "Symbole": "MLAAH"
+    },
+    {
+        "Nom": "AMG",
+        "ISIN": "NL0000888691",
+        "Symbole": "AMG"
+    },
+    {
+        "Nom": "AMOEBA",
+        "ISIN": "FR0011051598",
+        "Symbole": "AMEBA"
+    },
+    {
+        "Nom": "AMPLITUDE SURGICAL",
+        "ISIN": "FR0012789667",
+        "Symbole": "AMPLI"
+    },
+    {
+        "Nom": "AMSTERDAM COMMOD.",
+        "ISIN": "NL0000313286",
+        "Symbole": "ACOMO"
+    },
+    {
+        "Nom": "AMUNDI",
+        "ISIN": "FR0004125920",
+        "Symbole": "AMUN"
+    },
+    {
+        "Nom": "AND INTERNATIONAL",
+        "ISIN": "NL0000430106",
+        "Symbole": "AND"
+    },
+    {
+        "Nom": "ANEVIA",
+        "ISIN": "FR0011910652",
+        "Symbole": "ALANV"
+    },
+    {
+        "Nom": "ANEVIA BS",
+        "ISIN": "FR0013268091",
+        "Symbole": "ANVBS"
+    },
+    {
+        "Nom": "ANF IMMOBILIER",
+        "ISIN": "FR0000063091",
+        "Symbole": "ANF"
+    },
+    {
+        "Nom": "ANTALIS INTERNATIO",
+        "ISIN": "FR0013258589",
+        "Symbole": "ANTA"
+    },
+    {
+        "Nom": "ANTARES CERT",
+        "ISIN": "BE0003676872",
+        "Symbole": "ANT"
+    },
+    {
+        "Nom": "ANTEVENIO",
+        "ISIN": "ES0109429037",
+        "Symbole": "ALANT"
+    },
+    {
+        "Nom": "AP ALTERNAT ASSETS",
+        "ISIN": "GB00B15Y0C52",
+        "Symbole": "AAA"
+    },
+    {
+        "Nom": "APERAM",
+        "ISIN": "LU0569974404",
+        "Symbole": "APAM"
+    },
+    {
+        "Nom": "APRIL",
+        "ISIN": "FR0004037125",
+        "Symbole": "APR"
+    },
+    {
+        "Nom": "APRIL GROUP NV18",
+        "ISIN": "FR0013306172",
+        "Symbole": "APRNV"
+    },
+    {
+        "Nom": "AQUILA",
+        "ISIN": "FR0010340711",
+        "Symbole": "ALAQU"
+    },
+    {
+        "Nom": "ARCADIS",
+        "ISIN": "NL0006237562",
+        "Symbole": "ARCAD"
+    },
+    {
+        "Nom": "ARCELORMITTAL SA",
+        "ISIN": "LU1598757687",
+        "Symbole": "MT"
+    },
+    {
+        "Nom": "ARCHOS",
+        "ISIN": "FR0000182479",
+        "Symbole": "JXR"
+    },
+    {
+        "Nom": "ARCHOS BSAR 2018",
+        "ISIN": "FR0013279692",
+        "Symbole": "JXRBS"
+    },
+    {
+        "Nom": "ARDOIN ST AMAND A",
+        "ISIN": "FR0005057635",
+        "Symbole": "MLARD"
+    },
+    {
+        "Nom": "ARDOIN ST AMAND B",
+        "ISIN": "FR0004070795",
+        "Symbole": "ARDO"
+    },
+    {
+        "Nom": "ARGAN",
+        "ISIN": "FR0010481960",
+        "Symbole": "ARG"
+    },
+    {
+        "Nom": "ARGENX SE",
+        "ISIN": "NL0010832176",
+        "Symbole": "ARGX"
+    },
+    {
+        "Nom": "ARKEMA",
+        "ISIN": "FR0010313833",
+        "Symbole": "AKE"
+    },
+    {
+        "Nom": "ARKEMA NV18",
+        "ISIN": "FR0013308863",
+        "Symbole": "AKENV"
+    },
+    {
+        "Nom": "ARTEA",
+        "ISIN": "FR0012185536",
+        "Symbole": "ARTE"
+    },
+    {
+        "Nom": "ARTEFACT",
+        "ISIN": "FR0000079683",
+        "Symbole": "ALATF"
+    },
+    {
+        "Nom": "ARTHUR MAURY",
+        "ISIN": "FR0013268067",
+        "Symbole": "MLAMY"
+    },
+    {
+        "Nom": "ARTOIS NOM.",
+        "ISIN": "FR0000076952",
+        "Symbole": "ARTO"
+    },
+    {
+        "Nom": "ARTPRICE COM",
+        "ISIN": "FR0000074783",
+        "Symbole": "PRC"
+    },
+    {
+        "Nom": "ASCENCIO",
+        "ISIN": "BE0003856730",
+        "Symbole": "ASC"
+    },
+    {
+        "Nom": "ASHLER ET MANSON",
+        "ISIN": "FR0012968485",
+        "Symbole": "MLAEM"
+    },
+    {
+        "Nom": "ASIT",
+        "ISIN": "BE0974289218",
+        "Symbole": "ASIT"
+    },
+    {
+        "Nom": "ASM INTERNATIONAL",
+        "ISIN": "NL0000334118",
+        "Symbole": "ASM"
+    },
+    {
+        "Nom": "ASML HOLDING",
+        "ISIN": "NL0010273215",
+        "Symbole": "ASML"
+    },
+    {
+        "Nom": "ASR NEDERLAND",
+        "ISIN": "NL0011872643",
+        "Symbole": "ASRNL"
+    },
+    {
+        "Nom": "ASSICURAZ.GEN.ORD.",
+        "ISIN": "IT0000062072",
+        "Symbole": "GEN"
+    },
+    {
+        "Nom": "ASSIMA",
+        "ISIN": "GB00B19RTX44",
+        "Symbole": "ALSIM"
+    },
+    {
+        "Nom": "ASSYSTEM",
+        "ISIN": "FR0000074148",
+        "Symbole": "ASY"
+    },
+    {
+        "Nom": "ATARI",
+        "ISIN": "FR0010478248",
+        "Symbole": "ATA"
+    },
+    {
+        "Nom": "ATEME",
+        "ISIN": "FR0011992700",
+        "Symbole": "ATEME"
+    },
+    {
+        "Nom": "ATENOR",
+        "ISIN": "BE0003837540",
+        "Symbole": "ATEB"
+    },
+    {
+        "Nom": "ATOS",
+        "ISIN": "FR0000051732",
+        "Symbole": "ATO"
+    },
+    {
+        "Nom": "ATOS NV18",
+        "ISIN": "FR0013306180",
+        "Symbole": "ATONV"
+    },
+    {
+        "Nom": "ATRIUM EUR REALEST",
+        "ISIN": "JE00B3DCF752",
+        "Symbole": "ATRS"
+    },
+    {
+        "Nom": "AUBAY",
+        "ISIN": "FR0000063737",
+        "Symbole": "AUB"
+    },
+    {
+        "Nom": "AUDIENCE LABS",
+        "ISIN": "FR0011896463",
+        "Symbole": "MLAUD"
+    },
+    {
+        "Nom": "AUFEMININ",
+        "ISIN": "FR0004042083",
+        "Symbole": "FEM"
+    },
+    {
+        "Nom": "AUGROS COSMETICS",
+        "ISIN": "FR0000061780",
+        "Symbole": "AUGR"
+    },
+    {
+        "Nom": "AUPLATA",
+        "ISIN": "FR0010397760",
+        "Symbole": "ALAUP"
+    },
+    {
+        "Nom": "AUREA",
+        "ISIN": "FR0000039232",
+        "Symbole": "AURE"
+    },
+    {
+        "Nom": "AURES TECHNOLOGIES",
+        "ISIN": "FR0013183589",
+        "Symbole": "AURS"
+    },
+    {
+        "Nom": "AVANTIUM",
+        "ISIN": "NL0012047823",
+        "Symbole": "AVTX"
+    },
+    {
+        "Nom": "AVENIR TELECOM",
+        "ISIN": "FR0000066052",
+        "Symbole": "AVT"
+    },
+    {
+        "Nom": "AVIATION LATECOERE",
+        "ISIN": "FR0000032278",
+        "Symbole": "LAT"
+    },
+    {
+        "Nom": "AWOX",
+        "ISIN": "FR0011800218",
+        "Symbole": "AWOX"
+    },
+    {
+        "Nom": "AXA",
+        "ISIN": "FR0000120628",
+        "Symbole": "CS"
+    },
+    {
+        "Nom": "AXA NV18",
+        "ISIN": "FR0013301256",
+        "Symbole": "CSNV"
+    },
+    {
+        "Nom": "AXWAY SOFTWARE",
+        "ISIN": "FR0011040500",
+        "Symbole": "AXW"
+    },
+    {
+        "Nom": "AZ LEASING",
+        "ISIN": "IT0004812258",
+        "Symbole": "MLAZL"
+    },
+    {
+        "Nom": "AZOREAN TECH",
+        "ISIN": "PTAZR0AM0006",
+        "Symbole": "MLAAT"
+    },
+    {
+        "Nom": "B&S Group",
+        "ISIN": "LU1789205884",
+        "Symbole": "BSGR"
+    },
+    {
+        "Nom": "B.COM.PORTUGUES",
+        "ISIN": "PTBCP0AM0015",
+        "Symbole": "BCP"
+    },
+    {
+        "Nom": "BACCARAT",
+        "ISIN": "FR0000064123",
+        "Symbole": "BCRA"
+    },
+    {
+        "Nom": "BAINS MER MONACO",
+        "ISIN": "MC0000031187",
+        "Symbole": "BAIN"
+    },
+    {
+        "Nom": "BALTA GROUP",
+        "ISIN": "BE0974314461",
+        "Symbole": "BALTA"
+    },
+    {
+        "Nom": "BALYO",
+        "ISIN": "FR0013258399",
+        "Symbole": "BALYO"
+    },
+    {
+        "Nom": "BAM GROEP KON",
+        "ISIN": "NL0000337319",
+        "Symbole": "BAMNB"
+    },
+    {
+        "Nom": "BANCO BILBAO VIZC.",
+        "ISIN": "ES0113211835",
+        "Symbole": "BBV"
+    },
+    {
+        "Nom": "BANCO BPI",
+        "ISIN": "PTBPI0AM0004",
+        "Symbole": "BPI"
+    },
+    {
+        "Nom": "BANCO SANTANDER",
+        "ISIN": "ES0113900J37",
+        "Symbole": "SANT"
+    },
+    {
+        "Nom": "BANCO SANTANDER",
+        "ISIN": "ES0113900J37",
+        "Symbole": "SANTA"
+    },
+    {
+        "Nom": "BANIMMO A",
+        "ISIN": "BE0003870871",
+        "Symbole": "BANI"
+    },
+    {
+        "Nom": "BARBARA BUI",
+        "ISIN": "FR0000062788",
+        "Symbole": "BUI"
+    },
+    {
+        "Nom": "BARCO",
+        "ISIN": "BE0003790079",
+        "Symbole": "BAR"
+    },
+    {
+        "Nom": "BASIC-FIT",
+        "ISIN": "NL0011872650",
+        "Symbole": "BFIT"
+    },
+    {
+        "Nom": "BASILIX CERT",
+        "ISIN": "BE0003674851",
+        "Symbole": "BAS"
+    },
+    {
+        "Nom": "BASTIDE LE CONFORT",
+        "ISIN": "FR0000035370",
+        "Symbole": "BLC"
+    },
+    {
+        "Nom": "BATENBURG TECHNIEK",
+        "ISIN": "NL0006292906",
+        "Symbole": "BATEN"
+    },
+    {
+        "Nom": "BATLA MINERALS",
+        "ISIN": "FR0010436170",
+        "Symbole": "MLBAT"
+    },
+    {
+        "Nom": "BD MULTI MEDIA",
+        "ISIN": "FR0000035305",
+        "Symbole": "ALBDM"
+    },
+    {
+        "Nom": "BE SEMICONDUCTOR",
+        "ISIN": "NL0000339760",
+        "Symbole": "BESI"
+    },
+    {
+        "Nom": "BEAULIEU-AV. CERT",
+        "ISIN": "BE0003661726",
+        "Symbole": "BEAB"
+    },
+    {
+        "Nom": "BEFIMMO",
+        "ISIN": "BE0003678894",
+        "Symbole": "BEFB"
+    },
+    {
+        "Nom": "BEKAERT",
+        "ISIN": "BE0974258874",
+        "Symbole": "BEKB"
+    },
+    {
+        "Nom": "BELIER",
+        "ISIN": "FR0000072399",
+        "Symbole": "BELI"
+    },
+    {
+        "Nom": "BELRECA",
+        "ISIN": "BE0020575115",
+        "Symbole": "BELR"
+    },
+    {
+        "Nom": "BELUGA",
+        "ISIN": "BE0003723377",
+        "Symbole": "BELU"
+    },
+    {
+        "Nom": "BENETEAU",
+        "ISIN": "FR0000035164",
+        "Symbole": "BEN"
+    },
+    {
+        "Nom": "BENFICA",
+        "ISIN": "PTSLB0AM0010",
+        "Symbole": "SLBEN"
+    },
+    {
+        "Nom": "BENI STABILI",
+        "ISIN": "IT0001389631",
+        "Symbole": "BNS"
+    },
+    {
+        "Nom": "BERNARD LOISEAU",
+        "ISIN": "FR0000066961",
+        "Symbole": "ALDBL"
+    },
+    {
+        "Nom": "BETER BED",
+        "ISIN": "NL0000339703",
+        "Symbole": "BBED"
+    },
+    {
+        "Nom": "BEVER HOLDING",
+        "ISIN": "NL0000285278",
+        "Symbole": "BEVER"
+    },
+    {
+        "Nom": "BIC",
+        "ISIN": "FR0000120966",
+        "Symbole": "BB"
+    },
+    {
+        "Nom": "BIG BEN INTER NV18",
+        "ISIN": "FR0013308806",
+        "Symbole": "BIGNV"
+    },
+    {
+        "Nom": "BIGBEN INTERACTIVE",
+        "ISIN": "FR0000074072",
+        "Symbole": "BIG"
+    },
+    {
+        "Nom": "BILENDI",
+        "ISIN": "FR0004174233",
+        "Symbole": "ALBLD"
+    },
+    {
+        "Nom": "BINCKBANK",
+        "ISIN": "NL0000335578",
+        "Symbole": "BINCK"
+    },
+    {
+        "Nom": "BIOCARTIS",
+        "ISIN": "BE0974281132",
+        "Symbole": "BCART"
+    },
+    {
+        "Nom": "BIOCORP",
+        "ISIN": "FR0012788065",
+        "Symbole": "ALCOR"
+    },
+    {
+        "Nom": "BIOM UP SA",
+        "ISIN": "FR0013284080",
+        "Symbole": "BUP"
+    },
+    {
+        "Nom": "BIOMERIEUX",
+        "ISIN": "FR0013280286",
+        "Symbole": "BIM"
+    },
+    {
+        "Nom": "BIOPHYTIS",
+        "ISIN": "FR0012816825",
+        "Symbole": "ALBPS"
+    },
+    {
+        "Nom": "BIOSYNEX",
+        "ISIN": "FR0011005933",
+        "Symbole": "ALBIO"
+    },
+    {
+        "Nom": "BLEECKER",
+        "ISIN": "FR0000062150",
+        "Symbole": "BLEE"
+    },
+    {
+        "Nom": "BLUE",
+        "ISIN": "FR0011592104",
+        "Symbole": "BLUE"
+    },
+    {
+        "Nom": "BLUE NV18",
+        "ISIN": "FR0013309358",
+        "Symbole": "BLUNV"
+    },
+    {
+        "Nom": "BLUELINEA",
+        "ISIN": "FR0011041011",
+        "Symbole": "ALBLU"
+    },
+    {
+        "Nom": "BNP PARIBAS ACT.A",
+        "ISIN": "FR0000131104",
+        "Symbole": "BNP"
+    },
+    {
+        "Nom": "BODY ONE",
+        "ISIN": "FR0010106039",
+        "Symbole": "MLONE"
+    },
+    {
+        "Nom": "BOEING COMPANY",
+        "ISIN": "US0970231058",
+        "Symbole": "BOEI"
+    },
+    {
+        "Nom": "BOIRON",
+        "ISIN": "FR0000061129",
+        "Symbole": "BOI"
+    },
+    {
+        "Nom": "BOLLORE",
+        "ISIN": "FR0000039299",
+        "Symbole": "BOL"
+    },
+    {
+        "Nom": "BOLLORE NV",
+        "ISIN": "FR0013281847",
+        "Symbole": "BOLNV"
+    },
+    {
+        "Nom": "BONDUELLE",
+        "ISIN": "FR0000063935",
+        "Symbole": "BON"
+    },
+    {
+        "Nom": "BONE THERAPEUTICS",
+        "ISIN": "BE0974280126",
+        "Symbole": "BOTHE"
+    },
+    {
+        "Nom": "BOSKALIS WESTMIN",
+        "ISIN": "NL0000852580",
+        "Symbole": "BOKA"
+    },
+    {
+        "Nom": "BOURBON CORP.",
+        "ISIN": "FR0004548873",
+        "Symbole": "GBB"
+    },
+    {
+        "Nom": "BOURRELIER GROUP",
+        "ISIN": "FR0000054421",
+        "Symbole": "ALBOU"
+    },
+    {
+        "Nom": "BOURSE DIRECT",
+        "ISIN": "FR0000074254",
+        "Symbole": "BSD"
+    },
+    {
+        "Nom": "BOUSSARD GAVAUD C",
+        "ISIN": "GG00B1XFMJ13",
+        "Symbole": "BGHLC"
+    },
+    {
+        "Nom": "BOUSSARD GAVAUDAN",
+        "ISIN": "GG00B1FQG453",
+        "Symbole": "BGHL"
+    },
+    {
+        "Nom": "BOUSSARD GHL GBP",
+        "ISIN": "GG00B39VMM07",
+        "Symbole": "BGHS"
+    },
+    {
+        "Nom": "BOUYGUES",
+        "ISIN": "FR0000120503",
+        "Symbole": "EN"
+    },
+    {
+        "Nom": "BOUYGUES NV18",
+        "ISIN": "FR0013296878",
+        "Symbole": "ENNV"
+    },
+    {
+        "Nom": "BPOST",
+        "ISIN": "BE0974268972",
+        "Symbole": "BPOST"
+    },
+    {
+        "Nom": "BQUE NAT. BELGIQUE",
+        "ISIN": "BE0003008019",
+        "Symbole": "BNB"
+    },
+    {
+        "Nom": "BRAS.OUEST AFRIC.",
+        "ISIN": "SN0008626971",
+        "Symbole": "BOAF"
+    },
+    {
+        "Nom": "BRASSERIE CAMEROUN",
+        "ISIN": "CM0000035113",
+        "Symbole": "BCAM"
+    },
+    {
+        "Nom": "BREDERODE",
+        "ISIN": "LU1068091351",
+        "Symbole": "BREB"
+    },
+    {
+        "Nom": "BRICO DISTRIB",
+        "ISIN": "FR0013110053",
+        "Symbole": "MLBRI"
+    },
+    {
+        "Nom": "BRILL KON",
+        "ISIN": "NL0000442523",
+        "Symbole": "BRILL"
+    },
+    {
+        "Nom": "BROOKFIELD ASSET M",
+        "ISIN": "CA1125851040",
+        "Symbole": "BAMA"
+    },
+    {
+        "Nom": "BRUNEL INTERNAT",
+        "ISIN": "NL0010776944",
+        "Symbole": "BRNL"
+    },
+    {
+        "Nom": "BUDGET TELECOM",
+        "ISIN": "FR0004172450",
+        "Symbole": "ALBUD"
+    },
+    {
+        "Nom": "BUDGET TELECOM BS",
+        "ISIN": "FR0013307329",
+        "Symbole": "BUDBS"
+    },
+    {
+        "Nom": "BUREAU VERITAS",
+        "ISIN": "FR0006174348",
+        "Symbole": "BVI"
+    },
+    {
+        "Nom": "BUREAU VERITASNV18",
+        "ISIN": "FR0013308830",
+        "Symbole": "BVINV"
+    },
+    {
+        "Nom": "BURELLE",
+        "ISIN": "FR0000061137",
+        "Symbole": "BUR"
+    },
+    {
+        "Nom": "BUSINESS ET DECIS.",
+        "ISIN": "FR0000078958",
+        "Symbole": "BND"
+    },
+    {
+        "Nom": "CA TOULOUSE 31 CCI",
+        "ISIN": "FR0000045544",
+        "Symbole": "CAT31"
+    },
+    {
+        "Nom": "CAFOM",
+        "ISIN": "FR0010151589",
+        "Symbole": "CAFO"
+    },
+    {
+        "Nom": "CAIRE",
+        "ISIN": "FR0010781377",
+        "Symbole": "MLAAE"
+    },
+    {
+        "Nom": "CAMBODGE NOM.",
+        "ISIN": "FR0000079659",
+        "Symbole": "CBDG"
+    },
+    {
+        "Nom": "CAMPINE",
+        "ISIN": "BE0003825420",
+        "Symbole": "CAMB"
+    },
+    {
+        "Nom": "CANDELA INVEST",
+        "ISIN": "BE0974298300",
+        "Symbole": "CAND"
+    },
+    {
+        "Nom": "CAPELLI",
+        "ISIN": "FR0012969095",
+        "Symbole": "CAPLI"
+    },
+    {
+        "Nom": "CAPGEMINI",
+        "ISIN": "FR0000125338",
+        "Symbole": "CAP"
+    },
+    {
+        "Nom": "CARBIOS",
+        "ISIN": "FR0011648716",
+        "Symbole": "ALCRB"
+    },
+    {
+        "Nom": "CARBIOS BS",
+        "ISIN": "FR0013297587",
+        "Symbole": "CRBBS"
+    },
+    {
+        "Nom": "CARE PROPERTY INV.",
+        "ISIN": "BE0974273055",
+        "Symbole": "CPINV"
+    },
+    {
+        "Nom": "CARMAT",
+        "ISIN": "FR0010907956",
+        "Symbole": "ALCAR"
+    },
+    {
+        "Nom": "CARMILA",
+        "ISIN": "FR0010828137",
+        "Symbole": "CARM"
+    },
+    {
+        "Nom": "CARPINIENNE PART.",
+        "ISIN": "FR0000064156",
+        "Symbole": "CARP"
+    },
+    {
+        "Nom": "CARREFOUR",
+        "ISIN": "FR0000120172",
+        "Symbole": "CA"
+    },
+    {
+        "Nom": "CASINO GUICHARD",
+        "ISIN": "FR0000125585",
+        "Symbole": "CO"
+    },
+    {
+        "Nom": "CAST",
+        "ISIN": "FR0000072894",
+        "Symbole": "CAS"
+    },
+    {
+        "Nom": "CATANA GROUP",
+        "ISIN": "FR0010193052",
+        "Symbole": "CATG"
+    },
+    {
+        "Nom": "CATANA GROUP DS",
+        "ISIN": "FR0013323748",
+        "Symbole": "CATDS"
+    },
+    {
+        "Nom": "CATERING INTL SCES",
+        "ISIN": "FR0000064446",
+        "Symbole": "CTRG"
+    },
+    {
+        "Nom": "CATERPILLAR INC",
+        "ISIN": "US1491231015",
+        "Symbole": "CATR"
+    },
+    {
+        "Nom": "CBO TERRITORIA",
+        "ISIN": "FR0010193979",
+        "Symbole": "CBOT"
+    },
+    {
+        "Nom": "CECURITY.COM",
+        "ISIN": "FR0010717579",
+        "Symbole": "MLCEC"
+    },
+    {
+        "Nom": "CEGEDIM",
+        "ISIN": "FR0000053506",
+        "Symbole": "CGM"
+    },
+    {
+        "Nom": "CEGEREAL",
+        "ISIN": "FR0010309096",
+        "Symbole": "CGR"
+    },
+    {
+        "Nom": "CELLECTIS",
+        "ISIN": "FR0010425595",
+        "Symbole": "ALCLS"
+    },
+    {
+        "Nom": "CELLNOVO",
+        "ISIN": "FR0012633360",
+        "Symbole": "CLNV"
+    },
+    {
+        "Nom": "CELYAD",
+        "ISIN": "BE0974260896",
+        "Symbole": "CYAD"
+    },
+    {
+        "Nom": "CENERGY",
+        "ISIN": "BE0974303357",
+        "Symbole": "CENER"
+    },
+    {
+        "Nom": "CERENIS",
+        "ISIN": "FR0012616852",
+        "Symbole": "CEREN"
+    },
+    {
+        "Nom": "CERINNOV GROUP",
+        "ISIN": "FR0013178712",
+        "Symbole": "ALPCV"
+    },
+    {
+        "Nom": "CESAR",
+        "ISIN": "FR0013297165",
+        "Symbole": "ALCES"
+    },
+    {
+        "Nom": "CFE",
+        "ISIN": "BE0003883031",
+        "Symbole": "CFEB"
+    },
+    {
+        "Nom": "CFI",
+        "ISIN": "FR0000037475",
+        "Symbole": "CFI"
+    },
+    {
+        "Nom": "CFM INDOSUEZWEALTH",
+        "ISIN": "MC0010000826",
+        "Symbole": "MLCFM"
+    },
+    {
+        "Nom": "CGG",
+        "ISIN": "FR0013181864",
+        "Symbole": "CGG"
+    },
+    {
+        "Nom": "CGG BSA 1",
+        "ISIN": "FR0013309614",
+        "Symbole": "CGGBS"
+    },
+    {
+        "Nom": "CGG BSA 2",
+        "ISIN": "FR0013309622",
+        "Symbole": "CGGBT"
+    },
+    {
+        "Nom": "CGG NV18",
+        "ISIN": "FR0013308756",
+        "Symbole": "CGGNV"
+    },
+    {
+        "Nom": "CH.FER DEPARTEMENT",
+        "ISIN": "FR0000037871",
+        "Symbole": "MLCFD"
+    },
+    {
+        "Nom": "CH.FER VAR GARD N.",
+        "ISIN": "FR0000051567",
+        "Symbole": "MLCVG"
+    },
+    {
+        "Nom": "CHARGEURS",
+        "ISIN": "FR0000130692",
+        "Symbole": "CRI"
+    },
+    {
+        "Nom": "CHARGEURS NV",
+        "ISIN": "FR0013282464",
+        "Symbole": "CRINV"
+    },
+    {
+        "Nom": "CHAUF.URB.",
+        "ISIN": "FR0000052896",
+        "Symbole": "CHAU"
+    },
+    {
+        "Nom": "CHAUSSERIA",
+        "ISIN": "FR0000060907",
+        "Symbole": "CHSR"
+    },
+    {
+        "Nom": "CHEOPS TECHNOLOGY",
+        "ISIN": "FR0010447086",
+        "Symbole": "MLCHE"
+    },
+    {
+        "Nom": "CHEVRON",
+        "ISIN": "US1667641005",
+        "Symbole": "CHTEX"
+    },
+    {
+        "Nom": "CHINA FOREST",
+        "ISIN": "HK0000049327",
+        "Symbole": "MLCFI"
+    },
+    {
+        "Nom": "CHINA SUPER POWER",
+        "ISIN": "HK0000043510",
+        "Symbole": "MLCSP"
+    },
+    {
+        "Nom": "CHRISTIAN DIOR",
+        "ISIN": "FR0000130403",
+        "Symbole": "CDI"
+    },
+    {
+        "Nom": "CHRISTIAN POTIER",
+        "ISIN": "FR0000079477",
+        "Symbole": "MLCHP"
+    },
+    {
+        "Nom": "CIBOX INTER A CTIV",
+        "ISIN": "FR0000054322",
+        "Symbole": "CIB"
+    },
+    {
+        "Nom": "CIE BOIS SAUVAGE",
+        "ISIN": "BE0003592038",
+        "Symbole": "COMB"
+    },
+    {
+        "Nom": "CIE DU MONT BLANC",
+        "ISIN": "FR0000060428",
+        "Symbole": "MLCMB"
+    },
+    {
+        "Nom": "CIOA",
+        "ISIN": "FR0012384907",
+        "Symbole": "MLCIO"
+    },
+    {
+        "Nom": "CIPAN",
+        "ISIN": "PTCPN0AE0002",
+        "Symbole": "CPN"
+    },
+    {
+        "Nom": "CISCO SYSTEM INC",
+        "ISIN": "US17275R1023",
+        "Symbole": "CIS"
+    },
+    {
+        "Nom": "CJS PLV",
+        "ISIN": "FR0000074361",
+        "Symbole": "MLCJS"
+    },
+    {
+        "Nom": "CLARANOVA",
+        "ISIN": "FR0004026714",
+        "Symbole": "CLA"
+    },
+    {
+        "Nom": "CLASQUIN",
+        "ISIN": "FR0004152882",
+        "Symbole": "ALCLA"
+    },
+    {
+        "Nom": "CNIM CONSTR.FRF 10",
+        "ISIN": "FR0000053399",
+        "Symbole": "COM"
+    },
+    {
+        "Nom": "CNOVA",
+        "ISIN": "NL0010949392",
+        "Symbole": "CNV"
+    },
+    {
+        "Nom": "CNP ASSURANCES",
+        "ISIN": "FR0000120222",
+        "Symbole": "CNP"
+    },
+    {
+        "Nom": "CO.BR.HA",
+        "ISIN": "BE0003519270",
+        "Symbole": "COBH"
+    },
+    {
+        "Nom": "COCA-COLA EUROPEAN",
+        "ISIN": "GB00BDCPN049",
+        "Symbole": "CCE"
+    },
+    {
+        "Nom": "COFACE",
+        "ISIN": "FR0010667147",
+        "Symbole": "COFA"
+    },
+    {
+        "Nom": "COFIDUR",
+        "ISIN": "FR0013257409",
+        "Symbole": "ALCOF"
+    },
+    {
+        "Nom": "COFINA,SGPS",
+        "ISIN": "PTCFN0AE0003",
+        "Symbole": "CFN"
+    },
+    {
+        "Nom": "COFINIMMO",
+        "ISIN": "BE0003593044",
+        "Symbole": "COFB"
+    },
+    {
+        "Nom": "COFINIMMO PRIV1",
+        "ISIN": "BE0003811289",
+        "Symbole": "COFP1"
+    },
+    {
+        "Nom": "COFINIMMO PRIV2",
+        "ISIN": "BE0003813301",
+        "Symbole": "COFP2"
+    },
+    {
+        "Nom": "COGIFRANCE",
+        "ISIN": "FR0005516804",
+        "Symbole": "MLCOI"
+    },
+    {
+        "Nom": "COGRA",
+        "ISIN": "FR0011071570",
+        "Symbole": "ALCOG"
+    },
+    {
+        "Nom": "COGRA 48 BSAR",
+        "ISIN": "FR0013220530",
+        "Symbole": "COGBS"
+    },
+    {
+        "Nom": "COHERIS",
+        "ISIN": "FR0004031763",
+        "Symbole": "COH"
+    },
+    {
+        "Nom": "COIL",
+        "ISIN": "BE0160342011",
+        "Symbole": "ALCOI"
+    },
+    {
+        "Nom": "COLAS",
+        "ISIN": "FR0000121634",
+        "Symbole": "RE"
+    },
+    {
+        "Nom": "COLIPAYS",
+        "ISIN": "FR0010959684",
+        "Symbole": "MLCLP"
+    },
+    {
+        "Nom": "COLRUYT",
+        "ISIN": "BE0974256852",
+        "Symbole": "COLR"
+    },
+    {
+        "Nom": "COMPTA",
+        "ISIN": "PTCOM0AE0007",
+        "Symbole": "COMAE"
+    },
+    {
+        "Nom": "CONDOR TECHNOLOG",
+        "ISIN": "BE6252013725",
+        "Symbole": "MLMFI"
+    },
+    {
+        "Nom": "CONDURIL",
+        "ISIN": "PTCDU0AE0003",
+        "Symbole": "CDU"
+    },
+    {
+        "Nom": "CONNECT GROUP",
+        "ISIN": "BE0003786036",
+        "Symbole": "CONN"
+    },
+    {
+        "Nom": "CONSORT NT",
+        "ISIN": "FR0000077828",
+        "Symbole": "MLCNT"
+    },
+    {
+        "Nom": "COPAM",
+        "ISIN": "PTCPA0AP0006",
+        "Symbole": "CPA"
+    },
+    {
+        "Nom": "CORBION",
+        "ISIN": "NL0010583399",
+        "Symbole": "CRBN"
+    },
+    {
+        "Nom": "CORE LABORATORIES",
+        "ISIN": "NL0000200384",
+        "Symbole": "CLB"
+    },
+    {
+        "Nom": "COREP LIGHTING",
+        "ISIN": "FR0010035816",
+        "Symbole": "MLCOR"
+    },
+    {
+        "Nom": "CORTICEIRA AMORIM",
+        "ISIN": "PTCOR0AE0006",
+        "Symbole": "COR"
+    },
+    {
+        "Nom": "COURBET",
+        "ISIN": "FR0004998318",
+        "Symbole": "MLCOU"
+    },
+    {
+        "Nom": "COURBET AM.",
+        "ISIN": "FR0004998326",
+        "Symbole": "CRBT"
+    },
+    {
+        "Nom": "COURTOIS",
+        "ISIN": "FR0000065393",
+        "Symbole": "COUR"
+    },
+    {
+        "Nom": "CRCAM ALP.PROV.CCI",
+        "ISIN": "FR0000044323",
+        "Symbole": "CRAP"
+    },
+    {
+        "Nom": "CRCAM ATL.VEND.CCI",
+        "ISIN": "FR0000185506",
+        "Symbole": "CRAV"
+    },
+    {
+        "Nom": "CRCAM BRIE PIC2CCI",
+        "ISIN": "FR0010483768",
+        "Symbole": "CRBP2"
+    },
+    {
+        "Nom": "CRCAM ILLE-VIL.CCI",
+        "ISIN": "FR0000045213",
+        "Symbole": "CIV"
+    },
+    {
+        "Nom": "CRCAM LANGUED CCI",
+        "ISIN": "FR0010461053",
+        "Symbole": "CRLA"
+    },
+    {
+        "Nom": "CRCAM LOIRE HTE L.",
+        "ISIN": "FR0000045239",
+        "Symbole": "CRLO"
+    },
+    {
+        "Nom": "CRCAM MORBIHAN CCI",
+        "ISIN": "FR0000045551",
+        "Symbole": "CMO"
+    },
+    {
+        "Nom": "CRCAM NORD CCI",
+        "ISIN": "FR0000185514",
+        "Symbole": "CNF"
+    },
+    {
+        "Nom": "CRCAM NORM.SEINE",
+        "ISIN": "FR0000044364",
+        "Symbole": "CCN"
+    },
+    {
+        "Nom": "CRCAM PARIS ET IDF",
+        "ISIN": "FR0000045528",
+        "Symbole": "CAF"
+    },
+    {
+        "Nom": "CRCAM SUD R.A.CCI",
+        "ISIN": "FR0000045346",
+        "Symbole": "CRSU"
+    },
+    {
+        "Nom": "CRCAM TOURAINE CCI",
+        "ISIN": "FR0000045304",
+        "Symbole": "CRTO"
+    },
+    {
+        "Nom": "CREDIT AGRICOLE",
+        "ISIN": "FR0000045072",
+        "Symbole": "ACA"
+    },
+    {
+        "Nom": "CROSSJECT",
+        "ISIN": "FR0011716265",
+        "Symbole": "ALCJ"
+    },
+    {
+        "Nom": "CROSSJECT BSA",
+        "ISIN": "FR0013318003",
+        "Symbole": "ALCBS"
+    },
+    {
+        "Nom": "CROSSWOOD",
+        "ISIN": "FR0000050395",
+        "Symbole": "CROS"
+    },
+    {
+        "Nom": "CS (COMM.SYSTEMES)",
+        "ISIN": "FR0007317813",
+        "Symbole": "SX"
+    },
+    {
+        "Nom": "CTA HOLDING",
+        "ISIN": "FR0000054066",
+        "Symbole": "MLCTA"
+    },
+    {
+        "Nom": "CTAC",
+        "ISIN": "NL0000345577",
+        "Symbole": "CTAC"
+    },
+    {
+        "Nom": "CTT CORREIOS PORT",
+        "ISIN": "PTCTT0AM0001",
+        "Symbole": "CTT"
+    },
+    {
+        "Nom": "CURETIS",
+        "ISIN": "NL0011509294",
+        "Symbole": "CURE"
+    },
+    {
+        "Nom": "CUSTOM SOLUTIONS",
+        "ISIN": "FR0010889386",
+        "Symbole": "ALSOL"
+    },
+    {
+        "Nom": "CYBERGUN",
+        "ISIN": "FR0013204351",
+        "Symbole": "ALCYB"
+    },
+    {
+        "Nom": "D''IETEREN",
+        "ISIN": "BE0974259880",
+        "Symbole": "DIE"
+    },
+    {
+        "Nom": "D.L.S.I.",
+        "ISIN": "FR0010404368",
+        "Symbole": "ALDLS"
+    },
+    {
+        "Nom": "D2L GROUP",
+        "ISIN": "FR0012336675",
+        "Symbole": "MLGEL"
+    },
+    {
+        "Nom": "DALET",
+        "ISIN": "FR0011026749",
+        "Symbole": "DLT"
+    },
+    {
+        "Nom": "DAMARIS",
+        "ISIN": "FR0000077885",
+        "Symbole": "MLDAM"
+    },
+    {
+        "Nom": "DAMARTEX",
+        "ISIN": "FR0000185423",
+        "Symbole": "ALDAR"
+    },
+    {
+        "Nom": "DANONE",
+        "ISIN": "FR0000120644",
+        "Symbole": "BN"
+    },
+    {
+        "Nom": "DASSAULT AVIATION",
+        "ISIN": "FR0000121725",
+        "Symbole": "AM"
+    },
+    {
+        "Nom": "DASSAULT SYS NV18",
+        "ISIN": "FR0013306206",
+        "Symbole": "DSYNV"
+    },
+    {
+        "Nom": "DASSAULT SYSTEMES",
+        "ISIN": "FR0000130650",
+        "Symbole": "DSY"
+    },
+    {
+        "Nom": "DATBIM",
+        "ISIN": "FR0004177939",
+        "Symbole": "MLDTB"
+    },
+    {
+        "Nom": "DBT",
+        "ISIN": "FR0013066750",
+        "Symbole": "ALDBT"
+    },
+    {
+        "Nom": "DBV TECHNOLOGIES",
+        "ISIN": "FR0010417345",
+        "Symbole": "DBV"
+    },
+    {
+        "Nom": "DEBFLEX",
+        "ISIN": "FR0010776658",
+        "Symbole": "MLDEX"
+    },
+    {
+        "Nom": "DECEUNINCK",
+        "ISIN": "BE0003789063",
+        "Symbole": "DECB"
+    },
+    {
+        "Nom": "DEINOVE",
+        "ISIN": "FR0010879056",
+        "Symbole": "ALDEI"
+    },
+    {
+        "Nom": "DELFINGEN",
+        "ISIN": "FR0000054132",
+        "Symbole": "ALDEL"
+    },
+    {
+        "Nom": "DELTA DRONE",
+        "ISIN": "FR0011522168",
+        "Symbole": "ALDR"
+    },
+    {
+        "Nom": "DELTA DRONE BSA",
+        "ISIN": "FR0013239977",
+        "Symbole": "ALDBS"
+    },
+    {
+        "Nom": "DELTA PLUS GROUP",
+        "ISIN": "FR0013283108",
+        "Symbole": "DLTA"
+    },
+    {
+        "Nom": "DERICHEBOURG",
+        "ISIN": "FR0000053381",
+        "Symbole": "DBG"
+    },
+    {
+        "Nom": "DESIGN YOUR HOME",
+        "ISIN": "SE0007045380",
+        "Symbole": "MLDYH"
+    },
+    {
+        "Nom": "DEUTSCHE TELEKOM",
+        "ISIN": "DE0005557508",
+        "Symbole": "DTEL"
+    },
+    {
+        "Nom": "DEVERNOIS",
+        "ISIN": "FR0000060840",
+        "Symbole": "ALDEV"
+    },
+    {
+        "Nom": "DEVOTEAM",
+        "ISIN": "FR0000073793",
+        "Symbole": "DVT"
+    },
+    {
+        "Nom": "DEXIA",
+        "ISIN": "BE0974290224",
+        "Symbole": "DEXB"
+    },
+    {
+        "Nom": "DGB GROUP N.V.",
+        "ISIN": "NL0009169515",
+        "Symbole": "DGB"
+    },
+    {
+        "Nom": "DIAGEO",
+        "ISIN": "GB0002374006",
+        "Symbole": "DGE"
+    },
+    {
+        "Nom": "DIAGNOSTIC MEDICAL",
+        "ISIN": "FR0012202497",
+        "Symbole": "DGM"
+    },
+    {
+        "Nom": "DIAXONHIT",
+        "ISIN": "FR0013240934",
+        "Symbole": "ALEHT"
+    },
+    {
+        "Nom": "DIEGEM KENNEDYCERT",
+        "ISIN": "BE0003698124",
+        "Symbole": "DIEG"
+    },
+    {
+        "Nom": "DIETSWELL",
+        "ISIN": "FR0010377127",
+        "Symbole": "ALDIE"
+    },
+    {
+        "Nom": "DIGIGRAM",
+        "ISIN": "FR0000035784",
+        "Symbole": "DIG"
+    },
+    {
+        "Nom": "DIGITECH",
+        "ISIN": "FR0000079824",
+        "Symbole": "MLDIG"
+    },
+    {
+        "Nom": "DIRECT ENERGIE",
+        "ISIN": "FR0004191674",
+        "Symbole": "DIREN"
+    },
+    {
+        "Nom": "DISTRI-LAND CERT",
+        "ISIN": "BE0003605160",
+        "Symbole": "DISL"
+    },
+    {
+        "Nom": "DNXCORP",
+        "ISIN": "FR0010436584",
+        "Symbole": "DNX"
+    },
+    {
+        "Nom": "DOCK.PETR.AMBES AM",
+        "ISIN": "FR0000065260",
+        "Symbole": "DPAM"
+    },
+    {
+        "Nom": "DOLPHIN INTEGRAT.",
+        "ISIN": "FR0004022754",
+        "Symbole": "ALDOL"
+    },
+    {
+        "Nom": "DOM SECURITY",
+        "ISIN": "FR0000052839",
+        "Symbole": "DOMS"
+    },
+    {
+        "Nom": "DPA GROUP",
+        "ISIN": "NL0009197771",
+        "Symbole": "DPA"
+    },
+    {
+        "Nom": "DRDGOLD",
+        "ISIN": "ZAE000058723",
+        "Symbole": "MLDUR"
+    },
+    {
+        "Nom": "DRONE VOLT",
+        "ISIN": "FR0013088606",
+        "Symbole": "ALDRV"
+    },
+    {
+        "Nom": "DRONE VOLT BS",
+        "ISIN": "FR0012860542",
+        "Symbole": "DRVBS"
+    },
+    {
+        "Nom": "DSM KON",
+        "ISIN": "NL0000009827",
+        "Symbole": "DSM"
+    },
+    {
+        "Nom": "DUTCH STAR C SHAR",
+        "ISIN": "NL0012747059",
+        "Symbole": "DSC1"
+    },
+    {
+        "Nom": "DUTCH STAR C WAR",
+        "ISIN": "NL0012747067",
+        "Symbole": "DSC1W"
+    },
+    {
+        "Nom": "DWC 3.0",
+        "ISIN": "IT0005154635",
+        "Symbole": "MLDWC"
+    },
+    {
+        "Nom": "DYNAFOND",
+        "ISIN": "FR0000052920",
+        "Symbole": "MLDYN"
+    },
+    {
+        "Nom": "DYNEX ENERGY SA",
+        "ISIN": "LU0881232630",
+        "Symbole": "MLDYX"
+    },
+    {
+        "Nom": "E.ON SE",
+        "ISIN": "DE000ENAG999",
+        "Symbole": "EON"
+    },
+    {
+        "Nom": "EASE2PAY NV",
+        "ISIN": "NL0000345627",
+        "Symbole": "EAS2P"
+    },
+    {
+        "Nom": "EASSON HOLDING",
+        "ISIN": "HK0000038783",
+        "Symbole": "MLEAS"
+    },
+    {
+        "Nom": "EASYVISTA",
+        "ISIN": "FR0010246322",
+        "Symbole": "ALEZV"
+    },
+    {
+        "Nom": "EAUX DE DOUAI",
+        "ISIN": "FR0005142999",
+        "Symbole": "MLEAU"
+    },
+    {
+        "Nom": "EAUX DE ROYAN",
+        "ISIN": "FR0007200100",
+        "Symbole": "MLEDR"
+    },
+    {
+        "Nom": "EAVS",
+        "ISIN": "FR0010536185",
+        "Symbole": "MLEAV"
+    },
+    {
+        "Nom": "ECA",
+        "ISIN": "FR0010099515",
+        "Symbole": "ECASA"
+    },
+    {
+        "Nom": "ECKERT-ZIEGLER BG",
+        "ISIN": "BE0974300320",
+        "Symbole": "EZBG"
+    },
+    {
+        "Nom": "ECOLUTIONS",
+        "ISIN": "DE000A0XYM45",
+        "Symbole": "MLECO"
+    },
+    {
+        "Nom": "ECONOCOM GROUP",
+        "ISIN": "BE0974313455",
+        "Symbole": "ECONB"
+    },
+    {
+        "Nom": "ECOSLOPS",
+        "ISIN": "FR0011490648",
+        "Symbole": "ALESA"
+    },
+    {
+        "Nom": "EDENRED",
+        "ISIN": "FR0010908533",
+        "Symbole": "EDEN"
+    },
+    {
+        "Nom": "EDENRED NV18",
+        "ISIN": "FR0013306214",
+        "Symbole": "EDENV"
+    },
+    {
+        "Nom": "EDF",
+        "ISIN": "FR0010242511",
+        "Symbole": "EDF"
+    },
+    {
+        "Nom": "EDITIONS DU SIGNE",
+        "ISIN": "FR0000052755",
+        "Symbole": "MLEDS"
+    },
+    {
+        "Nom": "EDP",
+        "ISIN": "PTEDP0AM0009",
+        "Symbole": "EDP"
+    },
+    {
+        "Nom": "EDP RENOVAVEIS",
+        "ISIN": "ES0127797019",
+        "Symbole": "EDPR"
+    },
+    {
+        "Nom": "EDUNIVERSAL",
+        "ISIN": "FR0010439265",
+        "Symbole": "MLEDU"
+    },
+    {
+        "Nom": "EES",
+        "ISIN": "FR0010945733",
+        "Symbole": "MLEES"
+    },
+    {
+        "Nom": "EGIDE",
+        "ISIN": "FR0000072373",
+        "Symbole": "GID"
+    },
+    {
+        "Nom": "EIFFAGE",
+        "ISIN": "FR0000130452",
+        "Symbole": "FGR"
+    },
+    {
+        "Nom": "EKINOPS",
+        "ISIN": "FR0011466069",
+        "Symbole": "EKI"
+    },
+    {
+        "Nom": "ELEC.STRASBOURG",
+        "ISIN": "FR0000031023",
+        "Symbole": "ELEC"
+    },
+    {
+        "Nom": "ELECTRO POWER",
+        "ISIN": "FR0012650166",
+        "Symbole": "EPS"
+    },
+    {
+        "Nom": "ELIA",
+        "ISIN": "BE0003822393",
+        "Symbole": "ELI"
+    },
+    {
+        "Nom": "ELIOR GROUP",
+        "ISIN": "FR0011950732",
+        "Symbole": "ELIOR"
+    },
+    {
+        "Nom": "ELIS",
+        "ISIN": "FR0012435121",
+        "Symbole": "ELIS"
+    },
+    {
+        "Nom": "EMAKINA GROUP",
+        "ISIN": "BE0003843605",
+        "Symbole": "ALEMK"
+    },
+    {
+        "Nom": "EMD MUSIC",
+        "ISIN": "BE0003849669",
+        "Symbole": "EMD"
+    },
+    {
+        "Nom": "EMOVA BS",
+        "ISIN": "FR0013245123",
+        "Symbole": "ALEBS"
+    },
+    {
+        "Nom": "EMOVA GROUP",
+        "ISIN": "FR0010554113",
+        "Symbole": "ALEMV"
+    },
+    {
+        "Nom": "ENCRES DUBUIT",
+        "ISIN": "FR0004030708",
+        "Symbole": "ALDUB"
+    },
+    {
+        "Nom": "ENERTIME",
+        "ISIN": "FR0011915339",
+        "Symbole": "ALENE"
+    },
+    {
+        "Nom": "ENGIE",
+        "ISIN": "FR0010208488",
+        "Symbole": "ENGI"
+    },
+    {
+        "Nom": "ENI",
+        "ISIN": "IT0003132476",
+        "Symbole": "ENI"
+    },
+    {
+        "Nom": "ENTREPARTICULIERS",
+        "ISIN": "FR0010424697",
+        "Symbole": "ALENT"
+    },
+    {
+        "Nom": "ENTREPRENDRE",
+        "ISIN": "FR0000045122",
+        "Symbole": "ALENR"
+    },
+    {
+        "Nom": "ENVIPCO",
+        "ISIN": "NL0009901610",
+        "Symbole": "ENVI"
+    },
+    {
+        "Nom": "ENVIRONNEMENT SA",
+        "ISIN": "FR0010278762",
+        "Symbole": "ALTEV"
+    },
+    {
+        "Nom": "EO2",
+        "ISIN": "FR0010465534",
+        "Symbole": "ALEO2"
+    },
+    {
+        "Nom": "EON MOTORS GROUP",
+        "ISIN": "FR0011612837",
+        "Symbole": "MLEMG"
+    },
+    {
+        "Nom": "EOS IMAGING",
+        "ISIN": "FR0011191766",
+        "Symbole": "EOSI"
+    },
+    {
+        "Nom": "ERAMET",
+        "ISIN": "FR0000131757",
+        "Symbole": "ERA"
+    },
+    {
+        "Nom": "ERYTECH PHARMA",
+        "ISIN": "FR0011471135",
+        "Symbole": "ERYP"
+    },
+    {
+        "Nom": "ESI GROUP",
+        "ISIN": "FR0004110310",
+        "Symbole": "ESI"
+    },
+    {
+        "Nom": "ESKER",
+        "ISIN": "FR0000035818",
+        "Symbole": "ALESK"
+    },
+    {
+        "Nom": "ESPERITE",
+        "ISIN": "NL0009272137",
+        "Symbole": "ESP"
+    },
+    {
+        "Nom": "ESSILOR INTER NV18",
+        "ISIN": "FR0013306222",
+        "Symbole": "EINV"
+    },
+    {
+        "Nom": "ESSILOR INTL.",
+        "ISIN": "FR0000121667",
+        "Symbole": "EI"
+    },
+    {
+        "Nom": "ESSO",
+        "ISIN": "FR0000120669",
+        "Symbole": "ES"
+    },
+    {
+        "Nom": "EST REPUBLICAIN",
+        "ISIN": "FR0005310463",
+        "Symbole": "MLEST"
+    },
+    {
+        "Nom": "ESTORIL SOL N",
+        "ISIN": "PTESO0AM0000",
+        "Symbole": "ESON"
+    },
+    {
+        "Nom": "EULER HERMES GROUP",
+        "ISIN": "FR0004254035",
+        "Symbole": "ELE"
+    },
+    {
+        "Nom": "EURASIA FONC INV",
+        "ISIN": "FR0000061475",
+        "Symbole": "EFI"
+    },
+    {
+        "Nom": "EURASIA GROUPE",
+        "ISIN": "FR0010844001",
+        "Symbole": "ALEUA"
+    },
+    {
+        "Nom": "EURAZEO",
+        "ISIN": "FR0000121121",
+        "Symbole": "RF"
+    },
+    {
+        "Nom": "EURO RESSOURCES",
+        "ISIN": "FR0000054678",
+        "Symbole": "EUR"
+    },
+    {
+        "Nom": "EUROCASTLE INVEST.",
+        "ISIN": "GB00B94QM994",
+        "Symbole": "ECT"
+    },
+    {
+        "Nom": "EUROCOMMERCIAL",
+        "ISIN": "NL0000288876",
+        "Symbole": "ECMPA"
+    },
+    {
+        "Nom": "EUROFINS CEREP",
+        "ISIN": "FR0013256518",
+        "Symbole": "ALECR"
+    },
+    {
+        "Nom": "EUROFINS NV18",
+        "ISIN": "FR0013308749",
+        "Symbole": "ERFNV"
+    },
+    {
+        "Nom": "EUROFINS SCIENT.",
+        "ISIN": "FR0000038259",
+        "Symbole": "ERF"
+    },
+    {
+        "Nom": "EUROGERM",
+        "ISIN": "FR0010452474",
+        "Symbole": "ALGEM"
+    },
+    {
+        "Nom": "EUROLAND CORPORATE",
+        "ISIN": "FR0010157115",
+        "Symbole": "MLERO"
+    },
+    {
+        "Nom": "EUROMEDIS GROUPE",
+        "ISIN": "FR0000075343",
+        "Symbole": "EMG"
+    },
+    {
+        "Nom": "EURONAV",
+        "ISIN": "BE0003816338",
+        "Symbole": "EURN"
+    },
+    {
+        "Nom": "EURONEXT",
+        "ISIN": "NL0006294274",
+        "Symbole": "ENX"
+    },
+    {
+        "Nom": "EURONEXT",
+        "ISIN": "NL0006294274",
+        "Symbole": "ENXP"
+    },
+    {
+        "Nom": "EUROPACORP",
+        "ISIN": "FR0010490920",
+        "Symbole": "ECP"
+    },
+    {
+        "Nom": "EUROPCAR",
+        "ISIN": "FR0012789949",
+        "Symbole": "EUCAR"
+    },
+    {
+        "Nom": "EUROPLASMA",
+        "ISIN": "FR0000044810",
+        "Symbole": "ALEUP"
+    },
+    {
+        "Nom": "EUROPLASMA BSB",
+        "ISIN": "FR0012160661",
+        "Symbole": "EURBT"
+    },
+    {
+        "Nom": "EUROPLASMA BSC",
+        "ISIN": "FR0013294089",
+        "Symbole": "EURBU"
+    },
+    {
+        "Nom": "EUROPUBLIDIS",
+        "ISIN": "BE0003842599",
+        "Symbole": "ALPBS"
+    },
+    {
+        "Nom": "EUTELSAT COMMUNIC.",
+        "ISIN": "FR0010221234",
+        "Symbole": "ETL"
+    },
+    {
+        "Nom": "EVADIX",
+        "ISIN": "BE0003840577",
+        "Symbole": "ALEVA"
+    },
+    {
+        "Nom": "EVERSET",
+        "ISIN": "FR0000044745",
+        "Symbole": "MLEVE"
+    },
+    {
+        "Nom": "EVOLIS",
+        "ISIN": "FR0004166197",
+        "Symbole": "ALTVO"
+    },
+    {
+        "Nom": "EVS BROADC.EQUIPM.",
+        "ISIN": "BE0003820371",
+        "Symbole": "EVS"
+    },
+    {
+        "Nom": "EXACOMPTA CLAIREF.",
+        "ISIN": "FR0000064164",
+        "Symbole": "EXAC"
+    },
+    {
+        "Nom": "EXEL INDUSTRIES",
+        "ISIN": "FR0004527638",
+        "Symbole": "EXE"
+    },
+    {
+        "Nom": "EXMAR",
+        "ISIN": "BE0003808251",
+        "Symbole": "EXM"
+    },
+    {
+        "Nom": "EXPLOS.PROD.CHI.PF",
+        "ISIN": "FR0000037343",
+        "Symbole": "EPCP"
+    },
+    {
+        "Nom": "EXPLOSIFS PROD.CHI",
+        "ISIN": "FR0000039026",
+        "Symbole": "EXPL"
+    },
+    {
+        "Nom": "F.RAMA",
+        "ISIN": "PTFRV0AE0004",
+        "Symbole": "RAM"
+    },
+    {
+        "Nom": "FAGRON",
+        "ISIN": "BE0003874915",
+        "Symbole": "FAGR"
+    },
+    {
+        "Nom": "FASHION B AIR",
+        "ISIN": "FR0004034593",
+        "Symbole": "ALFBA"
+    },
+    {
+        "Nom": "FAURECIA",
+        "ISIN": "FR0000121147",
+        "Symbole": "EO"
+    },
+    {
+        "Nom": "FAUVET GIREL",
+        "ISIN": "FR0000063034",
+        "Symbole": "FAUV"
+    },
+    {
+        "Nom": "FAYENC.SARREGUEMI.",
+        "ISIN": "FR0000031973",
+        "Symbole": "FAYE"
+    },
+    {
+        "Nom": "FD",
+        "ISIN": "FR0012300424",
+        "Symbole": "MLFDV"
+    },
+    {
+        "Nom": "FENALU",
+        "ISIN": "PTFEN0AP0006",
+        "Symbole": "FEN"
+    },
+    {
+        "Nom": "FERM.CAS.MUN.CANNE",
+        "ISIN": "FR0000062101",
+        "Symbole": "FCMC"
+    },
+    {
+        "Nom": "FERMENTALG",
+        "ISIN": "FR0011271600",
+        "Symbole": "FALG"
+    },
+    {
+        "Nom": "FFP",
+        "ISIN": "FR0000064784",
+        "Symbole": "FFP"
+    },
+    {
+        "Nom": "FIDUCIAL OFF.SOL.",
+        "ISIN": "FR0000061418",
+        "Symbole": "SACI"
+    },
+    {
+        "Nom": "FIDUCIAL REAL EST.",
+        "ISIN": "FR0000060535",
+        "Symbole": "ORIA"
+    },
+    {
+        "Nom": "FIGEAC AERO",
+        "ISIN": "FR0011665280",
+        "Symbole": "FGA"
+    },
+    {
+        "Nom": "FILAE",
+        "ISIN": "FR0010221069",
+        "Symbole": "ALFIL"
+    },
+    {
+        "Nom": "FIN.ETANG BERRE",
+        "ISIN": "FR0000062341",
+        "Symbole": "BERR"
+    },
+    {
+        "Nom": "FIN.ETANG BERRE PF",
+        "ISIN": "FR0000062507",
+        "Symbole": "EBPF"
+    },
+    {
+        "Nom": "FIN.OUEST AFRICAIN",
+        "ISIN": "SN0000033192",
+        "Symbole": "FOAF"
+    },
+    {
+        "Nom": "FINANCIER CROI INV",
+        "ISIN": "FR0010480517",
+        "Symbole": "MLFCI"
+    },
+    {
+        "Nom": "FINANCIERE MARJOS",
+        "ISIN": "FR0000060824",
+        "Symbole": "FINM"
+    },
+    {
+        "Nom": "FINANCIERE ODET",
+        "ISIN": "FR0000062234",
+        "Symbole": "ODET"
+    },
+    {
+        "Nom": "FINANCIERE SICOMAX",
+        "ISIN": "FR0000066797",
+        "Symbole": "MLSIC"
+    },
+    {
+        "Nom": "FINATIS",
+        "ISIN": "FR0000035123",
+        "Symbole": "FNTS"
+    },
+    {
+        "Nom": "FINAXO",
+        "ISIN": "FR0010487272",
+        "Symbole": "MLFXO"
+    },
+    {
+        "Nom": "FIPP",
+        "ISIN": "FR0000038184",
+        "Symbole": "FIPP"
+    },
+    {
+        "Nom": "FIRSTCAUTION",
+        "ISIN": "CH0120879058",
+        "Symbole": "MLFIR"
+    },
+    {
+        "Nom": "FLEURY MICHON",
+        "ISIN": "FR0000074759",
+        "Symbole": "FLE"
+    },
+    {
+        "Nom": "FLEURYMBSAR22MAR20",
+        "ISIN": "FR0011408731",
+        "Symbole": "FLEBS"
+    },
+    {
+        "Nom": "FLEXOS",
+        "ISIN": "BE0003885051",
+        "Symbole": "FLEX"
+    },
+    {
+        "Nom": "FLORIDIENNE",
+        "ISIN": "BE0003215143",
+        "Symbole": "FLOB"
+    },
+    {
+        "Nom": "FLOW TRADERS",
+        "ISIN": "NL0011279492",
+        "Symbole": "FLOW"
+    },
+    {
+        "Nom": "FLUXYS BELGIUM D",
+        "ISIN": "BE0974265945",
+        "Symbole": "FLUX"
+    },
+    {
+        "Nom": "FNAC DARTY",
+        "ISIN": "FR0011476928",
+        "Symbole": "FNAC"
+    },
+    {
+        "Nom": "FNG N.V.",
+        "ISIN": "NL0012047849",
+        "Symbole": "FNG"
+    },
+    {
+        "Nom": "FOCUS HOME INT",
+        "ISIN": "FR0012419307",
+        "Symbole": "ALFOC"
+    },
+    {
+        "Nom": "FONC ATLAND BSA",
+        "ISIN": "FR0012951028",
+        "Symbole": "FATBS"
+    },
+    {
+        "Nom": "FONC. PARIS NORD",
+        "ISIN": "FR0011277391",
+        "Symbole": "FPN"
+    },
+    {
+        "Nom": "FONC. VOLTA NV18",
+        "ISIN": "FR0013306073",
+        "Symbole": "SPENV"
+    },
+    {
+        "Nom": "FONC.DES REGIONS",
+        "ISIN": "FR0000064578",
+        "Symbole": "FDR"
+    },
+    {
+        "Nom": "FONCIERE 7 INVEST",
+        "ISIN": "FR0000065930",
+        "Symbole": "LEBL"
+    },
+    {
+        "Nom": "FONCIERE ATLAND",
+        "ISIN": "FR0000064362",
+        "Symbole": "FATL"
+    },
+    {
+        "Nom": "FONCIERE DES MURS",
+        "ISIN": "FR0000060303",
+        "Symbole": "FMU"
+    },
+    {
+        "Nom": "FONCIERE EURIS",
+        "ISIN": "FR0000038499",
+        "Symbole": "EURS"
+    },
+    {
+        "Nom": "FONCIERE INEA",
+        "ISIN": "FR0010341032",
+        "Symbole": "INEA"
+    },
+    {
+        "Nom": "FONCIERE LYONNAISE",
+        "ISIN": "FR0000033409",
+        "Symbole": "FLY"
+    },
+    {
+        "Nom": "FONCIERE VINDI",
+        "ISIN": "FR0011605617",
+        "Symbole": "MLVIN"
+    },
+    {
+        "Nom": "FONCIERE VOLTA",
+        "ISIN": "FR0000053944",
+        "Symbole": "SPEL"
+    },
+    {
+        "Nom": "FOOT LOCKER",
+        "ISIN": "US3448491049",
+        "Symbole": "FOOTL"
+    },
+    {
+        "Nom": "FORESTIERE EQUAT.",
+        "ISIN": "CI0000053161",
+        "Symbole": "FORE"
+    },
+    {
+        "Nom": "FORFARMERS",
+        "ISIN": "NL0011832811",
+        "Symbole": "FFARM"
+    },
+    {
+        "Nom": "FOUNTAIN",
+        "ISIN": "BE0003752665",
+        "Symbole": "FOU"
+    },
+    {
+        "Nom": "FOUNTAINE PAJOT",
+        "ISIN": "FR0010485268",
+        "Symbole": "ALFPC"
+    },
+    {
+        "Nom": "FRANCAISE ENERGIE",
+        "ISIN": "FR0013030152",
+        "Symbole": "LFDE"
+    },
+    {
+        "Nom": "FRANCE CHAUFFAGE",
+        "ISIN": "FR0004260479",
+        "Symbole": "MLFRC"
+    },
+    {
+        "Nom": "FRANCE TOURISME",
+        "ISIN": "FR0010823724",
+        "Symbole": "MLFTI"
+    },
+    {
+        "Nom": "FREELANCE BS 2018",
+        "ISIN": "FR0013229291",
+        "Symbole": "FREBS"
+    },
+    {
+        "Nom": "FREELANCE.COM",
+        "ISIN": "FR0004187367",
+        "Symbole": "ALFRE"
+    },
+    {
+        "Nom": "FREY",
+        "ISIN": "FR0010588079",
+        "Symbole": "FREY"
+    },
+    {
+        "Nom": "FROMAGERIES BEL",
+        "ISIN": "FR0000121857",
+        "Symbole": "FBEL"
+    },
+    {
+        "Nom": "FUDAKIN",
+        "ISIN": "HK0000058989",
+        "Symbole": "MLKIN"
+    },
+    {
+        "Nom": "FUGRO",
+        "ISIN": "NL0000352565",
+        "Symbole": "FUR"
+    },
+    {
+        "Nom": "FUT.CLUBE PORTO",
+        "ISIN": "PTFCP0AM0008",
+        "Symbole": "FCP"
+    },
+    {
+        "Nom": "FUTUREN",
+        "ISIN": "FR0011284991",
+        "Symbole": "FTRN"
+    },
+    {
+        "Nom": "G.A.I.",
+        "ISIN": "FR0000053415",
+        "Symbole": "MLGAI"
+    },
+    {
+        "Nom": "GALAPAGOS",
+        "ISIN": "BE0003818359",
+        "Symbole": "GLPG"
+    },
+    {
+        "Nom": "GALEO",
+        "ISIN": "FR0011100759",
+        "Symbole": "MLGAL"
+    },
+    {
+        "Nom": "GALIMMO",
+        "ISIN": "FR0000030611",
+        "Symbole": "GALIM"
+    },
+    {
+        "Nom": "GALLOO ILE DE FCE",
+        "ISIN": "FR0000077232",
+        "Symbole": "MLGRD"
+    },
+    {
+        "Nom": "GALP ENERGIA-NOM",
+        "ISIN": "PTGAL0AM0009",
+        "Symbole": "GALP"
+    },
+    {
+        "Nom": "GASCOGNE",
+        "ISIN": "FR0000124414",
+        "Symbole": "ALBI"
+    },
+    {
+        "Nom": "GAUMONT",
+        "ISIN": "FR0000034894",
+        "Symbole": "GAM"
+    },
+    {
+        "Nom": "GAUMONT NV18",
+        "ISIN": "FR0013308731",
+        "Symbole": "GAMNV"
+    },
+    {
+        "Nom": "GAUSSIN",
+        "ISIN": "FR0010342329",
+        "Symbole": "ALGAU"
+    },
+    {
+        "Nom": "GAUSSIN BSA",
+        "ISIN": "FR0013186061",
+        "Symbole": "GAUBT"
+    },
+    {
+        "Nom": "GAUSSIN BSAR",
+        "ISIN": "FR0011462803",
+        "Symbole": "GAUBS"
+    },
+    {
+        "Nom": "GBL",
+        "ISIN": "BE0003797140",
+        "Symbole": "GBLB"
+    },
+    {
+        "Nom": "GDS (144A) RUSAL",
+        "ISIN": "US9098831004",
+        "Symbole": "RUAL"
+    },
+    {
+        "Nom": "GDS (S) RUSAL",
+        "ISIN": "US9098832093",
+        "Symbole": "RUSAL"
+    },
+    {
+        "Nom": "GDS MOULINS STRAS.",
+        "ISIN": "FR0000064180",
+        "Symbole": "GDMS"
+    },
+    {
+        "Nom": "GEA GRENOBL.ELECT.",
+        "ISIN": "FR0000053035",
+        "Symbole": "GEA"
+    },
+    {
+        "Nom": "GECI INTL",
+        "ISIN": "FR0000079634",
+        "Symbole": "GECP"
+    },
+    {
+        "Nom": "GECI INTL BSAR A",
+        "ISIN": "FR0013266764",
+        "Symbole": "GECBT"
+    },
+    {
+        "Nom": "GECINA NOM.",
+        "ISIN": "FR0010040865",
+        "Symbole": "GFC"
+    },
+    {
+        "Nom": "GEMALTO",
+        "ISIN": "NL0000400653",
+        "Symbole": "GTO"
+    },
+    {
+        "Nom": "GENERAL ELECTRIC",
+        "ISIN": "US3696041033",
+        "Symbole": "GNE"
+    },
+    {
+        "Nom": "GENERIX GROUP FCE",
+        "ISIN": "FR0010501692",
+        "Symbole": "GENX"
+    },
+    {
+        "Nom": "GENEURO",
+        "ISIN": "CH0308403085",
+        "Symbole": "GNRO"
+    },
+    {
+        "Nom": "GENFIT",
+        "ISIN": "FR0004163111",
+        "Symbole": "GNFT"
+    },
+    {
+        "Nom": "GENK LOGIST. CERT",
+        "ISIN": "BE0003740546",
+        "Symbole": "GENK"
+    },
+    {
+        "Nom": "GENKYOTEX",
+        "ISIN": "FR0011790542",
+        "Symbole": "GKTX"
+    },
+    {
+        "Nom": "GENOMIC VISION",
+        "ISIN": "FR0011799907",
+        "Symbole": "GV"
+    },
+    {
+        "Nom": "GENOWAY",
+        "ISIN": "FR0004053510",
+        "Symbole": "ALGEN"
+    },
+    {
+        "Nom": "GENSIGHT BIOLOGICS",
+        "ISIN": "FR0013183985",
+        "Symbole": "SIGHT"
+    },
+    {
+        "Nom": "GENTLEMENS EQUITY",
+        "ISIN": "PTGVE1AE0009",
+        "Symbole": "MLGEQ"
+    },
+    {
+        "Nom": "GEVELOT",
+        "ISIN": "FR0000033888",
+        "Symbole": "ALGEV"
+    },
+    {
+        "Nom": "GFI INFORMATIQUE",
+        "ISIN": "FR0004038099",
+        "Symbole": "GFI"
+    },
+    {
+        "Nom": "GIMV",
+        "ISIN": "BE0003699130",
+        "Symbole": "GIMB"
+    },
+    {
+        "Nom": "GL EVENTS",
+        "ISIN": "FR0000066672",
+        "Symbole": "GLO"
+    },
+    {
+        "Nom": "GLINTT",
+        "ISIN": "PTPAD0AM0007",
+        "Symbole": "GLINT"
+    },
+    {
+        "Nom": "GLOBAL BIOENERGIES",
+        "ISIN": "FR0011052257",
+        "Symbole": "ALGBE"
+    },
+    {
+        "Nom": "GLOBAL ECOPOWER",
+        "ISIN": "FR0011289198",
+        "Symbole": "ALGEP"
+    },
+    {
+        "Nom": "GLOBAL GRAPHICS",
+        "ISIN": "GB00BYN5BY03",
+        "Symbole": "GLOG"
+    },
+    {
+        "Nom": "GLOBAL HEALTH GR.",
+        "ISIN": "CH0121668229",
+        "Symbole": "MLIFE"
+    },
+    {
+        "Nom": "GOLD BY GOLD",
+        "ISIN": "FR0011208693",
+        "Symbole": "ALGLD"
+    },
+    {
+        "Nom": "GOUR MEDICAL",
+        "ISIN": "CH0342399851",
+        "Symbole": "MLGML"
+    },
+    {
+        "Nom": "GPE GROUP PIZZORNO",
+        "ISIN": "FR0010214064",
+        "Symbole": "GPE"
+    },
+    {
+        "Nom": "GPE PAROT (AUTO)",
+        "ISIN": "FR0013204070",
+        "Symbole": "ALPAR"
+    },
+    {
+        "Nom": "GRAINES VOLTZ",
+        "ISIN": "FR0000065971",
+        "Symbole": "GRVO"
+    },
+    {
+        "Nom": "GRANDVISION",
+        "ISIN": "NL0010937066",
+        "Symbole": "GVNV"
+    },
+    {
+        "Nom": "GRECEMAR",
+        "ISIN": "FR0012991040",
+        "Symbole": "MLCMG"
+    },
+    {
+        "Nom": "GREEN ENERGY GE4S",
+        "ISIN": "BE0948833760",
+        "Symbole": "MLGES"
+    },
+    {
+        "Nom": "GREENYARD",
+        "ISIN": "BE0003765790",
+        "Symbole": "GREEN"
+    },
+    {
+        "Nom": "GROOTHANDELSGEBOUW",
+        "ISIN": "NL0000440824",
+        "Symbole": "GROHA"
+    },
+    {
+        "Nom": "GROUPE CARNIVOR",
+        "ISIN": "FR0000076960",
+        "Symbole": "MLGRC"
+    },
+    {
+        "Nom": "GROUPE CRIT",
+        "ISIN": "FR0000036675",
+        "Symbole": "CEN"
+    },
+    {
+        "Nom": "GROUPE EUROTUNNEL",
+        "ISIN": "FR0010533075",
+        "Symbole": "GET"
+    },
+    {
+        "Nom": "GROUPE FLO",
+        "ISIN": "FR0004076891",
+        "Symbole": "FLO"
+    },
+    {
+        "Nom": "GROUPE FLO NV18",
+        "ISIN": "FR0013308814",
+        "Symbole": "FLONV"
+    },
+    {
+        "Nom": "GROUPE GORGE",
+        "ISIN": "FR0000062671",
+        "Symbole": "GOE"
+    },
+    {
+        "Nom": "GROUPE GUILLIN",
+        "ISIN": "FR0012819381",
+        "Symbole": "ALGIL"
+    },
+    {
+        "Nom": "GROUPE IRD",
+        "ISIN": "FR0000124232",
+        "Symbole": "IRD"
+    },
+    {
+        "Nom": "GROUPE JAJ",
+        "ISIN": "FR0004010338",
+        "Symbole": "GJAJ"
+    },
+    {
+        "Nom": "GROUPE LDLC",
+        "ISIN": "FR0000075442",
+        "Symbole": "LDL"
+    },
+    {
+        "Nom": "GROUPE OPEN",
+        "ISIN": "FR0004050300",
+        "Symbole": "OPN"
+    },
+    {
+        "Nom": "GROUPE PARTOUCHE",
+        "ISIN": "FR0012612646",
+        "Symbole": "PARP"
+    },
+    {
+        "Nom": "GROUPE PLUS-VALUES",
+        "ISIN": "FR0010529719",
+        "Symbole": "MLPVG"
+    },
+    {
+        "Nom": "GROUPE RIVALIS",
+        "ISIN": "FR0010766642",
+        "Symbole": "MLRIV"
+    },
+    {
+        "Nom": "GROUPE SFPI",
+        "ISIN": "FR0004155000",
+        "Symbole": "SFPI"
+    },
+    {
+        "Nom": "GROUPIMO",
+        "ISIN": "FR0013297488",
+        "Symbole": "ALIMO"
+    },
+    {
+        "Nom": "GROWNERS",
+        "ISIN": "BE0003861789",
+        "Symbole": "GROWN"
+    },
+    {
+        "Nom": "GT BIOPHARMA INC",
+        "ISIN": "US36254L1008",
+        "Symbole": "GTBP"
+    },
+    {
+        "Nom": "GTT",
+        "ISIN": "FR0011726835",
+        "Symbole": "GTT"
+    },
+    {
+        "Nom": "GUERBET",
+        "ISIN": "FR0000032526",
+        "Symbole": "GBT"
+    },
+    {
+        "Nom": "GUERBET NV18",
+        "ISIN": "FR0013308798",
+        "Symbole": "GBTNV"
+    },
+    {
+        "Nom": "GUILLEMOT",
+        "ISIN": "FR0000066722",
+        "Symbole": "GUI"
+    },
+    {
+        "Nom": "GUY DEGRENNE",
+        "ISIN": "FR0004035061",
+        "Symbole": "GUYD"
+    },
+    {
+        "Nom": "H2O INNOVATION INC",
+        "ISIN": "CA4433003064",
+        "Symbole": "ALHEO"
+    },
+    {
+        "Nom": "HAL TRUST",
+        "ISIN": "BMG455841020",
+        "Symbole": "HAL"
+    },
+    {
+        "Nom": "HAMON",
+        "ISIN": "BE0003700144",
+        "Symbole": "HAMO"
+    },
+    {
+        "Nom": "HARVEST",
+        "ISIN": "FR0010207795",
+        "Symbole": "ALHVS"
+    },
+    {
+        "Nom": "HAULOTTE GROUP",
+        "ISIN": "FR0000066755",
+        "Symbole": "PIG"
+    },
+    {
+        "Nom": "HeadFirst Source G",
+        "ISIN": "CWN814651014",
+        "Symbole": "HFS"
+    },
+    {
+        "Nom": "HEALTH",
+        "ISIN": "FR0013251584",
+        "Symbole": "MLAHC"
+    },
+    {
+        "Nom": "HEIJMANS",
+        "ISIN": "NL0009269109",
+        "Symbole": "HEIJM"
+    },
+    {
+        "Nom": "HEINEKEN",
+        "ISIN": "NL0000009165",
+        "Symbole": "HEIA"
+    },
+    {
+        "Nom": "HEINEKEN HOLDING",
+        "ISIN": "NL0000008977",
+        "Symbole": "HEIO"
+    },
+    {
+        "Nom": "HERIGE",
+        "ISIN": "FR0000066540",
+        "Symbole": "HERIG"
+    },
+    {
+        "Nom": "HERMES INTL",
+        "ISIN": "FR0000052292",
+        "Symbole": "RMS"
+    },
+    {
+        "Nom": "HEURTEY PETROCHEM",
+        "ISIN": "FR0010343186",
+        "Symbole": "ALHPC"
+    },
+    {
+        "Nom": "HEXCEL",
+        "ISIN": "US4282911084",
+        "Symbole": "HXL"
+    },
+    {
+        "Nom": "HF",
+        "ISIN": "FR0000038531",
+        "Symbole": "HF"
+    },
+    {
+        "Nom": "HIGH CO",
+        "ISIN": "FR0000054231",
+        "Symbole": "HCO"
+    },
+    {
+        "Nom": "HIOLLE INDUSTRIES",
+        "ISIN": "FR0000077562",
+        "Symbole": "ALHIO"
+    },
+    {
+        "Nom": "HIPAY GROUP",
+        "ISIN": "FR0012821916",
+        "Symbole": "HIPAY"
+    },
+    {
+        "Nom": "HITECHPROS",
+        "ISIN": "FR0010396309",
+        "Symbole": "ALHIT"
+    },
+    {
+        "Nom": "HK",
+        "ISIN": "DE000A11Q133",
+        "Symbole": "MLHK"
+    },
+    {
+        "Nom": "HOCHE BAINS L.BAIN",
+        "ISIN": "FR0000051302",
+        "Symbole": "MLHBB"
+    },
+    {
+        "Nom": "HOLLAND COLOURS",
+        "ISIN": "NL0000440311",
+        "Symbole": "HOLCO"
+    },
+    {
+        "Nom": "HOLOSFIND",
+        "ISIN": "FR0010446765",
+        "Symbole": "ALHOL"
+    },
+    {
+        "Nom": "HOME CONCEPT",
+        "ISIN": "FR0012336691",
+        "Symbole": "MLHCF"
+    },
+    {
+        "Nom": "HOME INVEST BE.",
+        "ISIN": "BE0003760742",
+        "Symbole": "HOMI"
+    },
+    {
+        "Nom": "HOPENING",
+        "ISIN": "FR0010312181",
+        "Symbole": "MLHPE"
+    },
+    {
+        "Nom": "HOPSCOTCH GROUPE",
+        "ISIN": "FR0000065278",
+        "Symbole": "HOP"
+    },
+    {
+        "Nom": "HORIZONTALSOFTWARE",
+        "ISIN": "FR0013219367",
+        "Symbole": "ALHSW"
+    },
+    {
+        "Nom": "HOT.MAJESTIC CANNE",
+        "ISIN": "FR0006226791",
+        "Symbole": "MLHMC"
+    },
+    {
+        "Nom": "HOTELIM",
+        "ISIN": "FR0000053738",
+        "Symbole": "MLHOT"
+    },
+    {
+        "Nom": "HOTELS DE PARIS",
+        "ISIN": "FR0004165801",
+        "Symbole": "HDP"
+    },
+    {
+        "Nom": "HOTL.IMMOB.NICE",
+        "ISIN": "FR0006563904",
+        "Symbole": "MLHIN"
+    },
+    {
+        "Nom": "HSBC HOLDINGS",
+        "ISIN": "GB0005405286",
+        "Symbole": "HSB"
+    },
+    {
+        "Nom": "HUBWOO",
+        "ISIN": "FR0004052561",
+        "Symbole": "HBW"
+    },
+    {
+        "Nom": "HUNTER DOUGLAS",
+        "ISIN": "ANN4327C1220",
+        "Symbole": "HDG"
+    },
+    {
+        "Nom": "HUNTER DOUGLAS",
+        "ISIN": "ANN4327C1303",
+        "Symbole": "HUNDP"
+    },
+    {
+        "Nom": "HYBRIGENICS",
+        "ISIN": "FR0004153930",
+        "Symbole": "ALHYG"
+    },
+    {
+        "Nom": "HYDRATEC",
+        "ISIN": "NL0009391242",
+        "Symbole": "HYDRA"
+    },
+    {
+        "Nom": "HYDRAULIQUE PB",
+        "ISIN": "FR0000064735",
+        "Symbole": "MLHYD"
+    },
+    {
+        "Nom": "HYDRO-EXPLOIT.",
+        "ISIN": "FR0005843125",
+        "Symbole": "MLHYE"
+    },
+    {
+        "Nom": "I.CERAM",
+        "ISIN": "FR0011511971",
+        "Symbole": "ALICR"
+    },
+    {
+        "Nom": "I2S",
+        "ISIN": "FR0005854700",
+        "Symbole": "ALI2S"
+    },
+    {
+        "Nom": "IBA",
+        "ISIN": "BE0003766806",
+        "Symbole": "IBAB"
+    },
+    {
+        "Nom": "IBERSOL,SGPS",
+        "ISIN": "PTIBS0AM0008",
+        "Symbole": "IBS"
+    },
+    {
+        "Nom": "IBM",
+        "ISIN": "US4592001014",
+        "Symbole": "IBMA"
+    },
+    {
+        "Nom": "ICADE",
+        "ISIN": "FR0000035081",
+        "Symbole": "ICAD"
+    },
+    {
+        "Nom": "ICE CONCEPT",
+        "ISIN": "BE0003860773",
+        "Symbole": "ICE"
+    },
+    {
+        "Nom": "ICT GROUP",
+        "ISIN": "NL0000359537",
+        "Symbole": "ICT"
+    },
+    {
+        "Nom": "ID LOGISTICS GROUP",
+        "ISIN": "FR0010929125",
+        "Symbole": "IDL"
+    },
+    {
+        "Nom": "IDI",
+        "ISIN": "FR0000051393",
+        "Symbole": "IDIP"
+    },
+    {
+        "Nom": "IDS",
+        "ISIN": "FR0000079691",
+        "Symbole": "MLIDS"
+    },
+    {
+        "Nom": "IDSUD",
+        "ISIN": "FR0000062184",
+        "Symbole": "ALIDS"
+    },
+    {
+        "Nom": "IEP INVEST",
+        "ISIN": "BE0003748622",
+        "Symbole": "IEP"
+    },
+    {
+        "Nom": "IEX GROUP NV",
+        "ISIN": "NL0010556726",
+        "Symbole": "IEX"
+    },
+    {
+        "Nom": "IFF",
+        "ISIN": "US4595061015",
+        "Symbole": "IFF"
+    },
+    {
+        "Nom": "IGE + XAO",
+        "ISIN": "FR0000030827",
+        "Symbole": "IGE"
+    },
+    {
+        "Nom": "ILIAD",
+        "ISIN": "FR0004035913",
+        "Symbole": "ILD"
+    },
+    {
+        "Nom": "IMALLIANCE",
+        "ISIN": "FR0010086371",
+        "Symbole": "MLIML"
+    },
+    {
+        "Nom": "IMCD",
+        "ISIN": "NL0010801007",
+        "Symbole": "IMCD"
+    },
+    {
+        "Nom": "IMERYS",
+        "ISIN": "FR0000120859",
+        "Symbole": "NK"
+    },
+    {
+        "Nom": "IMM.PARIS.PERLE",
+        "ISIN": "FR0006859039",
+        "Symbole": "MLIPP"
+    },
+    {
+        "Nom": "IMMERSION",
+        "ISIN": "FR0013060100",
+        "Symbole": "ALIMR"
+    },
+    {
+        "Nom": "IMMO MCC",
+        "ISIN": "BE0974287196",
+        "Symbole": "MCC"
+    },
+    {
+        "Nom": "IMMO MOURY",
+        "ISIN": "BE0003893139",
+        "Symbole": "IMMOU"
+    },
+    {
+        "Nom": "IMMOB.DASSAULT",
+        "ISIN": "FR0000033243",
+        "Symbole": "IMDA"
+    },
+    {
+        "Nom": "IMMOB.HOTELIERE",
+        "ISIN": "FR0000036980",
+        "Symbole": "IMHO"
+    },
+    {
+        "Nom": "IMMOBEL",
+        "ISIN": "BE0003599108",
+        "Symbole": "IMMO"
+    },
+    {
+        "Nom": "IMMOPOOL",
+        "ISIN": "BE0003866838",
+        "Symbole": "IMMOP"
+    },
+    {
+        "Nom": "IMOB.C GRAO PARA",
+        "ISIN": "PTGPA0AP0007",
+        "Symbole": "GPA"
+    },
+    {
+        "Nom": "IMPLANET",
+        "ISIN": "FR0010458729",
+        "Symbole": "ALIMP"
+    },
+    {
+        "Nom": "IMPRESA,SGPS",
+        "ISIN": "PTIPR0AM0000",
+        "Symbole": "IPR"
+    },
+    {
+        "Nom": "IMPRIMERIE CHIRAT",
+        "ISIN": "FR0000065773",
+        "Symbole": "MLIMP"
+    },
+    {
+        "Nom": "INAPA-INV.P.GESTAO",
+        "ISIN": "PTINA0AP0008",
+        "Symbole": "INA"
+    },
+    {
+        "Nom": "INAPA-PREF S/ VOTO",
+        "ISIN": "PTINA2VP0019",
+        "Symbole": "INAP"
+    },
+    {
+        "Nom": "INDLE FIN.ENTREPR.",
+        "ISIN": "FR0000066219",
+        "Symbole": "INFE"
+    },
+    {
+        "Nom": "INDUSTRIAL HOLDING",
+        "ISIN": "IT0004982069",
+        "Symbole": "MLFIH"
+    },
+    {
+        "Nom": "INFOCLIP",
+        "ISIN": "FR0011158823",
+        "Symbole": "MLIFC"
+    },
+    {
+        "Nom": "INFOSYS LTD ADS",
+        "ISIN": "US4567881085",
+        "Symbole": "INFY"
+    },
+    {
+        "Nom": "INFOTEL",
+        "ISIN": "FR0000071797",
+        "Symbole": "INF"
+    },
+    {
+        "Nom": "ING GROEP N.V.",
+        "ISIN": "NL0011821202",
+        "Symbole": "INGA"
+    },
+    {
+        "Nom": "INGENICO GROUP",
+        "ISIN": "FR0000125346",
+        "Symbole": "ING"
+    },
+    {
+        "Nom": "INNATE PHARMA",
+        "ISIN": "FR0010331421",
+        "Symbole": "IPH"
+    },
+    {
+        "Nom": "INNELEC MULTIMEDIA",
+        "ISIN": "FR0000064297",
+        "Symbole": "INN"
+    },
+    {
+        "Nom": "INNOVADERMA PLC",
+        "ISIN": "GB00BT9PTW34",
+        "Symbole": "MLIDP"
+    },
+    {
+        "Nom": "INSIDE SECURE",
+        "ISIN": "FR0010291245",
+        "Symbole": "INSD"
+    },
+    {
+        "Nom": "INSTALLUX",
+        "ISIN": "FR0000060451",
+        "Symbole": "STAL"
+    },
+    {
+        "Nom": "INTEGRAGEN",
+        "ISIN": "FR0010908723",
+        "Symbole": "ALINT"
+    },
+    {
+        "Nom": "INTEGRAL",
+        "ISIN": "FR0012880482",
+        "Symbole": "MLITG"
+    },
+    {
+        "Nom": "INTEL CORP",
+        "ISIN": "US4581401001",
+        "Symbole": "INCO"
+    },
+    {
+        "Nom": "INTERPARFUMS",
+        "ISIN": "FR0004024222",
+        "Symbole": "ITP"
+    },
+    {
+        "Nom": "INTERTRUST",
+        "ISIN": "NL0010937058",
+        "Symbole": "INTER"
+    },
+    {
+        "Nom": "INTERVEST OFF-WARE",
+        "ISIN": "BE0003746600",
+        "Symbole": "INTO"
+    },
+    {
+        "Nom": "INTEXA",
+        "ISIN": "FR0000064958",
+        "Symbole": "ITXT"
+    },
+    {
+        "Nom": "INTLE PLANT.HEVEAS",
+        "ISIN": "FR0000036857",
+        "Symbole": "SIPH"
+    },
+    {
+        "Nom": "INTRASENSE",
+        "ISIN": "FR0011179886",
+        "Symbole": "ALINS"
+    },
+    {
+        "Nom": "INVENTIVA",
+        "ISIN": "FR0013233012",
+        "Symbole": "IVA"
+    },
+    {
+        "Nom": "INVIBES ADVERTSING",
+        "ISIN": "BE0974299316",
+        "Symbole": "MLINV"
+    },
+    {
+        "Nom": "IOC HOLDING",
+        "ISIN": "BE6200101556",
+        "Symbole": "MLIOC"
+    },
+    {
+        "Nom": "IPSEN",
+        "ISIN": "FR0010259150",
+        "Symbole": "IPN"
+    },
+    {
+        "Nom": "IPSEN NV18",
+        "ISIN": "FR0013306230",
+        "Symbole": "IPNNV"
+    },
+    {
+        "Nom": "IPSOS",
+        "ISIN": "FR0000073298",
+        "Symbole": "IPS"
+    },
+    {
+        "Nom": "IPSOS NV18",
+        "ISIN": "FR0013306008",
+        "Symbole": "IPSNV"
+    },
+    {
+        "Nom": "ISA",
+        "ISIN": "PTIAN0AM0001",
+        "Symbole": "ALISA"
+    },
+    {
+        "Nom": "IT LINK",
+        "ISIN": "FR0000072597",
+        "Symbole": "ITL"
+    },
+    {
+        "Nom": "ITESOFT",
+        "ISIN": "FR0004026151",
+        "Symbole": "ITE"
+    },
+    {
+        "Nom": "ITS GROUP",
+        "ISIN": "FR0000073843",
+        "Symbole": "ITS"
+    },
+    {
+        "Nom": "IVALIS",
+        "ISIN": "FR0010082305",
+        "Symbole": "ALIVA"
+    },
+    {
+        "Nom": "J.MARTINS,SGPS",
+        "ISIN": "PTJMT0AE0001",
+        "Symbole": "JMT"
+    },
+    {
+        "Nom": "JACQUES BOGART",
+        "ISIN": "FR0012872141",
+        "Symbole": "JBOG"
+    },
+    {
+        "Nom": "JACQUET METAL SCE",
+        "ISIN": "FR0000033904",
+        "Symbole": "JCQ"
+    },
+    {
+        "Nom": "JANE FRANCE",
+        "ISIN": "FR0011442235",
+        "Symbole": "MLJAN"
+    },
+    {
+        "Nom": "JC DECAUX SA NV18",
+        "ISIN": "FR0013303658",
+        "Symbole": "DECNV"
+    },
+    {
+        "Nom": "JC DECAUX SA.",
+        "ISIN": "FR0000077919",
+        "Symbole": "DEC"
+    },
+    {
+        "Nom": "JENSEN-GROUP",
+        "ISIN": "BE0003858751",
+        "Symbole": "JEN"
+    },
+    {
+        "Nom": "JSA TECHNOLOGY",
+        "ISIN": "FR0010680033",
+        "Symbole": "MLJSA"
+    },
+    {
+        "Nom": "KARDAN",
+        "ISIN": "NL0000113652",
+        "Symbole": "KARD"
+    },
+    {
+        "Nom": "KAS BANK",
+        "ISIN": "NL0000362648",
+        "Symbole": "KA"
+    },
+    {
+        "Nom": "KAUFMAN ET BROAD",
+        "ISIN": "FR0004007813",
+        "Symbole": "KOF"
+    },
+    {
+        "Nom": "KBC",
+        "ISIN": "BE0003565737",
+        "Symbole": "KBC"
+    },
+    {
+        "Nom": "KBC ANCORA",
+        "ISIN": "BE0003867844",
+        "Symbole": "KBCA"
+    },
+    {
+        "Nom": "KENDRION",
+        "ISIN": "NL0000852531",
+        "Symbole": "KENDR"
+    },
+    {
+        "Nom": "KERING",
+        "ISIN": "FR0000121485",
+        "Symbole": "KER"
+    },
+    {
+        "Nom": "KERLINK",
+        "ISIN": "FR0013156007",
+        "Symbole": "ALKLK"
+    },
+    {
+        "Nom": "KEYRUS",
+        "ISIN": "FR0004029411",
+        "Symbole": "KEY"
+    },
+    {
+        "Nom": "KEYWARE TECH.",
+        "ISIN": "BE0003880979",
+        "Symbole": "KEYW"
+    },
+    {
+        "Nom": "KEYYO",
+        "ISIN": "FR0000185621",
+        "Symbole": "ALKEY"
+    },
+    {
+        "Nom": "KIADIS",
+        "ISIN": "NL0011323407",
+        "Symbole": "KDS"
+    },
+    {
+        "Nom": "KINEPOLIS GROUP",
+        "ISIN": "BE0974274061",
+        "Symbole": "KIN"
+    },
+    {
+        "Nom": "KKO INT WARRANT A",
+        "ISIN": "BE0974285174",
+        "Symbole": "KKOWA"
+    },
+    {
+        "Nom": "KKO INTERNATIONAL",
+        "ISIN": "BE0974284169",
+        "Symbole": "ALKKO"
+    },
+    {
+        "Nom": "KLEPIERRE",
+        "ISIN": "FR0000121964",
+        "Symbole": "LI"
+    },
+    {
+        "Nom": "KORIAN",
+        "ISIN": "FR0010386334",
+        "Symbole": "KORI"
+    },
+    {
+        "Nom": "KPN KON",
+        "ISIN": "NL0000009082",
+        "Symbole": "KPN"
+    },
+    {
+        "Nom": "KRIEF GROUP",
+        "ISIN": "FR0004152700",
+        "Symbole": "MLKRI"
+    },
+    {
+        "Nom": "L'OREAL",
+        "ISIN": "FR0000120321",
+        "Symbole": "OR"
+    },
+    {
+        "Nom": "L'OREAL NV18",
+        "ISIN": "FR0013308764",
+        "Symbole": "ORNV"
+    },
+    {
+        "Nom": "LA FONCIERE VERTE",
+        "ISIN": "FR0000039638",
+        "Symbole": "LFVE"
+    },
+    {
+        "Nom": "LACROIX SA",
+        "ISIN": "FR0000066607",
+        "Symbole": "LACR"
+    },
+    {
+        "Nom": "LAFARGEHOLCIM LTD",
+        "ISIN": "CH0012214059",
+        "Symbole": "LHN"
+    },
+    {
+        "Nom": "LAFUMA",
+        "ISIN": "FR0000035263",
+        "Symbole": "LAF"
+    },
+    {
+        "Nom": "LAGARDERE S.C.A.",
+        "ISIN": "FR0000130213",
+        "Symbole": "MMB"
+    },
+    {
+        "Nom": "LANSON-BCC",
+        "ISIN": "FR0004027068",
+        "Symbole": "LAN"
+    },
+    {
+        "Nom": "LAURENT-PERRIER",
+        "ISIN": "FR0006864484",
+        "Symbole": "LPE"
+    },
+    {
+        "Nom": "LAVIDE HOLDING",
+        "ISIN": "NL0010545679",
+        "Symbole": "LVIDE"
+    },
+    {
+        "Nom": "LDC",
+        "ISIN": "FR0013204336",
+        "Symbole": "LOUP"
+    },
+    {
+        "Nom": "LE TANNEUR",
+        "ISIN": "FR0000075673",
+        "Symbole": "LTAN"
+    },
+    {
+        "Nom": "LEADMEDIA GROUP",
+        "ISIN": "FR0011053636",
+        "Symbole": "ALLMG"
+    },
+    {
+        "Nom": "LEASINVEST",
+        "ISIN": "BE0003770840",
+        "Symbole": "LEAS"
+    },
+    {
+        "Nom": "LEBON",
+        "ISIN": "FR0000121295",
+        "Symbole": "LBON"
+    },
+    {
+        "Nom": "LECTEURS MONDE",
+        "ISIN": "FR0000034779",
+        "Symbole": "MLLEM"
+    },
+    {
+        "Nom": "LECTRA",
+        "ISIN": "FR0000065484",
+        "Symbole": "LSS"
+    },
+    {
+        "Nom": "LECTRA NV18",
+        "ISIN": "FR0013306016",
+        "Symbole": "LSSNV"
+    },
+    {
+        "Nom": "LEGRAND",
+        "ISIN": "FR0010307819",
+        "Symbole": "LR"
+    },
+    {
+        "Nom": "LES HOTELS BAVEREZ",
+        "ISIN": "FR0007080254",
+        "Symbole": "ALLHB"
+    },
+    {
+        "Nom": "LESNXCONSTRUCTEURS",
+        "ISIN": "FR0004023208",
+        "Symbole": "LNC"
+    },
+    {
+        "Nom": "LETS GOWEX",
+        "ISIN": "ES0158252033",
+        "Symbole": "ALGOW"
+    },
+    {
+        "Nom": "LEXIBOOK LINGUIST.",
+        "ISIN": "FR0000033599",
+        "Symbole": "ALLEX"
+    },
+    {
+        "Nom": "LILLY AND CO",
+        "ISIN": "US5324571083",
+        "Symbole": "LLY"
+    },
+    {
+        "Nom": "LINEDATA SERVICES",
+        "ISIN": "FR0004156297",
+        "Symbole": "LIN"
+    },
+    {
+        "Nom": "LIONAX",
+        "ISIN": "HK0000038429",
+        "Symbole": "MLION"
+    },
+    {
+        "Nom": "LISGRAFICA",
+        "ISIN": "PTLIG0AE0002",
+        "Symbole": "LIG"
+    },
+    {
+        "Nom": "LISI",
+        "ISIN": "FR0000050353",
+        "Symbole": "FII"
+    },
+    {
+        "Nom": "LITHO FORMAS",
+        "ISIN": "PTLIT0AE0005",
+        "Symbole": "LIT"
+    },
+    {
+        "Nom": "LNA SANTE",
+        "ISIN": "FR0004170017",
+        "Symbole": "LNA"
+    },
+    {
+        "Nom": "LOCASYSTEM INTL",
+        "ISIN": "FR0004155208",
+        "Symbole": "MLLOI"
+    },
+    {
+        "Nom": "LOCINDUS",
+        "ISIN": "FR0000121352",
+        "Symbole": "LD"
+    },
+    {
+        "Nom": "LOGIC INSTRUMENT",
+        "ISIN": "FR0000044943",
+        "Symbole": "ALLOG"
+    },
+    {
+        "Nom": "LOMBARD ET MEDOT",
+        "ISIN": "FR0006205019",
+        "Symbole": "MLCAC"
+    },
+    {
+        "Nom": "LOTUS BAKERIES",
+        "ISIN": "BE0003604155",
+        "Symbole": "LOTB"
+    },
+    {
+        "Nom": "LUCASBOLS",
+        "ISIN": "NL0010998878",
+        "Symbole": "BOLS"
+    },
+    {
+        "Nom": "LUCIBEL",
+        "ISIN": "FR0011884378",
+        "Symbole": "ALUCI"
+    },
+    {
+        "Nom": "LUIGI BOTTO",
+        "ISIN": "IT0005072035",
+        "Symbole": "MLLB"
+    },
+    {
+        "Nom": "LUX-AIRPORT CERT",
+        "ISIN": "LU0092846210",
+        "Symbole": "LUXA"
+    },
+    {
+        "Nom": "LUZ SAUDE",
+        "ISIN": "PTEPT0AM0005",
+        "Symbole": "LUZ"
+    },
+    {
+        "Nom": "LV4S",
+        "ISIN": "BE6201089735",
+        "Symbole": "MLV4S"
+    },
+    {
+        "Nom": "LVMH",
+        "ISIN": "FR0000121014",
+        "Symbole": "MC"
+    },
+    {
+        "Nom": "LVMH NV18",
+        "ISIN": "FR0013306024",
+        "Symbole": "MCNV"
+    },
+    {
+        "Nom": "LYSOGENE",
+        "ISIN": "FR0013233475",
+        "Symbole": "LYS"
+    },
+    {
+        "Nom": "M.R.M",
+        "ISIN": "FR0000060196",
+        "Symbole": "MRM"
+    },
+    {
+        "Nom": "M2I",
+        "ISIN": "FR0013270626",
+        "Symbole": "ALMII"
+    },
+    {
+        "Nom": "MADE",
+        "ISIN": "FR0010328302",
+        "Symbole": "MLMAD"
+    },
+    {
+        "Nom": "MADVERTISE",
+        "ISIN": "FR0010812230",
+        "Symbole": "ALMNG"
+    },
+    {
+        "Nom": "MAGILLEM",
+        "ISIN": "FR0010827741",
+        "Symbole": "MLMGL"
+    },
+    {
+        "Nom": "MAINSTAY MEDICAL",
+        "ISIN": "IE00BJYS1G50",
+        "Symbole": "MSTY"
+    },
+    {
+        "Nom": "MAIS.ANTOINE BAUD",
+        "ISIN": "FR0000061657",
+        "Symbole": "MLMAB"
+    },
+    {
+        "Nom": "MAISON CLIO BLUE",
+        "ISIN": "FR0011092089",
+        "Symbole": "MLCLI"
+    },
+    {
+        "Nom": "MAISONS D''AUJOURD",
+        "ISIN": "FR0010515742",
+        "Symbole": "MLMAI"
+    },
+    {
+        "Nom": "MAISONS DU MONDE",
+        "ISIN": "FR0013153541",
+        "Symbole": "MDM"
+    },
+    {
+        "Nom": "MAISONS FRANCE",
+        "ISIN": "FR0004159473",
+        "Symbole": "MFC"
+    },
+    {
+        "Nom": "MAKHEIA GROUP",
+        "ISIN": "FR0000072993",
+        "Symbole": "ALMAK"
+    },
+    {
+        "Nom": "MALTERIES FCO-BEL.",
+        "ISIN": "FR0000030074",
+        "Symbole": "MALT"
+    },
+    {
+        "Nom": "MANDALORE HOLDING",
+        "ISIN": "LU1179353617",
+        "Symbole": "MLMHO"
+    },
+    {
+        "Nom": "MANITOU BF",
+        "ISIN": "FR0000038606",
+        "Symbole": "MTU"
+    },
+    {
+        "Nom": "MANUTAN INTL",
+        "ISIN": "FR0000032302",
+        "Symbole": "MAN"
+    },
+    {
+        "Nom": "MARATHON OIL CORP",
+        "ISIN": "US5658491064",
+        "Symbole": "MROIL"
+    },
+    {
+        "Nom": "MAROC TELECOM",
+        "ISIN": "MA0000011488",
+        "Symbole": "IAM"
+    },
+    {
+        "Nom": "MARTIFER",
+        "ISIN": "PTMFR0AM0003",
+        "Symbole": "MAR"
+    },
+    {
+        "Nom": "MASTRAD",
+        "ISIN": "FR0004155687",
+        "Symbole": "ALMAS"
+    },
+    {
+        "Nom": "MAUNA KEA TECH",
+        "ISIN": "FR0010609263",
+        "Symbole": "MKEA"
+    },
+    {
+        "Nom": "MAUREL ET PROM",
+        "ISIN": "FR0000051070",
+        "Symbole": "MAU"
+    },
+    {
+        "Nom": "MBWS",
+        "ISIN": "FR0000060873",
+        "Symbole": "MBWS"
+    },
+    {
+        "Nom": "MBWS BSA 2004",
+        "ISIN": "FR0010134247",
+        "Symbole": "MBWBS"
+    },
+    {
+        "Nom": "MBWS BSA 2006",
+        "ISIN": "FR0010304733",
+        "Symbole": "MBWBR"
+    },
+    {
+        "Nom": "MBWS BSA ACT2",
+        "ISIN": "FR0011477124",
+        "Symbole": "MBWBW"
+    },
+    {
+        "Nom": "MBWS BSAR 2023",
+        "ISIN": "FR0013066313",
+        "Symbole": "MBWSZ"
+    },
+    {
+        "Nom": "MCPHY ENERGY",
+        "ISIN": "FR0011742329",
+        "Symbole": "MCPHY"
+    },
+    {
+        "Nom": "MDXHEALTH",
+        "ISIN": "BE0003844611",
+        "Symbole": "MDXH"
+    },
+    {
+        "Nom": "MECELEC BSA DEC19",
+        "ISIN": "FR0012057149",
+        "Symbole": "MCBS2"
+    },
+    {
+        "Nom": "MECELEC COMPOSITES",
+        "ISIN": "FR0000061244",
+        "Symbole": "ALMEC"
+    },
+    {
+        "Nom": "MEDASYS",
+        "ISIN": "FR0000052623",
+        "Symbole": "MED"
+    },
+    {
+        "Nom": "MEDIA 6",
+        "ISIN": "FR0000064404",
+        "Symbole": "EDI"
+    },
+    {
+        "Nom": "MEDIA CAPITAL",
+        "ISIN": "PTGMC0AM0003",
+        "Symbole": "MCP"
+    },
+    {
+        "Nom": "MEDIA LAB",
+        "ISIN": "IT0005324105",
+        "Symbole": "MLLAB"
+    },
+    {
+        "Nom": "MEDIANTECHNOLOGIES",
+        "ISIN": "FR0011049824",
+        "Symbole": "ALMDT"
+    },
+    {
+        "Nom": "MEDIAWAN",
+        "ISIN": "FR0013247137",
+        "Symbole": "MDW"
+    },
+    {
+        "Nom": "MEDIAWAN WAR",
+        "ISIN": "FR0013128907",
+        "Symbole": "MDWBS"
+    },
+    {
+        "Nom": "MEDICREA INTERNAT.",
+        "ISIN": "FR0004178572",
+        "Symbole": "ALMED"
+    },
+    {
+        "Nom": "MEDIOCREDITO EUROP",
+        "ISIN": "IT0004844848",
+        "Symbole": "MLMCE"
+    },
+    {
+        "Nom": "MEDIVISION",
+        "ISIN": "IL0010846314",
+        "Symbole": "MEDV"
+    },
+    {
+        "Nom": "MELEXIS",
+        "ISIN": "BE0165385973",
+        "Symbole": "MELE"
+    },
+    {
+        "Nom": "MEMSCAP REGPT",
+        "ISIN": "FR0010298620",
+        "Symbole": "MEMS"
+    },
+    {
+        "Nom": "MERCIALYS",
+        "ISIN": "FR0010241638",
+        "Symbole": "MERY"
+    },
+    {
+        "Nom": "MERCK AND CO INC",
+        "ISIN": "US58933Y1055",
+        "Symbole": "MRK"
+    },
+    {
+        "Nom": "MERSEN",
+        "ISIN": "FR0000039620",
+        "Symbole": "MRN"
+    },
+    {
+        "Nom": "MERSEN NV18",
+        "ISIN": "FR0013301272",
+        "Symbole": "MRNNV"
+    },
+    {
+        "Nom": "METABOLIC EXPLORER",
+        "ISIN": "FR0004177046",
+        "Symbole": "METEX"
+    },
+    {
+        "Nom": "METALLIANCE",
+        "ISIN": "FR0010492181",
+        "Symbole": "MLETA"
+    },
+    {
+        "Nom": "METHANOR",
+        "ISIN": "FR0011217710",
+        "Symbole": "ALMET"
+    },
+    {
+        "Nom": "METHORIOS CAPITAL",
+        "ISIN": "IT0004615396",
+        "Symbole": "ALMTH"
+    },
+    {
+        "Nom": "METRICS IN BALANCE",
+        "ISIN": "BE0974328602",
+        "Symbole": "MLMIB"
+    },
+    {
+        "Nom": "METROPOLE TV",
+        "ISIN": "FR0000053225",
+        "Symbole": "MMT"
+    },
+    {
+        "Nom": "MG INTERNATIONAL",
+        "ISIN": "FR0010204453",
+        "Symbole": "ALMGI"
+    },
+    {
+        "Nom": "MGI COUTIER",
+        "ISIN": "FR0000053027",
+        "Symbole": "MGIC"
+    },
+    {
+        "Nom": "MGI DIGITAL GRAPHI",
+        "ISIN": "FR0010353888",
+        "Symbole": "ALMDG"
+    },
+    {
+        "Nom": "MICHELIN",
+        "ISIN": "FR0000121261",
+        "Symbole": "ML"
+    },
+    {
+        "Nom": "MICHELIN NV18",
+        "ISIN": "FR0013306198",
+        "Symbole": "MLNV"
+    },
+    {
+        "Nom": "MICROBSAR15DEC18",
+        "ISIN": "FR0010827345",
+        "Symbole": "MUNBR"
+    },
+    {
+        "Nom": "MICROPOLE",
+        "ISIN": "FR0000077570",
+        "Symbole": "MUN"
+    },
+    {
+        "Nom": "MICROSKIN",
+        "ISIN": "GB00B92JR174",
+        "Symbole": "MLSKN"
+    },
+    {
+        "Nom": "MICROSOFT CORP SPL",
+        "ISIN": "US5949181045",
+        "Symbole": "MSF"
+    },
+    {
+        "Nom": "MICROWAVE VISION",
+        "ISIN": "FR0004058949",
+        "Symbole": "ALMIC"
+    },
+    {
+        "Nom": "MIGUET ET ASSOCIES",
+        "ISIN": "FR0010500363",
+        "Symbole": "MLNMA"
+    },
+    {
+        "Nom": "MIKO",
+        "ISIN": "BE0003731453",
+        "Symbole": "MIKO"
+    },
+    {
+        "Nom": "MILIBOO",
+        "ISIN": "FR0013053535",
+        "Symbole": "ALMLB"
+    },
+    {
+        "Nom": "MILLET INNOVATION",
+        "ISIN": "FR0010304402",
+        "Symbole": "ALINN"
+    },
+    {
+        "Nom": "MITHRA",
+        "ISIN": "BE0974283153",
+        "Symbole": "MITRA"
+    },
+    {
+        "Nom": "MKB Nedsense",
+        "ISIN": "NL0009312842",
+        "Symbole": "NEDSE"
+    },
+    {
+        "Nom": "MND",
+        "ISIN": "FR0011584549",
+        "Symbole": "MND"
+    },
+    {
+        "Nom": "MNR GROUP",
+        "ISIN": "FR0010976746",
+        "Symbole": "MLMNR"
+    },
+    {
+        "Nom": "MONCEY (FIN.) NOM.",
+        "ISIN": "FR0000076986",
+        "Symbole": "MONC"
+    },
+    {
+        "Nom": "MONEY EXPRESS",
+        "ISIN": "SN0000000191",
+        "Symbole": "MLMEX"
+    },
+    {
+        "Nom": "MONFINANCIER",
+        "ISIN": "FR0010882886",
+        "Symbole": "MLMON"
+    },
+    {
+        "Nom": "MONTEA C.V.A.",
+        "ISIN": "BE0003853703",
+        "Symbole": "MONT"
+    },
+    {
+        "Nom": "MOPOLI",
+        "ISIN": "NL0000488153",
+        "Symbole": "MOP"
+    },
+    {
+        "Nom": "MOPOLI FOND",
+        "ISIN": "NL0000488161",
+        "Symbole": "MOPF"
+    },
+    {
+        "Nom": "MOTA ENGIL",
+        "ISIN": "PTMEN0AE0005",
+        "Symbole": "EGL"
+    },
+    {
+        "Nom": "MOULINVEST",
+        "ISIN": "FR0011033083",
+        "Symbole": "ALMOU"
+    },
+    {
+        "Nom": "MOURY CONSTRUCT",
+        "ISIN": "BE0003602134",
+        "Symbole": "MOUR"
+    },
+    {
+        "Nom": "MP6",
+        "ISIN": "FR0013232626",
+        "Symbole": "MLMP6"
+    },
+    {
+        "Nom": "MR BRICOLAGE",
+        "ISIN": "FR0004034320",
+        "Symbole": "MRB"
+    },
+    {
+        "Nom": "MTD FINANCE",
+        "ISIN": "FR0010518936",
+        "Symbole": "MLMTD"
+    },
+    {
+        "Nom": "MULANN",
+        "ISIN": "FR0012990968",
+        "Symbole": "MLMUL"
+    },
+    {
+        "Nom": "MULTIMICROCLOUD",
+        "ISIN": "FR0013230067",
+        "Symbole": "MLMMC"
+    },
+    {
+        "Nom": "MUNCHENER RUCKVERS",
+        "ISIN": "DE0008430026",
+        "Symbole": "MEURV"
+    },
+    {
+        "Nom": "MUSEE GREVIN",
+        "ISIN": "FR0000037970",
+        "Symbole": "GREV"
+    },
+    {
+        "Nom": "MUTUALIZE CORP",
+        "ISIN": "FR0013222346",
+        "Symbole": "MLMUT"
+    },
+    {
+        "Nom": "NANOBIOTIX",
+        "ISIN": "FR0011341205",
+        "Symbole": "NANO"
+    },
+    {
+        "Nom": "NATIXIS",
+        "ISIN": "FR0000120685",
+        "Symbole": "KN"
+    },
+    {
+        "Nom": "NATUREX",
+        "ISIN": "FR0000054694",
+        "Symbole": "NRX"
+    },
+    {
+        "Nom": "NB PRIV EQ PARTN",
+        "ISIN": "GG00B1ZBD492",
+        "Symbole": "NBPE"
+    },
+    {
+        "Nom": "NEDAP",
+        "ISIN": "NL0000371243",
+        "Symbole": "NEDAP"
+    },
+    {
+        "Nom": "NEOCOM MULTIMEDIA",
+        "ISIN": "FR0004157543",
+        "Symbole": "MLNEO"
+    },
+    {
+        "Nom": "NEOLIFE",
+        "ISIN": "FR0011636083",
+        "Symbole": "ALNLF"
+    },
+    {
+        "Nom": "NEOLIFE BS",
+        "ISIN": "FR0013282936",
+        "Symbole": "NLFBS"
+    },
+    {
+        "Nom": "NEOPOST",
+        "ISIN": "FR0000120560",
+        "Symbole": "NEO"
+    },
+    {
+        "Nom": "NEOVACS",
+        "ISIN": "FR0004032746",
+        "Symbole": "ALNEV"
+    },
+    {
+        "Nom": "NEOVACS BSA",
+        "ISIN": "FR0013275971",
+        "Symbole": "NEVBS"
+    },
+    {
+        "Nom": "NEOVACS BSA2",
+        "ISIN": "FR0013298502",
+        "Symbole": "NEVB2"
+    },
+    {
+        "Nom": "NEPI ROCKCASTLE",
+        "ISIN": "IM00BDD7WV31",
+        "Symbole": "NRP"
+    },
+    {
+        "Nom": "NETGEM",
+        "ISIN": "FR0004154060",
+        "Symbole": "NTG"
+    },
+    {
+        "Nom": "NEUFCOUR-FIN.",
+        "ISIN": "BE0003680916",
+        "Symbole": "NEU"
+    },
+    {
+        "Nom": "NEURONES",
+        "ISIN": "FR0004050250",
+        "Symbole": "NRO"
+    },
+    {
+        "Nom": "NEW SOURCES ENERGY",
+        "ISIN": "NL0009822014",
+        "Symbole": "NSE"
+    },
+    {
+        "Nom": "NEWAYS ELECTRONICS",
+        "ISIN": "NL0000440618",
+        "Symbole": "NEWAY"
+    },
+    {
+        "Nom": "NEWSINVEST",
+        "ISIN": "FR0010358507",
+        "Symbole": "MLNEI"
+    },
+    {
+        "Nom": "NEWTREE",
+        "ISIN": "BE0003832491",
+        "Symbole": "NEWT"
+    },
+    {
+        "Nom": "NEXANS",
+        "ISIN": "FR0000044448",
+        "Symbole": "NEX"
+    },
+    {
+        "Nom": "NEXANS NV18",
+        "ISIN": "FR0013306081",
+        "Symbole": "NEXNV"
+    },
+    {
+        "Nom": "NEXITY",
+        "ISIN": "FR0010112524",
+        "Symbole": "NXI"
+    },
+    {
+        "Nom": "NEXPONOR-SICAFI",
+        "ISIN": "PTNEX0AM0002",
+        "Symbole": "ALNOR"
+    },
+    {
+        "Nom": "NEXTEDIA",
+        "ISIN": "FR0004171346",
+        "Symbole": "ALNXT"
+    },
+    {
+        "Nom": "NEXTSTAGE",
+        "ISIN": "FR0012789386",
+        "Symbole": "NEXTS"
+    },
+    {
+        "Nom": "NIBC HOLDING",
+        "ISIN": "NL0012756316",
+        "Symbole": "NIBC"
+    },
+    {
+        "Nom": "NICOX",
+        "ISIN": "FR0013018124",
+        "Symbole": "COX"
+    },
+    {
+        "Nom": "NN GROUP",
+        "ISIN": "NL0010773842",
+        "Symbole": "NN"
+    },
+    {
+        "Nom": "NOKIA",
+        "ISIN": "FI0009000681",
+        "Symbole": "NOKIA"
+    },
+    {
+        "Nom": "NOS, SGPS",
+        "ISIN": "PTZON0AM0006",
+        "Symbole": "NOS"
+    },
+    {
+        "Nom": "NOVABASE,SGPS",
+        "ISIN": "PTNBA0AM0006",
+        "Symbole": "NBA"
+    },
+    {
+        "Nom": "NOVACYT",
+        "ISIN": "FR0010397232",
+        "Symbole": "ALNOV"
+    },
+    {
+        "Nom": "NOVADAY",
+        "ISIN": "FR0011421817",
+        "Symbole": "MLLED"
+    },
+    {
+        "Nom": "NOVAE AEROSPACE",
+        "ISIN": "FR0010978924",
+        "Symbole": "MLNOT"
+    },
+    {
+        "Nom": "NOVATECH IND.",
+        "ISIN": "FR0000185464",
+        "Symbole": "MLNOV"
+    },
+    {
+        "Nom": "NOVISOURCE",
+        "ISIN": "NL0010696704",
+        "Symbole": "NOVI"
+    },
+    {
+        "Nom": "NOXXON",
+        "ISIN": "NL0012044762",
+        "Symbole": "ALNOX"
+    },
+    {
+        "Nom": "NR21",
+        "ISIN": "FR0004166155",
+        "Symbole": "NR21"
+    },
+    {
+        "Nom": "NRJ GROUP",
+        "ISIN": "FR0000121691",
+        "Symbole": "NRG"
+    },
+    {
+        "Nom": "NSC GROUPE",
+        "ISIN": "FR0000064529",
+        "Symbole": "ALNSC"
+    },
+    {
+        "Nom": "NSE",
+        "ISIN": "FR0004065639",
+        "Symbole": "ALNSE"
+    },
+    {
+        "Nom": "NSI N.V.",
+        "ISIN": "NL0012365084",
+        "Symbole": "NSI"
+    },
+    {
+        "Nom": "NWE NED AM HYP BK",
+        "ISIN": "NL0000121622",
+        "Symbole": ""
+    },
+    {
+        "Nom": "NYRSTAR",
+        "ISIN": "BE0974294267",
+        "Symbole": "NYR"
+    },
+    {
+        "Nom": "O SORBET D'AMOUR",
+        "ISIN": "FR0013072741",
+        "Symbole": "MLOSA"
+    },
+    {
+        "Nom": "O2I",
+        "ISIN": "FR0010231860",
+        "Symbole": "ALODI"
+    },
+    {
+        "Nom": "O2I BSA",
+        "ISIN": "FR0013268042",
+        "Symbole": "O2IBS"
+    },
+    {
+        "Nom": "O2I BSAAR 2019",
+        "ISIN": "FR0011928407",
+        "Symbole": "ODIBS"
+    },
+    {
+        "Nom": "OBER",
+        "ISIN": "FR0010330613",
+        "Symbole": "ALOBR"
+    },
+    {
+        "Nom": "OCCIDENTAL PETROL.",
+        "ISIN": "US6745991058",
+        "Symbole": "OCPET"
+    },
+    {
+        "Nom": "OCEASOFT",
+        "ISIN": "FR0012407096",
+        "Symbole": "ALOCA"
+    },
+    {
+        "Nom": "OCI",
+        "ISIN": "NL0010558797",
+        "Symbole": "OCI"
+    },
+    {
+        "Nom": "OCTOPUS ROBOTS",
+        "ISIN": "FR0013310281",
+        "Symbole": "MLOCT"
+    },
+    {
+        "Nom": "OENEO",
+        "ISIN": "FR0000052680",
+        "Symbole": "SBT"
+    },
+    {
+        "Nom": "OFFICIIS PROPERTIE",
+        "ISIN": "FR0010298901",
+        "Symbole": "OFP"
+    },
+    {
+        "Nom": "OIM",
+        "ISIN": "GB00B063YS85",
+        "Symbole": "OIM"
+    },
+    {
+        "Nom": "OL GROUPE",
+        "ISIN": "FR0010428771",
+        "Symbole": "OLG"
+    },
+    {
+        "Nom": "OLI SISTEMAS",
+        "ISIN": "PTOIR0AE0003",
+        "Symbole": "OIR"
+    },
+    {
+        "Nom": "OLMIX",
+        "ISIN": "FR0010176115",
+        "Symbole": "MLOLM"
+    },
+    {
+        "Nom": "ONCODESIGN",
+        "ISIN": "FR0011766229",
+        "Symbole": "ALONC"
+    },
+    {
+        "Nom": "ONE EXPERIENCE",
+        "ISIN": "FR0013266772",
+        "Symbole": "MLOEX"
+    },
+    {
+        "Nom": "ONLINEFORMAPRO",
+        "ISIN": "FR0004174712",
+        "Symbole": "MLONL"
+    },
+    {
+        "Nom": "ONTEX GROUP",
+        "ISIN": "BE0974276082",
+        "Symbole": "ONTEX"
+    },
+    {
+        "Nom": "ONXEO",
+        "ISIN": "FR0010095596",
+        "Symbole": "ONXEO"
+    },
+    {
+        "Nom": "OPTION",
+        "ISIN": "BE0003836534",
+        "Symbole": "OPTI"
+    },
+    {
+        "Nom": "ORANGE",
+        "ISIN": "FR0000133308",
+        "Symbole": "ORA"
+    },
+    {
+        "Nom": "ORANGE BELGIUM",
+        "ISIN": "BE0003735496",
+        "Symbole": "OBEL"
+    },
+    {
+        "Nom": "ORANJEWOUD A",
+        "ISIN": "NL0000370419",
+        "Symbole": "ORANW"
+    },
+    {
+        "Nom": "ORAPI",
+        "ISIN": "FR0000075392",
+        "Symbole": "ORAP"
+    },
+    {
+        "Nom": "ORCHESTRA-PREMAMAN",
+        "ISIN": "FR0013190410",
+        "Symbole": "KAZI"
+    },
+    {
+        "Nom": "ORCLASS.COM",
+        "ISIN": "FR0012859916",
+        "Symbole": "MLORC"
+    },
+    {
+        "Nom": "ORCO BSAR 2019",
+        "ISIN": "LU0234878881",
+        "Symbole": "ORCBR"
+    },
+    {
+        "Nom": "ORCOBSAAR1219",
+        "ISIN": "XS0290764728",
+        "Symbole": "ORCOW"
+    },
+    {
+        "Nom": "ORDINA",
+        "ISIN": "NL0000440584",
+        "Symbole": "ORDI"
+    },
+    {
+        "Nom": "OREGE",
+        "ISIN": "FR0010609206",
+        "Symbole": "OREGE"
+    },
+    {
+        "Nom": "OREY ANTUNES ESC.",
+        "ISIN": "PTORE0AM0002",
+        "Symbole": "ORE"
+    },
+    {
+        "Nom": "ORPEA",
+        "ISIN": "FR0000184798",
+        "Symbole": "ORP"
+    },
+    {
+        "Nom": "OSE IMMUNO",
+        "ISIN": "FR0012127173",
+        "Symbole": "OSE"
+    },
+    {
+        "Nom": "OSMOZIS",
+        "ISIN": "FR0013231180",
+        "Symbole": "ALOSM"
+    },
+    {
+        "Nom": "P.G.O. AUTOMOBILES",
+        "ISIN": "FR0000057895",
+        "Symbole": "MLPGO"
+    },
+    {
+        "Nom": "PACTE NOVATION",
+        "ISIN": "FR0000077992",
+        "Symbole": "MLPAC"
+    },
+    {
+        "Nom": "PARAGON ID",
+        "ISIN": "FR0011980077",
+        "Symbole": "PID"
+    },
+    {
+        "Nom": "PAREF",
+        "ISIN": "FR0010263202",
+        "Symbole": "PAR"
+    },
+    {
+        "Nom": "PARFEX",
+        "ISIN": "FR0000185928",
+        "Symbole": "MLPFX"
+    },
+    {
+        "Nom": "PARROT",
+        "ISIN": "FR0004038263",
+        "Symbole": "PARRO"
+    },
+    {
+        "Nom": "PART.INDLES MINI.",
+        "ISIN": "FR0006823092",
+        "Symbole": "MLHOP"
+    },
+    {
+        "Nom": "PASSAT",
+        "ISIN": "FR0000038465",
+        "Symbole": "PSAT"
+    },
+    {
+        "Nom": "PATRIMOINE ET COMM",
+        "ISIN": "FR0011027135",
+        "Symbole": "PAT"
+    },
+    {
+        "Nom": "PATRIS",
+        "ISIN": "PTPRS0AM0009",
+        "Symbole": "ALPTR"
+    },
+    {
+        "Nom": "PAYTON PLANAR",
+        "ISIN": "IL0010830391",
+        "Symbole": "PAY"
+    },
+    {
+        "Nom": "PCAS",
+        "ISIN": "FR0000053514",
+        "Symbole": "PCA"
+    },
+    {
+        "Nom": "PCB",
+        "ISIN": "BE0003503118",
+        "Symbole": "PCBB"
+    },
+    {
+        "Nom": "PEPSICO",
+        "ISIN": "US7134481081",
+        "Symbole": "PEP"
+    },
+    {
+        "Nom": "PERNOD RICARD",
+        "ISIN": "FR0000120693",
+        "Symbole": "RI"
+    },
+    {
+        "Nom": "PERRIER (GERARD)",
+        "ISIN": "FR0000061459",
+        "Symbole": "PERR"
+    },
+    {
+        "Nom": "PERSHING",
+        "ISIN": "GG00BPFJTF46",
+        "Symbole": "PSH"
+    },
+    {
+        "Nom": "PETRO IVOIRE",
+        "ISIN": "CI0000001020",
+        "Symbole": "MLPIV"
+    },
+    {
+        "Nom": "PEUGEOT",
+        "ISIN": "FR0000121501",
+        "Symbole": "UG"
+    },
+    {
+        "Nom": "PHARCO",
+        "ISIN": "BE0003835528",
+        "Symbole": "PHAR"
+    },
+    {
+        "Nom": "PHARMAGEST INTER.",
+        "ISIN": "FR0012882389",
+        "Symbole": "PHA"
+    },
+    {
+        "Nom": "PHARMASIMPLE",
+        "ISIN": "BE0974302342",
+        "Symbole": "ALPHS"
+    },
+    {
+        "Nom": "PHARMING GROUP",
+        "ISIN": "NL0010391025",
+        "Symbole": "PHARM"
+    },
+    {
+        "Nom": "PHARNEXT",
+        "ISIN": "FR0011191287",
+        "Symbole": "ALPHA"
+    },
+    {
+        "Nom": "PHAROL",
+        "ISIN": "PTPTC0AM0009",
+        "Symbole": "PHR"
+    },
+    {
+        "Nom": "PHILIPS BUY BACK",
+        "ISIN": "NL0000009322",
+        "Symbole": "INPHI"
+    },
+    {
+        "Nom": "PHILIPS KON",
+        "ISIN": "NL0000009538",
+        "Symbole": "PHIA"
+    },
+    {
+        "Nom": "PHILIPS LIGHTING",
+        "ISIN": "NL0011821392",
+        "Symbole": "LIGHT"
+    },
+    {
+        "Nom": "PHONE WEB",
+        "ISIN": "FR0000185480",
+        "Symbole": "MLPHW"
+    },
+    {
+        "Nom": "PHOTONIKE CAPITAL",
+        "ISIN": "BE0948608451",
+        "Symbole": "MLPHO"
+    },
+    {
+        "Nom": "PICANOL",
+        "ISIN": "BE0003807246",
+        "Symbole": "PIC"
+    },
+    {
+        "Nom": "PIERRE VACANCES",
+        "ISIN": "FR0000073041",
+        "Symbole": "VAC"
+    },
+    {
+        "Nom": "PISCINES DESJOYAUX",
+        "ISIN": "FR0000061608",
+        "Symbole": "ALPDX"
+    },
+    {
+        "Nom": "PIXIUM VISION",
+        "ISIN": "FR0011950641",
+        "Symbole": "PIX"
+    },
+    {
+        "Nom": "PLACOPLATRE",
+        "ISIN": "FR0000030769",
+        "Symbole": "MLPLC"
+    },
+    {
+        "Nom": "PLANET.FR",
+        "ISIN": "FR0010211037",
+        "Symbole": "ALPLA"
+    },
+    {
+        "Nom": "PLANT ADVANCED",
+        "ISIN": "FR0010785790",
+        "Symbole": "ALPAT"
+    },
+    {
+        "Nom": "PLANT ADVANCED BS",
+        "ISIN": "FR0011844067",
+        "Symbole": "PATBS"
+    },
+    {
+        "Nom": "PLAST.VAL LOIRE",
+        "ISIN": "FR0013252186",
+        "Symbole": "PVL"
+    },
+    {
+        "Nom": "PLASTIC OMNIUM",
+        "ISIN": "FR0000124570",
+        "Symbole": "POM"
+    },
+    {
+        "Nom": "PNS",
+        "ISIN": "BE0003838555",
+        "Symbole": "PNSB"
+    },
+    {
+        "Nom": "POINT PARFUMS",
+        "ISIN": "FR0012735355",
+        "Symbole": "MLPPF"
+    },
+    {
+        "Nom": "POL-ROGER CHAMPAGN",
+        "ISIN": "FR0000064644",
+        "Symbole": "MLPOL"
+    },
+    {
+        "Nom": "PORCELEYNE FLES",
+        "ISIN": "NL0000378669",
+        "Symbole": "PORF"
+    },
+    {
+        "Nom": "POSTNL",
+        "ISIN": "NL0009739416",
+        "Symbole": "PNL"
+    },
+    {
+        "Nom": "POUJOULAT",
+        "ISIN": "FR0000066441",
+        "Symbole": "ALPJT"
+    },
+    {
+        "Nom": "POULAILLON",
+        "ISIN": "FR0013015583",
+        "Symbole": "ALPOU"
+    },
+    {
+        "Nom": "POXEL",
+        "ISIN": "FR0012432516",
+        "Symbole": "POXEL"
+    },
+    {
+        "Nom": "POXEL NV18",
+        "ISIN": "FR0013306040",
+        "Symbole": "POXNV"
+    },
+    {
+        "Nom": "PPLA CLASS A",
+        "ISIN": "BMG7209L1000",
+        "Symbole": "PPLAA"
+    },
+    {
+        "Nom": "PPLA CLASS B",
+        "ISIN": "BMG7209L1182",
+        "Symbole": "PPLAB"
+    },
+    {
+        "Nom": "PPLA European Unit",
+        "ISIN": "US69355L1098",
+        "Symbole": "PPLA"
+    },
+    {
+        "Nom": "PRECIA",
+        "ISIN": "FR0000060832",
+        "Symbole": "PREC"
+    },
+    {
+        "Nom": "PRIMECITY",
+        "ISIN": "CY0104972217",
+        "Symbole": "ALPCI"
+    },
+    {
+        "Nom": "PRISMAFLEX INTL",
+        "ISIN": "FR0004044600",
+        "Symbole": "ALPRI"
+    },
+    {
+        "Nom": "PROBIODRUG",
+        "ISIN": "DE0007921835",
+        "Symbole": "PBD"
+    },
+    {
+        "Nom": "PROCTER GAMBLE",
+        "ISIN": "US7427181091",
+        "Symbole": "PGP"
+    },
+    {
+        "Nom": "PRODWARE",
+        "ISIN": "FR0010313486",
+        "Symbole": "ALPRO"
+    },
+    {
+        "Nom": "PRODWAYS",
+        "ISIN": "FR0012613610",
+        "Symbole": "PWG"
+    },
+    {
+        "Nom": "PROLOG BSAAR20",
+        "ISIN": "FR0011627900",
+        "Symbole": "PRBS1"
+    },
+    {
+        "Nom": "PROLOGUE",
+        "ISIN": "FR0010380626",
+        "Symbole": "PROL"
+    },
+    {
+        "Nom": "PROLOGUE BSAA",
+        "ISIN": "FR0011198175",
+        "Symbole": "PROBS"
+    },
+    {
+        "Nom": "PROLOGUE BSAA2021",
+        "ISIN": "FR0011994326",
+        "Symbole": "PRBS2"
+    },
+    {
+        "Nom": "PROP.IMMEUBLES",
+        "ISIN": "FR0000061376",
+        "Symbole": "MLPRI"
+    },
+    {
+        "Nom": "PROTEKTUS AG",
+        "ISIN": "DE000A0JCXG4",
+        "Symbole": "MLPRO"
+    },
+    {
+        "Nom": "PROXIMUS",
+        "ISIN": "BE0003810273",
+        "Symbole": "PROX"
+    },
+    {
+        "Nom": "PSB INDUSTRIES",
+        "ISIN": "FR0000060329",
+        "Symbole": "PSB"
+    },
+    {
+        "Nom": "PUBLICIS BSA",
+        "ISIN": "FR0000312928",
+        "Symbole": "PUBBS"
+    },
+    {
+        "Nom": "PUBLICIS GROUPE SA",
+        "ISIN": "FR0000130577",
+        "Symbole": "PUB"
+    },
+    {
+        "Nom": "QRF",
+        "ISIN": "BE0974272040",
+        "Symbole": "QRF"
+    },
+    {
+        "Nom": "QUADPACK",
+        "ISIN": "ES0105118006",
+        "Symbole": "MLQP"
+    },
+    {
+        "Nom": "QUANGENBS15SEP2018",
+        "ISIN": "FR0013134384",
+        "Symbole": "QGCBS"
+    },
+    {
+        "Nom": "QUANTEL",
+        "ISIN": "FR0000038242",
+        "Symbole": "QUA"
+    },
+    {
+        "Nom": "QUANTGENBSA27JAN20",
+        "ISIN": "FR0013274545",
+        "Symbole": "QGCBT"
+    },
+    {
+        "Nom": "QUANTUM GENOMICS",
+        "ISIN": "FR0011648971",
+        "Symbole": "ALQGC"
+    },
+    {
+        "Nom": "QUESTFOR GR-PRICAF",
+        "ISIN": "BE0003730448",
+        "Symbole": "QFG"
+    },
+    {
+        "Nom": "QUOTIUM TECHNO",
+        "ISIN": "FR0010211615",
+        "Symbole": "QTE"
+    },
+    {
+        "Nom": "RALLYE",
+        "ISIN": "FR0000060618",
+        "Symbole": "RAL"
+    },
+    {
+        "Nom": "RAMSAY GEN SANTE",
+        "ISIN": "FR0000044471",
+        "Symbole": "GDS"
+    },
+    {
+        "Nom": "RANDSTAD",
+        "ISIN": "NL0000379121",
+        "Symbole": "RAND"
+    },
+    {
+        "Nom": "RAPHAEL MICHEL S A",
+        "ISIN": "FR0010038570",
+        "Symbole": "MLRAM"
+    },
+    {
+        "Nom": "RAPIDO PRET",
+        "ISIN": "FR0012395457",
+        "Symbole": "ML350"
+    },
+    {
+        "Nom": "REALCO",
+        "ISIN": "BE0003841583",
+        "Symbole": "REAL"
+    },
+    {
+        "Nom": "REALDOLMEN",
+        "ISIN": "BE0003899193",
+        "Symbole": "REA"
+    },
+    {
+        "Nom": "REALITES",
+        "ISIN": "FR0011858190",
+        "Symbole": "ALREA"
+    },
+    {
+        "Nom": "RECTICEL",
+        "ISIN": "BE0003656676",
+        "Symbole": "REC"
+    },
+    {
+        "Nom": "RECYLEX S.A.",
+        "ISIN": "FR0000120388",
+        "Symbole": "RX"
+    },
+    {
+        "Nom": "REDITUS,SGPS",
+        "ISIN": "PTRED0AP0010",
+        "Symbole": "RED"
+    },
+    {
+        "Nom": "REFRESCO GROUP",
+        "ISIN": "NL0011214010",
+        "Symbole": "RFRG"
+    },
+    {
+        "Nom": "REIBEL",
+        "ISIN": "BE0003829463",
+        "Symbole": "REI"
+    },
+    {
+        "Nom": "REINET INVESTMENTS",
+        "ISIN": "LU0383812293",
+        "Symbole": "REINA"
+    },
+    {
+        "Nom": "RELX",
+        "ISIN": "NL0006144495",
+        "Symbole": "REN"
+    },
+    {
+        "Nom": "REMY COINTREAU",
+        "ISIN": "FR0000130395",
+        "Symbole": "RCO"
+    },
+    {
+        "Nom": "REN",
+        "ISIN": "PTREL0AM0008",
+        "Symbole": "RENE"
+    },
+    {
+        "Nom": "RENAULT",
+        "ISIN": "FR0000131906",
+        "Symbole": "RNO"
+    },
+    {
+        "Nom": "RESILUX",
+        "ISIN": "BE0003707214",
+        "Symbole": "RES"
+    },
+    {
+        "Nom": "RETAIL ESTATES",
+        "ISIN": "BE0003720340",
+        "Symbole": "RET"
+    },
+    {
+        "Nom": "REWORLD MEDIA",
+        "ISIN": "FR0010820274",
+        "Symbole": "ALREW"
+    },
+    {
+        "Nom": "REXEL",
+        "ISIN": "FR0010451203",
+        "Symbole": "RXL"
+    },
+    {
+        "Nom": "RIBER",
+        "ISIN": "FR0000075954",
+        "Symbole": "RIB"
+    },
+    {
+        "Nom": "ROBERTET",
+        "ISIN": "FR0000039091",
+        "Symbole": "RBT"
+    },
+    {
+        "Nom": "ROBERTET CDV 87",
+        "ISIN": "FR0000045619",
+        "Symbole": "CBR"
+    },
+    {
+        "Nom": "ROBERTET CI",
+        "ISIN": "FR0000045601",
+        "Symbole": "CBE"
+    },
+    {
+        "Nom": "ROCTOOL",
+        "ISIN": "FR0010523167",
+        "Symbole": "ALROC"
+    },
+    {
+        "Nom": "ROODMICROTEC",
+        "ISIN": "NL0000440477",
+        "Symbole": "ROOD"
+    },
+    {
+        "Nom": "ROODMICROTECWAR2",
+        "ISIN": "NL0011556972",
+        "Symbole": "WROD2"
+    },
+    {
+        "Nom": "ROSIER",
+        "ISIN": "BE0003575835",
+        "Symbole": "ENGB"
+    },
+    {
+        "Nom": "ROTHSCHILD & CO",
+        "ISIN": "FR0000031684",
+        "Symbole": "ROTH"
+    },
+    {
+        "Nom": "ROUGIER S.A.",
+        "ISIN": "FR0000037640",
+        "Symbole": "ALRGR"
+    },
+    {
+        "Nom": "ROULARTA",
+        "ISIN": "BE0003741551",
+        "Symbole": "ROU"
+    },
+    {
+        "Nom": "ROUSSELET CENTRIF.",
+        "ISIN": "FR0000035750",
+        "Symbole": "MLROU"
+    },
+    {
+        "Nom": "ROYAL DUTCH SHELLA",
+        "ISIN": "GB00B03MLX29",
+        "Symbole": "RDSA"
+    },
+    {
+        "Nom": "ROYAL DUTCH SHELLB",
+        "ISIN": "GB00B03MM408",
+        "Symbole": "RDSB"
+    },
+    {
+        "Nom": "RTL GROUP",
+        "ISIN": "LU0061462528",
+        "Symbole": "RTL"
+    },
+    {
+        "Nom": "RUBIS",
+        "ISIN": "FR0013269123",
+        "Symbole": "RUI"
+    },
+    {
+        "Nom": "S.CLUBE BRAGA",
+        "ISIN": "PTSCB0AM0001",
+        "Symbole": "SCB"
+    },
+    {
+        "Nom": "S.E.B.",
+        "ISIN": "FR0000121709",
+        "Symbole": "SK"
+    },
+    {
+        "Nom": "SABCA",
+        "ISIN": "BE0003654655",
+        "Symbole": "SAB"
+    },
+    {
+        "Nom": "SABETON",
+        "ISIN": "FR0000060121",
+        "Symbole": "SABE"
+    },
+    {
+        "Nom": "SAFE ORTHOPAEDICS",
+        "ISIN": "FR0012452746",
+        "Symbole": "SAFOR"
+    },
+    {
+        "Nom": "SAFRAN",
+        "ISIN": "FR0000073272",
+        "Symbole": "SAF"
+    },
+    {
+        "Nom": "SAFWOOD",
+        "ISIN": "IT0004013725",
+        "Symbole": "ALWOO"
+    },
+    {
+        "Nom": "SAG GEST",
+        "ISIN": "PTSAG0AE0004",
+        "Symbole": "SVA"
+    },
+    {
+        "Nom": "SAINT GOBAIN",
+        "ISIN": "FR0000125007",
+        "Symbole": "SGO"
+    },
+    {
+        "Nom": "SAMSE",
+        "ISIN": "FR0000060071",
+        "Symbole": "SAMS"
+    },
+    {
+        "Nom": "SANOFI",
+        "ISIN": "FR0000120578",
+        "Symbole": "SAN"
+    },
+    {
+        "Nom": "SANOFI NV18",
+        "ISIN": "FR0013299450",
+        "Symbole": "SANNV"
+    },
+    {
+        "Nom": "SAPEC",
+        "ISIN": "BE0003625366",
+        "Symbole": "SAP"
+    },
+    {
+        "Nom": "SAPMER",
+        "ISIN": "FR0010776617",
+        "Symbole": "ALMER"
+    },
+    {
+        "Nom": "SARTORIUS STED BIO",
+        "ISIN": "FR0013154002",
+        "Symbole": "DIM"
+    },
+    {
+        "Nom": "SAVENCIA",
+        "ISIN": "FR0000120107",
+        "Symbole": "SAVE"
+    },
+    {
+        "Nom": "SAVONNERIE NYONS",
+        "ISIN": "FR0013155975",
+        "Symbole": "MLSDN"
+    },
+    {
+        "Nom": "SBM OFFSHORE",
+        "ISIN": "NL0000360618",
+        "Symbole": "SBMO"
+    },
+    {
+        "Nom": "SBT",
+        "ISIN": "FR0004175222",
+        "Symbole": "MLSBT"
+    },
+    {
+        "Nom": "SCANDINAVIAN HOUSE",
+        "ISIN": "CH0220529603",
+        "Symbole": "MLSHD"
+    },
+    {
+        "Nom": "SCBSM",
+        "ISIN": "FR0006239109",
+        "Symbole": "CBSM"
+    },
+    {
+        "Nom": "SCEMI",
+        "ISIN": "FR0010972091",
+        "Symbole": "MLCMI"
+    },
+    {
+        "Nom": "SCHEERD.V KERCHOVE",
+        "ISIN": "BE0012378593",
+        "Symbole": "SCHD"
+    },
+    {
+        "Nom": "SCHLUMBERGER",
+        "ISIN": "AN8068571086",
+        "Symbole": "SLB"
+    },
+    {
+        "Nom": "SCHNEIDER ELECTRIC",
+        "ISIN": "FR0000121972",
+        "Symbole": "SU"
+    },
+    {
+        "Nom": "SCHNEIDER NV18",
+        "ISIN": "FR0013308822",
+        "Symbole": "SUNV"
+    },
+    {
+        "Nom": "SCHOBRUNN PARIS",
+        "ISIN": "FR0010961920",
+        "Symbole": "MLSCH"
+    },
+    {
+        "Nom": "SCOR SE",
+        "ISIN": "FR0010411983",
+        "Symbole": "SCR"
+    },
+    {
+        "Nom": "SDC INV.",
+        "ISIN": "PTSCO0AE0004",
+        "Symbole": "SDCAE"
+    },
+    {
+        "Nom": "SECHE ENVIRONNEM.",
+        "ISIN": "FR0000039109",
+        "Symbole": "SCHP"
+    },
+    {
+        "Nom": "SECURINFOR",
+        "ISIN": "FR0000071755",
+        "Symbole": "MLSEC"
+    },
+    {
+        "Nom": "SELCODIS",
+        "ISIN": "FR0000065492",
+        "Symbole": "SLCO"
+    },
+    {
+        "Nom": "SELECTIRENTE",
+        "ISIN": "FR0004175842",
+        "Symbole": "SELER"
+    },
+    {
+        "Nom": "SELECTIRENTE NV18",
+        "ISIN": "FR0013306107",
+        "Symbole": "SELNV"
+    },
+    {
+        "Nom": "SEMAPA",
+        "ISIN": "PTSEM0AM0004",
+        "Symbole": "SEM"
+    },
+    {
+        "Nom": "SEMPLICEMENTE SpA",
+        "ISIN": "IT0005072811",
+        "Symbole": "MLSMP"
+    },
+    {
+        "Nom": "SENSORION",
+        "ISIN": "FR0012596468",
+        "Symbole": "ALSEN"
+    },
+    {
+        "Nom": "SEQUA PETROLEUM NV",
+        "ISIN": "NL0010623518",
+        "Symbole": "MLSEQ"
+    },
+    {
+        "Nom": "SEQUANA",
+        "ISIN": "FR0011352590",
+        "Symbole": "SEQ"
+    },
+    {
+        "Nom": "SERGEFERRARI GROUP",
+        "ISIN": "FR0011950682",
+        "Symbole": "SEFER"
+    },
+    {
+        "Nom": "SERMA GROUP",
+        "ISIN": "FR0000073728",
+        "Symbole": "ALSER"
+    },
+    {
+        "Nom": "SES",
+        "ISIN": "LU0088087324",
+        "Symbole": "SESG"
+    },
+    {
+        "Nom": "SES IMAGOTAG",
+        "ISIN": "FR0010282822",
+        "Symbole": "SESL"
+    },
+    {
+        "Nom": "SETTLEMENTS",
+        "ISIN": "BE0974261902",
+        "Symbole": "STTL"
+    },
+    {
+        "Nom": "SHOWROOMPRIVE",
+        "ISIN": "FR0013006558",
+        "Symbole": "SRP"
+    },
+    {
+        "Nom": "SI PARTICIPATIONS",
+        "ISIN": "FR0000061582",
+        "Symbole": "ALSIP"
+    },
+    {
+        "Nom": "SIDETRADE",
+        "ISIN": "FR0010202606",
+        "Symbole": "ALBFR"
+    },
+    {
+        "Nom": "SIEMENS",
+        "ISIN": "DE0007236101",
+        "Symbole": "SIA"
+    },
+    {
+        "Nom": "SIF HOLDING",
+        "ISIN": "NL0011660485",
+        "Symbole": "SIFG"
+    },
+    {
+        "Nom": "SIGNAUX GIROD",
+        "ISIN": "FR0000060790",
+        "Symbole": "GIRO"
+    },
+    {
+        "Nom": "SII",
+        "ISIN": "FR0000074122",
+        "Symbole": "SII"
+    },
+    {
+        "Nom": "SILC",
+        "ISIN": "FR0010679365",
+        "Symbole": "MLSIL"
+    },
+    {
+        "Nom": "SILKAN RT",
+        "ISIN": "FR0010518605",
+        "Symbole": "MLARI"
+    },
+    {
+        "Nom": "SIMAT",
+        "ISIN": "CI0000000832",
+        "Symbole": "MLMAT"
+    },
+    {
+        "Nom": "SIMO INTERNATIONAL",
+        "ISIN": "FR0004038818",
+        "Symbole": "MLSIM"
+    },
+    {
+        "Nom": "SINTESI SpA",
+        "ISIN": "IT0005072167",
+        "Symbole": "MLSNT"
+    },
+    {
+        "Nom": "SIOEN",
+        "ISIN": "BE0003743573",
+        "Symbole": "SIOE"
+    },
+    {
+        "Nom": "SIPEF",
+        "ISIN": "BE0003898187",
+        "Symbole": "SIP"
+    },
+    {
+        "Nom": "SKILL GAMING INC",
+        "ISIN": "CA38055V2049",
+        "Symbole": "MLSKL"
+    },
+    {
+        "Nom": "SLIGRO FOOD GROUP",
+        "ISIN": "NL0000817179",
+        "Symbole": "SLIGR"
+    },
+    {
+        "Nom": "SMALTO",
+        "ISIN": "FR0011131788",
+        "Symbole": "MLSML"
+    },
+    {
+        "Nom": "SMALTO BSA",
+        "ISIN": "FR0010649228",
+        "Symbole": "SMLBS"
+    },
+    {
+        "Nom": "SMARTPHOTO GROUP",
+        "ISIN": "BE0974323553",
+        "Symbole": "SMAR"
+    },
+    {
+        "Nom": "SMCP",
+        "ISIN": "FR0013214145",
+        "Symbole": "SMCP"
+    },
+    {
+        "Nom": "SMTPC",
+        "ISIN": "FR0004016699",
+        "Symbole": "SMTPC"
+    },
+    {
+        "Nom": "SNOWWORLD",
+        "ISIN": "NL0010627865",
+        "Symbole": "SNOW"
+    },
+    {
+        "Nom": "SOC FRANC CASINOS",
+        "ISIN": "FR0010209809",
+        "Symbole": "SFCA"
+    },
+    {
+        "Nom": "SOCIETE GENERALE",
+        "ISIN": "FR0000130809",
+        "Symbole": "GLE"
+    },
+    {
+        "Nom": "SODEXO",
+        "ISIN": "FR0000121220",
+        "Symbole": "SW"
+    },
+    {
+        "Nom": "SODIFRANCE",
+        "ISIN": "FR0000072563",
+        "Symbole": "SOA"
+    },
+    {
+        "Nom": "SODITECH",
+        "ISIN": "FR0000078321",
+        "Symbole": "SEC"
+    },
+    {
+        "Nom": "SOFIBUS PATRIMOINE",
+        "ISIN": "FR0000038804",
+        "Symbole": "SFBS"
+    },
+    {
+        "Nom": "SOFINA",
+        "ISIN": "BE0003717312",
+        "Symbole": "SOF"
+    },
+    {
+        "Nom": "SOFRAGI",
+        "ISIN": "FR0000030140",
+        "Symbole": "SOFR"
+    },
+    {
+        "Nom": "SOFT COMPUTING",
+        "ISIN": "FR0000075517",
+        "Symbole": "SFT"
+    },
+    {
+        "Nom": "SOFTIMAT",
+        "ISIN": "BE0003773877",
+        "Symbole": "SOFT"
+    },
+    {
+        "Nom": "SOGECLAIR",
+        "ISIN": "FR0000065864",
+        "Symbole": "SOG"
+    },
+    {
+        "Nom": "SOITEC",
+        "ISIN": "FR0013227113",
+        "Symbole": "SOI"
+    },
+    {
+        "Nom": "SOLIA",
+        "ISIN": "FR0010480533",
+        "Symbole": "MLSOL"
+    },
+    {
+        "Nom": "SOLOCAL GROUP",
+        "ISIN": "FR0012938884",
+        "Symbole": "LOCAL"
+    },
+    {
+        "Nom": "SOLUTIONS 30 SE",
+        "ISIN": "FR0013188844",
+        "Symbole": "ALS30"
+    },
+    {
+        "Nom": "SOLVAC NOM(RETAIL)",
+        "ISIN": "BE0003545531",
+        "Symbole": "SOLV"
+    },
+    {
+        "Nom": "SOLVAY",
+        "ISIN": "BE0003470755",
+        "Symbole": "SOLB"
+    },
+    {
+        "Nom": "SOMFY SA",
+        "ISIN": "FR0013199916",
+        "Symbole": "SO"
+    },
+    {
+        "Nom": "SONAE",
+        "ISIN": "PTSON0AM0001",
+        "Symbole": "SON"
+    },
+    {
+        "Nom": "SONAE CAPITAL",
+        "ISIN": "PTSNP0AE0008",
+        "Symbole": "SONC"
+    },
+    {
+        "Nom": "SONAE IND.SGPS",
+        "ISIN": "PTS3P0AM0025",
+        "Symbole": "SONI"
+    },
+    {
+        "Nom": "SONAECOM,SGPS",
+        "ISIN": "PTSNC0AM0006",
+        "Symbole": "SNC"
+    },
+    {
+        "Nom": "SONAGI",
+        "ISIN": "PTSNG0AM0007",
+        "Symbole": "SNG"
+    },
+    {
+        "Nom": "SOPRA STERIA GROUP",
+        "ISIN": "FR0000050809",
+        "Symbole": "SOP"
+    },
+    {
+        "Nom": "SPADEL",
+        "ISIN": "BE0003798155",
+        "Symbole": "SPA"
+    },
+    {
+        "Nom": "SPEED RABBIT PIZZA",
+        "ISIN": "FR0000054371",
+        "Symbole": "MLSRP"
+    },
+    {
+        "Nom": "SPIE",
+        "ISIN": "FR0012757854",
+        "Symbole": "SPIE"
+    },
+    {
+        "Nom": "SPINEGUARD",
+        "ISIN": "FR0011464452",
+        "Symbole": "ALSGD"
+    },
+    {
+        "Nom": "SPINEWAY",
+        "ISIN": "FR0011398874",
+        "Symbole": "ALSPW"
+    },
+    {
+        "Nom": "SPIR COMMUNICATION",
+        "ISIN": "FR0000131732",
+        "Symbole": "SPI"
+    },
+    {
+        "Nom": "SPORTING",
+        "ISIN": "PTSCP0AM0001",
+        "Symbole": "SCP"
+    },
+    {
+        "Nom": "SQLI",
+        "ISIN": "FR0011289040",
+        "Symbole": "SQI"
+    },
+    {
+        "Nom": "SQLI BSAR042018",
+        "ISIN": "FR0011023274",
+        "Symbole": "SQIBS"
+    },
+    {
+        "Nom": "ST DUPONT",
+        "ISIN": "FR0000054199",
+        "Symbole": "DPT"
+    },
+    {
+        "Nom": "ST GOBAIN NV18",
+        "ISIN": "FR0013308772",
+        "Symbole": "SGONV"
+    },
+    {
+        "Nom": "ST.GUDULE-PL. CERT",
+        "ISIN": "BE0003620318",
+        "Symbole": "SAIG"
+    },
+    {
+        "Nom": "STALLERGENES GREER",
+        "ISIN": "GB00BZ21RF93",
+        "Symbole": "STAGR"
+    },
+    {
+        "Nom": "STEAM FRANCE",
+        "ISIN": "FR0013063559",
+        "Symbole": "MLSTM"
+    },
+    {
+        "Nom": "STEF",
+        "ISIN": "FR0000064271",
+        "Symbole": "STF"
+    },
+    {
+        "Nom": "STELAX INDUSTRIES",
+        "ISIN": "CA8584971003",
+        "Symbole": "LAX"
+    },
+    {
+        "Nom": "STENTYS",
+        "ISIN": "FR0010949404",
+        "Symbole": "STNT"
+    },
+    {
+        "Nom": "STERN GROEP",
+        "ISIN": "NL0000336303",
+        "Symbole": "STRN"
+    },
+    {
+        "Nom": "STMICROELECTRONICS",
+        "ISIN": "NL0000226223",
+        "Symbole": "STM"
+    },
+    {
+        "Nom": "STRADIM ESPAC.FIN",
+        "ISIN": "FR0000074775",
+        "Symbole": "ALSAS"
+    },
+    {
+        "Nom": "STREAMWIDE",
+        "ISIN": "FR0010528059",
+        "Symbole": "ALSTW"
+    },
+    {
+        "Nom": "STREAMWIDE BS",
+        "ISIN": "FR0012790756",
+        "Symbole": "STWDS"
+    },
+    {
+        "Nom": "STREIT MECANIQUE",
+        "ISIN": "FR0000063976",
+        "Symbole": "MLSTR"
+    },
+    {
+        "Nom": "SUCRAF A & B",
+        "ISIN": "BE0003463685",
+        "Symbole": "SUCR"
+    },
+    {
+        "Nom": "SUEZ",
+        "ISIN": "FR0010613471",
+        "Symbole": "SEV"
+    },
+    {
+        "Nom": "SUEZ ENV NV18",
+        "ISIN": "FR0013306115",
+        "Symbole": "SEVNV"
+    },
+    {
+        "Nom": "SUMO RESOURCES PLC",
+        "ISIN": "GB00B8GJBS16",
+        "Symbole": "MLSUM"
+    },
+    {
+        "Nom": "SUMOL+COMPAL",
+        "ISIN": "PTSML0AM0009",
+        "Symbole": "SUCO"
+    },
+    {
+        "Nom": "SUPERSONIC IMAGINE",
+        "ISIN": "FR0010526814",
+        "Symbole": "SSI"
+    },
+    {
+        "Nom": "SWORD GROUP",
+        "ISIN": "FR0004180578",
+        "Symbole": "SWP"
+    },
+    {
+        "Nom": "SYNERGIE",
+        "ISIN": "FR0000032658",
+        "Symbole": "SDG"
+    },
+    {
+        "Nom": "TAKEAWAY",
+        "ISIN": "NL0012015705",
+        "Symbole": "TKWY"
+    },
+    {
+        "Nom": "TARKETT",
+        "ISIN": "FR0004188670",
+        "Symbole": "TKTT"
+    },
+    {
+        "Nom": "TAYNINH",
+        "ISIN": "FR0000063307",
+        "Symbole": "TAYN"
+    },
+    {
+        "Nom": "TEAM",
+        "ISIN": "FR0000033466",
+        "Symbole": "MLTEA"
+    },
+    {
+        "Nom": "TEAM KALORIK",
+        "ISIN": "BE0003852697",
+        "Symbole": "TEAM"
+    },
+    {
+        "Nom": "TECHNICOLOR",
+        "ISIN": "FR0010918292",
+        "Symbole": "TCH"
+    },
+    {
+        "Nom": "TECHNIPFMC",
+        "ISIN": "GB00BDSFG982",
+        "Symbole": "FTI"
+    },
+    {
+        "Nom": "TECHNOFIRST",
+        "ISIN": "FR0011651819",
+        "Symbole": "ALFST"
+    },
+    {
+        "Nom": "TEIXEIRA DUARTE",
+        "ISIN": "PTTD10AM0000",
+        "Symbole": "TDSA"
+    },
+    {
+        "Nom": "TELECOM DESIGN",
+        "ISIN": "FR0000184806",
+        "Symbole": "MLTED"
+    },
+    {
+        "Nom": "TELECOM ITALIA SPA",
+        "ISIN": "IT0003497168",
+        "Symbole": "TIT"
+    },
+    {
+        "Nom": "TELEFONICA",
+        "ISIN": "ES0178430E18",
+        "Symbole": "TFA"
+    },
+    {
+        "Nom": "TELENET GROUP",
+        "ISIN": "BE0003826436",
+        "Symbole": "TNET"
+    },
+    {
+        "Nom": "TELEPERFORMANCE",
+        "ISIN": "FR0000051807",
+        "Symbole": "RCF"
+    },
+    {
+        "Nom": "TELEVERBIER",
+        "ISIN": "CH0008175645",
+        "Symbole": "TVRB"
+    },
+    {
+        "Nom": "TELEVISTA",
+        "ISIN": "FR0011076595",
+        "Symbole": "MLVST"
+    },
+    {
+        "Nom": "TER BEKE",
+        "ISIN": "BE0003573814",
+        "Symbole": "TERB"
+    },
+    {
+        "Nom": "TERREIS",
+        "ISIN": "FR0010407049",
+        "Symbole": "TER"
+    },
+    {
+        "Nom": "TESSENDERLO",
+        "ISIN": "BE0003555639",
+        "Symbole": "TESB"
+    },
+    {
+        "Nom": "TESSI",
+        "ISIN": "FR0004529147",
+        "Symbole": "TES"
+    },
+    {
+        "Nom": "TETRAGON FIN GRP",
+        "ISIN": "GG00B1RMC548",
+        "Symbole": "TFG"
+    },
+    {
+        "Nom": "TEXAF",
+        "ISIN": "BE0974263924",
+        "Symbole": "TEXF"
+    },
+    {
+        "Nom": "TF1",
+        "ISIN": "FR0000054900",
+        "Symbole": "TFI"
+    },
+    {
+        "Nom": "TF1 NV18",
+        "ISIN": "FR0013296803",
+        "Symbole": "TFINV"
+    },
+    {
+        "Nom": "TFF GROUP",
+        "ISIN": "FR0013295789",
+        "Symbole": "TFF"
+    },
+    {
+        "Nom": "THALES",
+        "ISIN": "FR0000121329",
+        "Symbole": "HO"
+    },
+    {
+        "Nom": "THALES NV18",
+        "ISIN": "FR0013306065",
+        "Symbole": "HONV"
+    },
+    {
+        "Nom": "THANNBERGER ET CIE",
+        "ISIN": "FR0010630988",
+        "Symbole": "MLTHA"
+    },
+    {
+        "Nom": "THE NAVIGATOR COMP",
+        "ISIN": "PTPTI0AM0006",
+        "Symbole": "NVG"
+    },
+    {
+        "Nom": "THERACLION",
+        "ISIN": "FR0010120402",
+        "Symbole": "ALTHE"
+    },
+    {
+        "Nom": "THERADIAG",
+        "ISIN": "FR0004197747",
+        "Symbole": "ALTER"
+    },
+    {
+        "Nom": "THERADIAG BSAR",
+        "ISIN": "FR0013260973",
+        "Symbole": "ALTBS"
+    },
+    {
+        "Nom": "THERANEXUS",
+        "ISIN": "FR0013286259",
+        "Symbole": "ALTHX"
+    },
+    {
+        "Nom": "THERMADOR GROUPE",
+        "ISIN": "FR0000061111",
+        "Symbole": "THEP"
+    },
+    {
+        "Nom": "THERMES DE SAUJON",
+        "ISIN": "FR0007261425",
+        "Symbole": "MLTDS"
+    },
+    {
+        "Nom": "THROMBOGENICS",
+        "ISIN": "BE0003846632",
+        "Symbole": "THR"
+    },
+    {
+        "Nom": "THUNDERBIRD",
+        "ISIN": "VGG885761061",
+        "Symbole": "TBIRD"
+    },
+    {
+        "Nom": "TIE KINETIX",
+        "ISIN": "NL0010389508",
+        "Symbole": "TIE"
+    },
+    {
+        "Nom": "TIGENIX",
+        "ISIN": "BE0003864817",
+        "Symbole": "TIG"
+    },
+    {
+        "Nom": "TIKEHAU CAPITAL",
+        "ISIN": "FR0013230612",
+        "Symbole": "TKO"
+    },
+    {
+        "Nom": "TINC",
+        "ISIN": "BE0974282148",
+        "Symbole": "TINC"
+    },
+    {
+        "Nom": "TIPIAK",
+        "ISIN": "FR0000066482",
+        "Symbole": "TIPI"
+    },
+    {
+        "Nom": "TISCALI",
+        "ISIN": "IT0004513666",
+        "Symbole": "TISN"
+    },
+    {
+        "Nom": "TIVOLY",
+        "ISIN": "FR0000060949",
+        "Symbole": "TVLY"
+    },
+    {
+        "Nom": "TKH GROUP",
+        "ISIN": "NL0000852523",
+        "Symbole": "TWEKA"
+    },
+    {
+        "Nom": "TOMTOM",
+        "ISIN": "NL0000387058",
+        "Symbole": "TOM2"
+    },
+    {
+        "Nom": "TONNA ELECTRONIQUE",
+        "ISIN": "FR0000064388",
+        "Symbole": "TONN"
+    },
+    {
+        "Nom": "TOOLUX SANDING",
+        "ISIN": "LU0394945660",
+        "Symbole": "ALTLX"
+    },
+    {
+        "Nom": "TOQUEBLANCHEMONDE",
+        "ISIN": "FR0011668821",
+        "Symbole": "MLTBM"
+    },
+    {
+        "Nom": "TOTAL",
+        "ISIN": "FR0000120271",
+        "Symbole": "FP"
+    },
+    {
+        "Nom": "TOTAL GABON",
+        "ISIN": "GA0000121459",
+        "Symbole": "EC"
+    },
+    {
+        "Nom": "TOTAL NV18",
+        "ISIN": "FR0013309069",
+        "Symbole": "FPNV"
+    },
+    {
+        "Nom": "TOUAX",
+        "ISIN": "FR0000033003",
+        "Symbole": "TOUP"
+    },
+    {
+        "Nom": "TOUPARGEL GROUPE",
+        "ISIN": "FR0000039240",
+        "Symbole": "TOU"
+    },
+    {
+        "Nom": "TOUR EIFFEL",
+        "ISIN": "FR0000036816",
+        "Symbole": "EIFF"
+    },
+    {
+        "Nom": "TOUTABO",
+        "ISIN": "FR0010621722",
+        "Symbole": "MLABO"
+    },
+    {
+        "Nom": "TOYOTA CAETANO",
+        "ISIN": "PTSCT0AP0018",
+        "Symbole": "SCT"
+    },
+    {
+        "Nom": "TPSH",
+        "ISIN": "FR0011040690",
+        "Symbole": "MLPSH"
+    },
+    {
+        "Nom": "TRAMWAYS DE ROUEN",
+        "ISIN": "FR0000031866",
+        "Symbole": "MLTRA"
+    },
+    {
+        "Nom": "TRANSGENE",
+        "ISIN": "FR0005175080",
+        "Symbole": "TNG"
+    },
+    {
+        "Nom": "TRANSINSULAR",
+        "ISIN": "PTTRA0AN0016",
+        "Symbole": "TRAAP"
+    },
+    {
+        "Nom": "TRAQUEUR",
+        "ISIN": "FR0004043487",
+        "Symbole": "ALTRA"
+    },
+    {
+        "Nom": "TREASURE MINE",
+        "ISIN": "HK0000058161",
+        "Symbole": "MLTMT"
+    },
+    {
+        "Nom": "TRIGANO",
+        "ISIN": "FR0005691656",
+        "Symbole": "TRI"
+    },
+    {
+        "Nom": "TRILOGIQ",
+        "ISIN": "FR0010397901",
+        "Symbole": "ALTRI"
+    },
+    {
+        "Nom": "TROC ILE",
+        "ISIN": "FR0000031106",
+        "Symbole": "MLTRO"
+    },
+    {
+        "Nom": "TROIS CHENES",
+        "ISIN": "FR0000076481",
+        "Symbole": "MLTRC"
+    },
+    {
+        "Nom": "TRONICS",
+        "ISIN": "FR0004175099",
+        "Symbole": "ALTRO"
+    },
+    {
+        "Nom": "TTI",
+        "ISIN": "FR0010383877",
+        "Symbole": "ALTTI"
+    },
+    {
+        "Nom": "TUBIZE-FIN",
+        "ISIN": "BE0003823409",
+        "Symbole": "TUB"
+    },
+    {
+        "Nom": "TXCELL",
+        "ISIN": "FR0010127662",
+        "Symbole": "TXCL"
+    },
+    {
+        "Nom": "TXCOM",
+        "ISIN": "FR0010654087",
+        "Symbole": "ALTXC"
+    },
+    {
+        "Nom": "U&I LEARNING",
+        "ISIN": "BE0003847648",
+        "Symbole": "UNI"
+    },
+    {
+        "Nom": "U10",
+        "ISIN": "FR0000079147",
+        "Symbole": "UDIS"
+    },
+    {
+        "Nom": "UBISOFT ENTERTAIN",
+        "ISIN": "FR0000054470",
+        "Symbole": "UBI"
+    },
+    {
+        "Nom": "UCAR",
+        "ISIN": "FR0011070457",
+        "Symbole": "ALUCR"
+    },
+    {
+        "Nom": "UCB",
+        "ISIN": "BE0003739530",
+        "Symbole": "UCB"
+    },
+    {
+        "Nom": "UMALIS GROUP",
+        "ISIN": "FR0011776889",
+        "Symbole": "MLUMG"
+    },
+    {
+        "Nom": "UMANIS",
+        "ISIN": "FR0013263878",
+        "Symbole": "ALUMS"
+    },
+    {
+        "Nom": "UMICORE",
+        "ISIN": "BE0974320526",
+        "Symbole": "UMI"
+    },
+    {
+        "Nom": "UN TOIT POUR TOI",
+        "ISIN": "FR0013180189",
+        "Symbole": "MLUTP"
+    },
+    {
+        "Nom": "UNI.METALG.HT-SEI.",
+        "ISIN": "FR0005783503",
+        "Symbole": "MLUMH"
+    },
+    {
+        "Nom": "UNIBAIL-RODAMCO",
+        "ISIN": "FR0000124711",
+        "Symbole": "UL"
+    },
+    {
+        "Nom": "UNIBEL",
+        "ISIN": "FR0000054215",
+        "Symbole": "UNBL"
+    },
+    {
+        "Nom": "UNILEVER 6%",
+        "ISIN": "NL0000388742",
+        "Symbole": "UNCP6"
+    },
+    {
+        "Nom": "UNILEVER 7%",
+        "ISIN": "NL0000388726",
+        "Symbole": "UNCP7"
+    },
+    {
+        "Nom": "UNILEVER DR",
+        "ISIN": "NL0000009355",
+        "Symbole": "UNA"
+    },
+    {
+        "Nom": "UNILEVER DR7CP",
+        "ISIN": "NL0000388684",
+        "Symbole": "UNCC7"
+    },
+    {
+        "Nom": "UNILEVER OS",
+        "ISIN": "NL0000388619",
+        "Symbole": "UNIA"
+    },
+    {
+        "Nom": "UNION FIN.FRANCE",
+        "ISIN": "FR0000034548",
+        "Symbole": "UFF"
+    },
+    {
+        "Nom": "UNION PAC CORP",
+        "ISIN": "US9078181081",
+        "Symbole": "UNPA"
+    },
+    {
+        "Nom": "UNION TECH.INFOR.",
+        "ISIN": "FR0000074197",
+        "Symbole": "FPG"
+    },
+    {
+        "Nom": "UNITI",
+        "ISIN": "FR0012709160",
+        "Symbole": "MLUNT"
+    },
+    {
+        "Nom": "USG",
+        "ISIN": "FR0012060036",
+        "Symbole": "MLUSG"
+    },
+    {
+        "Nom": "UV GERMI",
+        "ISIN": "FR0011898584",
+        "Symbole": "ALUVI"
+    },
+    {
+        "Nom": "V LANSCHOT KEMPEN",
+        "ISIN": "NL0000302636",
+        "Symbole": "VLK"
+    },
+    {
+        "Nom": "VAA VISTA ALEGRE",
+        "ISIN": "PTVAA0AE0001",
+        "Symbole": "VAF"
+    },
+    {
+        "Nom": "VALBIOTIS",
+        "ISIN": "FR0013254851",
+        "Symbole": "ALVAL"
+    },
+    {
+        "Nom": "VALE",
+        "ISIN": "US91912E1055",
+        "Symbole": "VALE3"
+    },
+    {
+        "Nom": "VALE PREF",
+        "ISIN": "US91912E2046",
+        "Symbole": "VALE5"
+    },
+    {
+        "Nom": "VALEO",
+        "ISIN": "FR0013176526",
+        "Symbole": "FR"
+    },
+    {
+        "Nom": "VALLOUREC",
+        "ISIN": "FR0000120354",
+        "Symbole": "VK"
+    },
+    {
+        "Nom": "VALNEVA",
+        "ISIN": "FR0004056851",
+        "Symbole": "VLA"
+    },
+    {
+        "Nom": "VALNEVA PREF",
+        "ISIN": "FR0011472943",
+        "Symbole": "VLAP"
+    },
+    {
+        "Nom": "VALONEO",
+        "ISIN": "FR0012833770",
+        "Symbole": "MLVAL"
+    },
+    {
+        "Nom": "VALUE8",
+        "ISIN": "NL0010661864",
+        "Symbole": "VALUE"
+    },
+    {
+        "Nom": "VALUE8 CUM PREF",
+        "ISIN": "NL0009875483",
+        "Symbole": "PREVA"
+    },
+    {
+        "Nom": "VAN DE VELDE",
+        "ISIN": "BE0003839561",
+        "Symbole": "VAN"
+    },
+    {
+        "Nom": "VASTNED",
+        "ISIN": "NL0000288918",
+        "Symbole": "VASTN"
+    },
+    {
+        "Nom": "VASTNED RETAIL BEL",
+        "ISIN": "BE0003754687",
+        "Symbole": "VASTB"
+    },
+    {
+        "Nom": "VDI GROUP",
+        "ISIN": "FR0010337865",
+        "Symbole": "ALVDI"
+    },
+    {
+        "Nom": "VELCAN",
+        "ISIN": "FR0010245803",
+        "Symbole": "ALVEL"
+    },
+    {
+        "Nom": "VENTE UNIQUE.COM",
+        "ISIN": "FR0010766667",
+        "Symbole": "ALVU"
+    },
+    {
+        "Nom": "VEOLIA ENVIRON.",
+        "ISIN": "FR0000124141",
+        "Symbole": "VIE"
+    },
+    {
+        "Nom": "VEON",
+        "ISIN": "BMG9349W1038",
+        "Symbole": "VEON"
+    },
+    {
+        "Nom": "VERGNET",
+        "ISIN": "FR0004155240",
+        "Symbole": "ALVER"
+    },
+    {
+        "Nom": "VERIZON COMM.",
+        "ISIN": "US92343V1044",
+        "Symbole": "VERIZ"
+    },
+    {
+        "Nom": "VERNEUIL FINANCE",
+        "ISIN": "FR0000062465",
+        "Symbole": "VRNL"
+    },
+    {
+        "Nom": "VERNEY CARRON",
+        "ISIN": "FR0006174496",
+        "Symbole": "MLVER"
+    },
+    {
+        "Nom": "VESTASIA LIMITED",
+        "ISIN": "HK0000041928",
+        "Symbole": "MLVES"
+    },
+    {
+        "Nom": "VETOQUINOL",
+        "ISIN": "FR0004186856",
+        "Symbole": "VETO"
+    },
+    {
+        "Nom": "VEXIM",
+        "ISIN": "FR0011072602",
+        "Symbole": "ALVXM"
+    },
+    {
+        "Nom": "VGP",
+        "ISIN": "BE0003878957",
+        "Symbole": "VGP"
+    },
+    {
+        "Nom": "VIALIFE",
+        "ISIN": "FR0010326090",
+        "Symbole": "ALVIA"
+    },
+    {
+        "Nom": "VICAT",
+        "ISIN": "FR0000031775",
+        "Symbole": "VCT"
+    },
+    {
+        "Nom": "VIDELIO",
+        "ISIN": "FR0000066680",
+        "Symbole": "VDLO"
+    },
+    {
+        "Nom": "VIEL ET COMPAGNIE",
+        "ISIN": "FR0000050049",
+        "Symbole": "VIL"
+    },
+    {
+        "Nom": "VIKTORIA INVEST",
+        "ISIN": "FR0000035719",
+        "Symbole": "VI"
+    },
+    {
+        "Nom": "VILMORIN & CIE",
+        "ISIN": "FR0000052516",
+        "Symbole": "RIN"
+    },
+    {
+        "Nom": "VINCI",
+        "ISIN": "FR0000125486",
+        "Symbole": "DG"
+    },
+    {
+        "Nom": "VINCI NV18",
+        "ISIN": "FR0013311644",
+        "Symbole": "DGNV"
+    },
+    {
+        "Nom": "VIOHALCO",
+        "ISIN": "BE0974271034",
+        "Symbole": "VIO"
+    },
+    {
+        "Nom": "VIRBAC",
+        "ISIN": "FR0000031577",
+        "Symbole": "VIRP"
+    },
+    {
+        "Nom": "VISIATIV",
+        "ISIN": "FR0004029478",
+        "Symbole": "ALVIV"
+    },
+    {
+        "Nom": "VISIO NERF",
+        "ISIN": "FR0010033480",
+        "Symbole": "MLVIS"
+    },
+    {
+        "Nom": "VISIODENT",
+        "ISIN": "FR0000065765",
+        "Symbole": "SDT"
+    },
+    {
+        "Nom": "VISIOMED BSA2018-1",
+        "ISIN": "FR0013322724",
+        "Symbole": "VMGBS"
+    },
+    {
+        "Nom": "VISIOMED GROUP",
+        "ISIN": "FR0011067669",
+        "Symbole": "ALVMG"
+    },
+    {
+        "Nom": "VISIOMEDBSA26OCT23",
+        "ISIN": "FR0013321817",
+        "Symbole": "VMGBT"
+    },
+    {
+        "Nom": "VIVENDI",
+        "ISIN": "FR0000127771",
+        "Symbole": "VIV"
+    },
+    {
+        "Nom": "VIVENDI NV18",
+        "ISIN": "FR0013308780",
+        "Symbole": "VIVNV"
+    },
+    {
+        "Nom": "VOLKERWESSELS",
+        "ISIN": "NL0012294466",
+        "Symbole": "KVW"
+    },
+    {
+        "Nom": "VOLKSWAGEN",
+        "ISIN": "DE0007664005",
+        "Symbole": "VWA"
+    },
+    {
+        "Nom": "VOLKSWAGEN PREF",
+        "ISIN": "DE0007664039",
+        "Symbole": "VWAP"
+    },
+    {
+        "Nom": "VOLTA FINANCE",
+        "ISIN": "GG00B1GHHH78",
+        "Symbole": "VTA"
+    },
+    {
+        "Nom": "VOLTALIA",
+        "ISIN": "FR0011995588",
+        "Symbole": "VLTSA"
+    },
+    {
+        "Nom": "VOPAK",
+        "ISIN": "NL0009432491",
+        "Symbole": "VPK"
+    },
+    {
+        "Nom": "VOPIUM",
+        "ISIN": "DK0060129575",
+        "Symbole": "MLVOP"
+    },
+    {
+        "Nom": "VOYAGEURS DU MONDE",
+        "ISIN": "FR0004045847",
+        "Symbole": "ALVDM"
+    },
+    {
+        "Nom": "VRANKEN-POMMERY",
+        "ISIN": "FR0000062796",
+        "Symbole": "VRAP"
+    },
+    {
+        "Nom": "WALLIX",
+        "ISIN": "FR0010131409",
+        "Symbole": "ALLIX"
+    },
+    {
+        "Nom": "WAREHOUSES",
+        "ISIN": "BE0003734481",
+        "Symbole": "WEB"
+    },
+    {
+        "Nom": "WAVESTONE",
+        "ISIN": "FR0004036036",
+        "Symbole": "WAVE"
+    },
+    {
+        "Nom": "WDP",
+        "ISIN": "BE0003763779",
+        "Symbole": "WDP"
+    },
+    {
+        "Nom": "WE.CONNECT",
+        "ISIN": "FR0013079092",
+        "Symbole": "ALWEC"
+    },
+    {
+        "Nom": "WEACCESS GROUP",
+        "ISIN": "FR0010688465",
+        "Symbole": "MLWEA"
+    },
+    {
+        "Nom": "WEBORAMA",
+        "ISIN": "FR0010337444",
+        "Symbole": "ALWEB"
+    },
+    {
+        "Nom": "WEDIA",
+        "ISIN": "FR0010688440",
+        "Symbole": "ALWED"
+    },
+    {
+        "Nom": "wee.com AG",
+        "ISIN": "CH0309050059",
+        "Symbole": "MLWEE"
+    },
+    {
+        "Nom": "WENDEL",
+        "ISIN": "FR0000121204",
+        "Symbole": "MF"
+    },
+    {
+        "Nom": "WERELDHAVE",
+        "ISIN": "NL0000289213",
+        "Symbole": "WHA"
+    },
+    {
+        "Nom": "WERELDHAVE BELGIUM",
+        "ISIN": "BE0003724383",
+        "Symbole": "WEHB"
+    },
+    {
+        "Nom": "WESSANEN",
+        "ISIN": "NL0000395317",
+        "Symbole": "WES"
+    },
+    {
+        "Nom": "WEYA",
+        "ISIN": "FR0010768770",
+        "Symbole": "MLWEY"
+    },
+    {
+        "Nom": "WITBE",
+        "ISIN": "FR0013143872",
+        "Symbole": "ALWIT"
+    },
+    {
+        "Nom": "WOL. EXTENS. CERT",
+        "ISIN": "BE0003600112",
+        "Symbole": "WOLE"
+    },
+    {
+        "Nom": "WOL. SHOPPING CERT",
+        "ISIN": "BE0003571792",
+        "Symbole": "WOLS"
+    },
+    {
+        "Nom": "WOLTERS KLUWER",
+        "ISIN": "NL0000395903",
+        "Symbole": "WKL"
+    },
+    {
+        "Nom": "WORLDLINE",
+        "ISIN": "FR0011981968",
+        "Symbole": "WLN"
+    },
+    {
+        "Nom": "WT",
+        "ISIN": "FR0000184822",
+        "Symbole": "MLWTT"
+    },
+    {
+        "Nom": "X-FAB",
+        "ISIN": "BE0974310428",
+        "Symbole": "XFAB"
+    },
+    {
+        "Nom": "XILAM ANIMATION",
+        "ISIN": "FR0004034072",
+        "Symbole": "XIL"
+    },
+    {
+        "Nom": "XIOR",
+        "ISIN": "BE0974288202",
+        "Symbole": "XIOR"
+    },
+    {
+        "Nom": "XPO LOGISTICS",
+        "ISIN": "FR0000052870",
+        "Symbole": "XPO"
+    },
+    {
+        "Nom": "YANGDEN HOLDING",
+        "ISIN": "HK0000052370",
+        "Symbole": "MLYSH"
+    },
+    {
+        "Nom": "YATRA",
+        "ISIN": "JE00B1FBT077",
+        "Symbole": "YATRA"
+    },
+    {
+        "Nom": "YMAGIS",
+        "ISIN": "FR0011471291",
+        "Symbole": "MAGIS"
+    },
+    {
+        "Nom": "ZCCM",
+        "ISIN": "ZM0000000037",
+        "Symbole": "MLZAM"
+    },
+    {
+        "Nom": "ZCI LIMITED",
+        "ISIN": "BMG9887P1068",
+        "Symbole": "CV"
+    },
+    {
+        "Nom": "ZENITEL",
+        "ISIN": "BE0974311434",
+        "Symbole": "ZENT"
+    },
+    {
+        "Nom": "ZENOBE GRAMME CERT",
+        "ISIN": "BE0003809267",
+        "Symbole": "ZEN"
+    }
+]

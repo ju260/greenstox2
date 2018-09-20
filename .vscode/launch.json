@@ -1,0 +1,44 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "debug min",
+            "program": "${workspaceFolder}/ReactNodeNew/routes/maxPer.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "debug dayly",
+            "program": "${workspaceFolder}/ReactNodeNew/getDaylyStocks.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "debug weekly",
+            "program": "${workspaceFolder}/ReactNodeNew/getWeeklyStocks.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "debug monthly",
+            "program": "${workspaceFolder}/ReactNodeNew/getMonthlyStocks.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch Program 4",
+            "program": "${workspaceFolder}/ReactNodeNew/getKeyStats.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Lancer le programme",
+            "program": "${workspaceFolder}/ReactNodeNew/serve.js"
+        }
+    ]
+}

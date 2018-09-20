@@ -1,0 +1,12 @@
+.filtres___def{
+    font-size:10px
+}
+.filtres__li{
+    display: block;
+    margin-bottom:15px;
+}
+.filtres{
+    text-align: left;
+    width: 600px;
+    margin: 0 auto;
+}
