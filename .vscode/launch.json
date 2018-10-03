@@ -31,7 +31,7 @@
         {
             "type": "node",
             "request": "launch",
-            "name": "Launch Program 4",
+            "name": "getKeyStats",
             "program": "${workspaceFolder}/ReactNodeNew/getKeyStats.js"
         },
         {

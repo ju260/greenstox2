@@ -62,7 +62,7 @@ socket.on('connect', () => {
     })*/
 
         return (
-            <div class="myStocks">
+            <div className="myStocks">
                 <p>Saisir les stocks à surveiller</p>
                 <input type="text" value=""/>
                 <button onClick={() => this.send()}>valider</button>
