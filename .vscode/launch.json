@@ -7,6 +7,19 @@
         {
             "type": "node",
             "request": "launch",
+            "name": "debug sector",
+            "program": "${workspaceFolder}/ReactNodeNew/getStockSector.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch Program",
+            "program": "${file}",
+            "outFiles": [ "${workspaceFolder}/ReactNodeNew/routes/search.js" ]
+        },
+        {
+            "type": "node",
+            "request": "launch",
             "name": "debug min",
             "program": "${workspaceFolder}/ReactNodeNew/routes/maxPer.js"
         },

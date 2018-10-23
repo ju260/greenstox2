@@ -12,11 +12,11 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <h1 className="App-title">Welcome to GreenStock</h1>
+          <h1 className="App-title">Welcome to GreenStoX</h1>
         </header>
         {/*<MyDashboard/>*/}
         <Filtres/>
-        <MyStocks/>
+        {/* <MyStocks/> */}
       </div>
     );
   }
