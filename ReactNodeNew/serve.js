@@ -48,7 +48,7 @@ class insertEleData {
     }
 
     insertDataInBase() {
-        this.insertDataPERInBaseRow(); //TABLE PER
+       // this.insertDataPERInBaseRow(); //TABLE PER
         //  this.insertDataKeyStatsInBaseRow();  TABLE KEYSTATS
         // this.insertDataHistoryDaylyInBaseRow(); //TABLE History dayly
         //this.insertDataHistoryWeeklyInBaseRow(); //TABLE Hisotry weekly
