@@ -8,15 +8,7 @@ router.get('/', function (req, res, next) {
   //console.log('res'+res);
   res.render('index', { title: 'Express' });
   // 
-  var connection = mysql.createConnection({
-    //host: 'julienlellgreen.mysql.db',
-    host: 'www.greenstox.fr',
-    user: 'jlc',
-    password: 'Juju_1981',
-    database: 'greenstock',
-    port: '8889'
-    //socketPath: '/Applications/MAMP/tmp/mysql/mysql.sock'
-});
+
 
 socket.on('error', console.error);
 

@@ -6,6 +6,10 @@ import Button from '@material-ui/core/Button';
 import Radio from './Radio';
 import { Field, reduxForm } from 'redux-form';
 import PropTypes from 'prop-types';
+import DetailStock from '../detailStock/DetailStock';
+import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import { Redirect } from 'react-router-dom';
+
 
 import './filtres.css';
 import 'react-table/react-table.css';
@@ -52,7 +56,7 @@ class Filtres extends React.Component {
         //     dividendYiel: 2
         // };
 
-        this.sate={
+        this.sate = {
             shown: "none"
         }
     }
@@ -64,7 +68,7 @@ class Filtres extends React.Component {
         this.data.dividendYiel = values.dividendYiel !== undefined ? values.dividendYiel : 0;
 
         //this.data.ebitdata = this.state.ebitdata;
-       // this.data.leverage = this.state.leverage;
+        // this.data.leverage = this.state.leverage;
 
         console.log(process.env.REACT_APP_API_URL)
 
@@ -96,13 +100,58 @@ class Filtres extends React.Component {
 
     render() {
         var shown = {
-			display: this.state.shown ? "block" : "none"
-		};
-        
+            display: this.state.shown ? "block" : "none"
+        };
+
+        let redirect = null;
+        if(this.state.submitted){
+            redirect = <Redirect to='/detail' />;
+        }
+
         return (
             <div>
                 <SearchForm onSubmit={this.handleSubmit} />
-                <ReactTable data={this.state.stocks} columns={this.columns} style={ shown } />
+                <ReactTable data={this.state.stocks} columns={this.columns} style={shown}
+                    getTrProps={(state, rowInfo) => {
+                        if (rowInfo && rowInfo.row) {
+                            return {
+                                onClick: (e) => {
+                                    this.symbolClicked = rowInfo.original.symbol;
+                                    console.log(process.env.REACT_APP_API_URL);
+
+                                    fetch(process.env.REACT_APP_API_URL + '/detailStock', {
+                                        method: 'POST',
+                                        headers: { 'Content-Type': 'application/json' },
+                                        body: JSON.stringify(this.symbolClicked)
+                                    }).then(function (response) {
+                                        //console.log('response' + response)
+                                        if (response.status >= 400) {
+                                            throw new Error("Bad response from server");
+                                        }
+
+                                        return response.json();
+                                    }).then(function (data) {
+                                        //console.log(data)
+                                        //self.setState({ stocks: data, shown: "block" });
+                                       // document.location.href = '/detail';
+                                       this.setState({submitted:true})
+                                    }).catch(err => {
+                                        console.log('caught it!', err);
+                                    })
+
+                                },
+                                style: {
+                                    background: rowInfo.index === this.state.selected ? '#00afec' : 'white',
+                                    color: rowInfo.index === this.state.selected ? 'white' : 'black'
+                                }
+                            }
+                        } else {
+                            return {}
+                        }
+                    }}
+                />
+
+// {redirect}
             </div>
         );
     }

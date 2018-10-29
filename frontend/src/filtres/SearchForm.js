@@ -32,10 +32,10 @@ const SearchForm = props => {
                             4: '< 25 '
                         }}
                         labels={{
-                            per1: '(L action est sous-évaluée ou les bénéfices de la société sont supposés être bientôt en déclin.)',
-                            per2: '(Pour la majorité des sociétés, un ratio se situant dans cette tranche est considéré comme bon.)',
-                            per3: '(L action est surévaluée ou il y a croissance des profits depuis les dernières annonces.)',
-                            per4: 'PER l est probable que de forts profits soient attendus dans le futur, ou l action fait l objet d une bulle spéculative.) '
+                            1: '(L action est sous-évaluée ou les bénéfices de la société sont supposés être bientôt en déclin.)',
+                            2: '(Pour la majorité des sociétés, un ratio se situant dans cette tranche est considéré comme bon.)',
+                            3: '(L action est surévaluée ou il y a croissance des profits depuis les dernières annonces.)',
+                            4: 'PER l est probable que de forts profits soient attendus dans le futur, ou l action fait l objet d une bulle spéculative.) '
                         }}
                     />
                     {/* <RadioGroup 
