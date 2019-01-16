@@ -63,7 +63,7 @@ const SearchForm = props => {
                                 minValue={0}
                                 value={this.state.leverage}
                                 onChange={value => this.setState({ leverage: value })} /></li> */}
-                <li class="filtres__li"><label for="checkBoxDividend">DIVIDENDS yield ( rendement % )</label>
+                <li className="filtres__li"><label htmlFor="checkBoxDividend">DIVIDENDS yield ( rendement % )</label>
                     {/* <InputRange
                         maxValue={8}
                         minValue={0}

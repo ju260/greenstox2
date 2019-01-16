@@ -9,6 +9,7 @@ import PropTypes from 'prop-types';
 import DetailStock from '../detailStock/DetailStock';
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import { Redirect } from 'react-router-dom';
+import { Table, Tr, Td, Thead } from "reactable";
 
 
 import './filtres.css';
@@ -49,15 +50,10 @@ class Filtres extends React.Component {
             leverage: 0
         }
 
-
-        // this.state = {
-        //     ebitdata: 5,
-        //     leverage: 5,
-        //     dividendYiel: 2
-        // };
-
         this.sate = {
-            shown: "none"
+            shown: "none",
+            submitted: false,
+            symbolClicked: ""
         }
     }
 
@@ -87,7 +83,7 @@ class Filtres extends React.Component {
 
             return response.json();
         }).then(function (data) {
-            //console.log(data)
+            // console.log(data)
             self.setState({ stocks: data, shown: "block" });
         }).catch(err => {
             console.log('caught it!', err);
@@ -103,41 +99,48 @@ class Filtres extends React.Component {
             display: this.state.shown ? "block" : "none"
         };
 
-        let redirect = null;
-        if(this.state.submitted){
-            redirect = <Redirect to='/detail' />;
+        const { stocks = [] } = this.state;
+
+        let route = null;
+        if (stocks.length > 0) {
+            route = <Route path="/detailStock/:id" component={DetailStock} />
         }
 
         return (
             <div>
                 <SearchForm onSubmit={this.handleSubmit} />
-                <ReactTable data={this.state.stocks} columns={this.columns} style={shown}
+
+                <Table sortable={true} className="table" itemsPerPage={30} pageButtonLimit={5} >
+                    {stocks.map((t) => (<Tr><Td column="symbol"><Link to={{pathname:"/detailStock/" + t.symbol, state:{symbol:t.symbol, name:t.name} }} >{t.symbol}</Link></Td><Td column="perRatio">{t.perRatio}</Td><Td column="name">{t.name}</Td><Td column="dividendYield">{t.dividendYield}</Td></Tr>))}
+                </Table>
+                {/* <ReactTable data={this.state.stocks} columns={this.columns} style={shown}
                     getTrProps={(state, rowInfo) => {
                         if (rowInfo && rowInfo.row) {
                             return {
                                 onClick: (e) => {
-                                    this.symbolClicked = rowInfo.original.symbol;
-                                    console.log(process.env.REACT_APP_API_URL);
+                                    //this2.data.symbolClicked = rowInfo.original.symbol;
+                                    var this2 = this;
+                                    this2.setState({ symbolClicked: rowInfo.original.symbol });
 
-                                    fetch(process.env.REACT_APP_API_URL + '/detailStock', {
-                                        method: 'POST',
-                                        headers: { 'Content-Type': 'application/json' },
-                                        body: JSON.stringify(this.symbolClicked)
-                                    }).then(function (response) {
-                                        //console.log('response' + response)
-                                        if (response.status >= 400) {
-                                            throw new Error("Bad response from server");
-                                        }
+                                    // fetch(process.env.REACT_APP_API_URL + '/detailStock', {
+                                    //     method: 'POST',
+                                    //     headers: { 'Content-Type': 'application/json' },
+                                    //     body: JSON.stringify(this.data)
+                                    // }).then(function (response) {
+                                    //     //console.log('response' + response)
+                                    //     if (response.status >= 400) {
+                                    //         throw new Error("Bad response from server");
+                                    //     }
 
-                                        return response.json();
-                                    }).then(function (data) {
-                                        //console.log(data)
-                                        //self.setState({ stocks: data, shown: "block" });
-                                       // document.location.href = '/detail';
-                                       this.setState({submitted:true})
-                                    }).catch(err => {
-                                        console.log('caught it!', err);
-                                    })
+                                    //     return response.json();
+                                    // }).then(function (data) {
+                                    //     //console.log(data)
+                                    //     //self.setState({ stocks: data, shown: "block" });
+                                    //     this2.setState({ submitted: true });
+
+                                    // }).catch(err => {
+                                    //     console.log('caught it!', err);
+                                    // })
 
                                 },
                                 style: {
@@ -151,7 +154,9 @@ class Filtres extends React.Component {
                     }}
                 />
 
-// {redirect}
+                 */}
+                {/* {route} */}
+                
             </div>
         );
     }

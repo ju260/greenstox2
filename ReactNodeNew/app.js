@@ -12,6 +12,8 @@ var maxPer = require('./routes/maxPer');
 var minDividend = require('./routes/minDividend');
 var maxDividend = require('./routes/maxDividend');
 var detailStockRouter = require('./routes/detailStock');
+var detailStock2Router = require('./routes/detailStock-2');
+
 
 var cors = require('cors');
 var bodyParser = require('body-parser');
@@ -47,7 +49,7 @@ app.use('/maxPer', maxPer);
 app.use('/minDividend', minDividend);
 app.use('/maxDividend', maxDividend);
 app.use('/detailStock', detailStockRouter);
-
+app.use('/detailStock-2', detailStock2Router);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

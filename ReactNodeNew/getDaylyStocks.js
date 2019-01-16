@@ -87,9 +87,14 @@ class insertEleData {
 
     async insertDataInBaseRowLine(symbol, chartSymbol) {
         this.symbol = symbol;
-        for (const ch of chartSymbol.chart) {
-           await this.insertDataInBaseRowLineChart(ch, this.symbol);
-        }
+
+        /* version dayly */
+        // for (const ch of chartSymbol.chart) {
+        //    await this.insertDataInBaseRowLineChart(ch, this.symbol);
+        // }
+
+        /* version current stock */
+        await this.insertDataInBaseRowLineChart(chartSymbol.chart[chartSymbol.chart.length-1], this.symbol);
     }
 
     async insertDataInBaseRowLineChart(ch, symbol){

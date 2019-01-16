@@ -6,6 +6,7 @@ var mysql = require('mysql');
 
 /* GET users listing. req.body.ebitda  */
 router.get('/', function (req, res, next) {
+
     // var connection = mysql.createConnection({
     //     host: 'localhost',
     //     user: 'root',
@@ -29,7 +30,7 @@ router.get('/', function (req, res, next) {
 });
 
 router.post('/', function (req, res, next) {
-   
+
     var connection = mysql.createConnection({
         host: process.env.REACT_APP_DB_HOST,
         user: process.env.REACT_APP_DB_USER,

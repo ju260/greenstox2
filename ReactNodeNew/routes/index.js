@@ -23,8 +23,6 @@ socket.on('error', console.error);
   });
 
   connection.end();
-
-
 });
 
 module.exports = router;
