@@ -18,9 +18,6 @@ class App extends Component {
         <header className="App-header">
           <h1 className="App-title">Welcome to GreenStoX</h1>
         </header>
-        {/*<MyDashboard/>*/}
-        {/* <Filtres/> */}
-        {/* <MyStocks/> */}
 
         <Switch>
           <Route exact path="/" component={Filtres} />

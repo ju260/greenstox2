@@ -56,8 +56,9 @@ router.post('/:id', function (req, res, next) {
     const stockId = req.body.stockId ? req.body.stockId : 0;
     //console.log('symbol    '+stockId);
 
-    connection.query(`select stocks_nasdaq.name, history_dayly.marketAverage from stocks_nasdaq,history_dayly
-    where stocks_nasdaq.symbol = "${stockId}"`, function (error, results, fields) {
+    connection.query(`select stocks_nasdaq.name, history_dayly.lastPrice,history_dayly.variation, history_dayly.date from history_dayly inner join stocks_nasdaq
+    on history_dayly.symbol = stocks_nasdaq.symbol
+    and history_dayly.symbol = "${stockId}"`, function (error, results, fields) {
         if (error) throw error;
           console.log("detail 2    "+results);
         res.send(JSON.stringify(results));

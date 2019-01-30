@@ -52,14 +52,11 @@ router.post('/:id', function (req, res, next) {
         console.log('Connected detailStock !');
 
     });
-    //console.log("stockId"+req.body.stockId);
     const stockId = req.body.stockId ? req.body.stockId : 0;
-   // console.log('symbol    '+stockId);
 
     connection.query(`select history_monthly.close, history_monthly.date from history_monthly
     where history_monthly.symbol = "${stockId}"`, function (error, results, fields) {
         if (error) throw error;
-         // console.log(results);
         res.send(JSON.stringify(results));
     });
 
