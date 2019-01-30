@@ -1,0 +1,14 @@
+.detailStock{
+    text-align: left;
+    padding: 0 20px;
+    &__wrapper{
+        display:flex;
+        justify-content: center;
+    }
+    &__infos{text-align: left; padding-right: 40px}
+    &__graph{}
+    &__return{text-align: left}
+    &__variationValue{ font-size: 22px }
+    &__positif{color:green}
+    &__negatif{color:red}
+}

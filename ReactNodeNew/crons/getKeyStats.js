@@ -76,7 +76,6 @@ class insertEleData {
         return data;
     }
 
-
     async insertDataPERInBaseRowLine(objetSymbol) {
 
         var profitMargin = typeof (objetSymbol.stats.profitMargin) === "number" ? objetSymbol.stats.profitMargin : -999999;

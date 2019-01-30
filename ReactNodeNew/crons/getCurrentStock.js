@@ -1,12 +1,11 @@
-//var cron = require('node-cron');
+var cron = require('node-cron');
 
-// cron.schedule('* * * * * *', function() {
-//     console.log('running a task every sec');
-// });
+cron.schedule('*/1 * * * *', function() {
+    console.log('running a task every min');
 
 
 //const React = require('react');
-const JsonNasdaq = require('./symbols/nasdaq.json');
+//const JsonNasdaq = require('./symbols/nasdaq.json');
 const express = require('express');
 const app = express();
 var mysql = require('mysql');
@@ -27,7 +26,7 @@ connection.connect((err) => {
     if (err)
         throw err;
 });
-connection.query('TRUNCATE `greenstock`.`history_weekly`', (err, result) => {
+connection.query('TRUNCATE `greenstock`.`history_dayly`', (err, result) => {
     if (err)
         throw err;
 });
@@ -66,13 +65,14 @@ class insertEleData {
                     let tab = Object.entries(data);
 
                     for (let j=0; j<tab.length; j++) {
-                        let value=Object.values(tab[j]);
-                        let symbol = value[0];
-                        let chartSymbol = value[1];
-                        await this.insertDataInBaseRowLine(symbol, chartSymbol);
                         this.indexSymbol++;
+                        let value=Object.values(tab[j]);
+                        if(value[1].quote !== null){
+                            let symbol = value[0];
+                            let quote = value[1].quote; 
+                            await this.insertDataInBaseRowLine(symbol, quote);
+                        } 
                     }
-                   
                 })
                 .catch(reason => console.log(reason.message))
         }
@@ -80,7 +80,7 @@ class insertEleData {
 
     async callStocks(i) {
         let tabTmp = i.map(x => x[0]);
-        let urlPER = "https://api.iextrading.com/1.0/stock/market/batch?symbols=" + tabTmp + "&types=chart&range=5d";
+        let urlPER = "https://api.iextrading.com/1.0/stock/market/batch?symbols=" + tabTmp + "&types=quote";
         let p = await fetch(urlPER);
         let data = await p.json();
         return data;
@@ -88,15 +88,16 @@ class insertEleData {
 
     async insertDataInBaseRowLine(symbol, chartSymbol) {
         this.symbol = symbol;
-        for (const ch of chartSymbol.chart) {
-           await this.insertDataInBaseRowLineChart(ch, this.symbol);
-        }
+
+        await this.insertDataInBaseRowLineChart(chartSymbol, this.symbol);
     }
 
-    async insertDataInBaseRowLineChart(ch, symbol){
-        let marketClose = this.newMethod(ch);
-
-        const promise2 = await connection.query('INSERT INTO history_weekly (id_stock,close,date,symbol) VALUES("' + this.indexSymbol + '","' + marketClose + '","' + ch.date + '","' + symbol + '")', (err, result) => {
+    async insertDataInBaseRowLineChart(obj, symbol){
+        let latestPrice = typeof (obj.latestPrice) === "number" ? obj.latestPrice : -999999;
+        // let date = new Date(obj.latestUpdate);
+        // date.toLocaleString();
+        
+        const promise2 = await connection.query('INSERT INTO history_dayly (id_stock,lastPrice,variation,date,symbol) VALUES("' + this.indexSymbol + '","' + latestPrice + '","' + obj.changePercent*100 + '","' + obj.latestUpdate + '","' + symbol + '")', (err, result) => {
             if (err) {
                 console.log(err);
                 return;
@@ -105,8 +106,6 @@ class insertEleData {
         
         return promise2;
     }
-
-    newMethod(ch) {
-        return typeof (ch.close) === "number" ? ch.close : -999999;
-    }
 }
+
+});
