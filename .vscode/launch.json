@@ -4,6 +4,7 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+
         {
             "type": "node",
             "request": "launch",
@@ -26,32 +27,44 @@
         {
             "type": "node",
             "request": "launch",
-            "name": "debug dayly",
-            "program": "${workspaceFolder}/ReactNodeNew/getDaylyStocks.js"
+            "name": "debug current",
+            "program": "${workspaceFolder}/ReactNodeNew/getCurrentStock.js"
         },
         {
             "type": "node",
             "request": "launch",
             "name": "debug weekly",
-            "program": "${workspaceFolder}/ReactNodeNew/getWeeklyStocks.js"
+            "program": "${workspaceFolder}/ReactNodeNew/crons/getWeeklyStocks.js"
         },
         {
             "type": "node",
             "request": "launch",
             "name": "debug monthly",
-            "program": "${workspaceFolder}/ReactNodeNew/getMonthlyStocks.js"
+            "program": "${workspaceFolder}/ReactNodeNew/crons/getMonthlyStocks.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "cron PER",
+            "program": "${workspaceFolder}/ReactNodeNew/crons/getPER.js"
         },
         {
             "type": "node",
             "request": "launch",
             "name": "getKeyStats",
-            "program": "${workspaceFolder}/ReactNodeNew/getKeyStats.js"
+            "program": "${workspaceFolder}/ReactNodeNew/crons/getKeyStats.js"
         },
         {
             "type": "node",
             "request": "launch",
             "name": "Lancer le programme",
             "program": "${workspaceFolder}/ReactNodeNew/serve.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "detailStock",
+            "program": "${workspaceFolder}/frontend/src/detailStock/detailStock.js"
         }
     ]
 }

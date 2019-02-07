@@ -60,7 +60,7 @@ router.post('/:id', function (req, res, next) {
     on history_dayly.symbol = stocks_nasdaq.symbol
     and history_dayly.symbol = "${stockId}"`, function (error, results, fields) {
         if (error) throw error;
-          console.log("detail 2    "+results);
+          //console.log("detail 2    "+results);
         res.send(JSON.stringify(results));
     });
 
