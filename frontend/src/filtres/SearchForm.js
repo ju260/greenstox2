@@ -18,12 +18,13 @@ const SearchForm = props => {
 
     return (
         <form onSubmit={handleSubmit} method="POST" action="">
-            <h2>SEARCH STOCKS</h2>
+            <h2 class="title-2">SEARCH STOCKS</h2>
             <ul className='filtres'>
                 <li className="filtres__li">
+                    <h3 class="title-3">PER</h3>
                     <Field
+                        className="form-control"
                         name="per"
-                        label="PER"
                         component={Radio}
                         options={{
                             1: '0 < PER < 10',
@@ -38,17 +39,6 @@ const SearchForm = props => {
                             4: 'PER l est probable que de forts profits soient attendus dans le futur, ou l action fait l objet d une bulle spéculative.) '
                         }}
                     />
-                    {/* <RadioGroup 
-                                name="per"
-                                value={this.props.per}
-                                options={[
-                                    { label: '0 &lsaquo; PER &lsaquo; 10 <span className="filtres___def">(L action est sous-évaluée ou les bénéfices de la société sont supposés être bientôt en déclin.)</span>', value: 'per1' },
-                                    { label: '10 &lsaquo; PER &lsaquo; 17 <span className="filtres___def">(Pour la majorité des sociétés, un ratio se situant dans cette tranche est considéré comme bon.)</span>', value: 'per2' },
-                                    { label: '17 &lsaquo; PER &lsaquo; 25 <span className="filtres___def">(L action est surévaluée ou il y a croissance des profits depuis les dernières annonces.)</span>', value: 'per3' },
-                                    { label: '25 &lsaquo; <span className="filtres___def">PER l est probable que de forts profits soient attendus dans le futur, ou l action fait l objet d une bulle spéculative.) </span>', value: 'per4' }
-                                ]}
-                                onChange={this.handleChange}
-                            /> */}
                 </li>
                 {/* <li className="filtres__li"><input name="checkBoxEbitdata" id="checkBoxEbitdata" type="checkbox" /><label >EBITDATA Résultat opérationnel </label>
                             <InputRange
@@ -63,12 +53,8 @@ const SearchForm = props => {
                                 minValue={0}
                                 value={this.state.leverage}
                                 onChange={value => this.setState({ leverage: value })} /></li> */}
-                <li className="filtres__li"><label htmlFor="checkBoxDividend">DIVIDENDS yield ( rendement % )</label>
-                    {/* <InputRange
-                        maxValue={8}
-                        minValue={0}
-                        value={this.state.dividendYiel}
-                        onChange={value => this.setState({ dividendYiel: value })} /> */}
+                <li className="filtres__li filtres__li--margT1">
+                    <label className="title-3" htmlFor="checkBoxDividend">DIVIDENDS yield ( rendement % )</label>
                     <Field
                         id="dividendYiel"
                         name="dividendYiel"

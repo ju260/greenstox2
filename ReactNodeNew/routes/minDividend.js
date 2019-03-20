@@ -1,24 +1,10 @@
 var express = require('express');
 var router = express.Router();
 var mysql = require('mysql');
-
+const helper = require('../helpers/connectBDD');
 
 router.get('/', function (req, res, next) {
-
-    var connection = mysql.createConnection({
-        host: 'localhost',
-        user: 'root',
-        password: 'root',
-        database: 'greenstock',
-        port: '8889',
-        socketPath: '/Applications/MAMP/tmp/mysql/mysql.sock'
-    });
-
-    connection.connect((err) => {
-        if (err)
-            throw err;
-        console.log('Connected search!');
-    });
+    const connection = helper();
 
     connection.query('SELECT MIN(`dividendYield`) FROM `keyStats` where `dividendYield` != -999999 ', (err, result) => {
         console.log(result);

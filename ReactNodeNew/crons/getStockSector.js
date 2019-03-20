@@ -1,11 +1,9 @@
-//var cron = require('node-cron');
+var cron = require('node-cron');
 
-// cron.schedule('* * * * * *', function() {
-//     console.log('running a task every sec');
-// });
+cron.schedule('* * * * * *', function() {
+    console.log('running a task every sec');
+});
 
-
-//const React = require('react');
 const JsonNasdaq = require('./symbols/nasdaq.json');
 const express = require('express');
 const app = express();
@@ -13,27 +11,12 @@ var mysql = require('mysql');
 const http = require('http');
 const fetch = require("node-fetch");
 
-var connection = mysql.createConnection({
-    host: 'localhost',
-    user: 'root',
-    password: 'root',
-    database: 'greenstock',
-    port: '8889',
-    socketPath: '/Applications/MAMP/tmp/mysql/mysql.sock'
-});
-
-connection.connect((err) => {
-    if (err)
-        throw err;
-});
-// connection.query('TRUNCATE `greenstock`.`per`', (err, result) => {
-//     if (err)
-//         throw err;
-// });
+const connection = helper('sector');
 
 connection.query('SELECT `symbol`, id FROM `stocks_nasdaq` WHERE 1', (err, result) => {
     let d = new insertEleData(result);
 });
+
 
 class insertEleData {
     constructor(tab) {

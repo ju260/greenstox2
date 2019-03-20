@@ -1,26 +1,14 @@
 var express = require('express');
 var router = express.Router();
 var mysql = require('mysql');
+const helper = require('../helpers/connectBDD');
 
 
 /* GET users listing. req.body.ebitda  */
 
 router.get('/', function (req, res, next) {
 
-    var connection = mysql.createConnection({
-        host: 'localhost',
-        user: 'root',
-        password: 'root',
-        database: 'greenstock',
-        port: '8889',
-        socketPath: '/Applications/MAMP/tmp/mysql/mysql.sock'
-    });
-
-    connection.connect((err) => {
-        if (err)
-            throw err;
-        console.log('Connected search 2!');
-    });
+    const connection = helper();
 
     connection.query('SELECT min(`perRatio`) FROM `per` where `perRatio` != -999999 ', (err, result) => {
         console.log(result);

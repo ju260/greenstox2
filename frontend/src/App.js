@@ -7,7 +7,6 @@ import DetailStock from './detailStock/DetailStock';
 */
 import MyStocks from './MyStocks';
 //import './App.css';
-
 class App extends Component {
   componentDidMount() {
     document.title = "greenStox"

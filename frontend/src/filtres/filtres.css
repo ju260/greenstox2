@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
 .filtres___def{
     font-size:10px
 }
@@ -12,4 +13,36 @@
 }
 .input-range{
     padding: 20px 0 30px;
+}
+.title-2 {
+    font-size: 1.3rem
+}
+.title-3 {
+    font-size: 1.2rem;
+    font-weight: bold
+}
+.filtres__li--margT1 {
+    margin-top: 35px
+}
+
+.reactable{
+    width: 100%;
+    margin-top: 60px;
+}
+.reactable-column-header{
+    display: flex;
+    width: 100%;
+}
+
+.reactable__tr{
+    flex: auto;
+    display: flex;
+    padding: 3px 0;
+}
+.reactable__tr:nth-child(odd){
+    background-color: aliceblue
+}
+.reactable__td, .reactable-header-sortable{
+    flex: 100 0 auto;
+    width: 100px;
 }

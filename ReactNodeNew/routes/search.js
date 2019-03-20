@@ -2,50 +2,20 @@ require('dotenv').load();
 var express = require('express');
 var router = express.Router();
 var mysql = require('mysql');
-
+const helper = require('../helpers/connectBDD');
 
 /* GET users listing. req.body.ebitda  */
 router.get('/', function (req, res, next) {
 
-    // var connection = mysql.createConnection({
-    //     host: 'localhost',
-    //     user: 'root',
-    //     password: 'root',
-    //     database: 'greenstock',
-    //     port: '8889',
-    //     socketPath: '/Applications/MAMP/tmp/mysql/mysql.sock'
-    // });
-    console.log(process.env.REACT_APP_DB_USER)
-    
-    var connection = mysql.createConnection({
-        host: process.env.REACT_APP_DB_HOST,
-        user: process.env.REACT_APP_DB_USER,
-        password: process.env.REACT_APP_DB_PASS,
-        database: process.env.REACT_APP_DB_NAME,
-        port: process.env.REACT_APP_DB_PORT,
-        socketPath: '/Applications/MAMP/tmp/mysql/mysql.sock'
-    });
+    const connection = helper();
 
     res.send('respond with a resource');
 });
 
 router.post('/', function (req, res, next) {
 
-    var connection = mysql.createConnection({
-        host: process.env.REACT_APP_DB_HOST,
-        user: process.env.REACT_APP_DB_USER,
-        password: process.env.REACT_APP_DB_PASS,
-        database: process.env.REACT_APP_DB_NAME,
-        port: process.env.REACT_APP_DB_PORT,
-        socketPath: '/Applications/MAMP/tmp/mysql/mysql.sock'
-    });
+    const connection = helper();
 
-    connection.connect((err) => {
-        if (err)
-            throw err;
-        console.log('Connected search !');
-
-    });
     var perMin = 0,
         perMax = 99999;
     if (req.body.per === "1") {

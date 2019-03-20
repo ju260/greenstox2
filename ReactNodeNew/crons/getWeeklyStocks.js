@@ -1,11 +1,10 @@
-//var cron = require('node-cron');
+var cron = require('node-cron');
 
-// cron.schedule('* * * * * *', function() {
-//     console.log('running a task every sec');
-// });
+cron.schedule('* * * * * *', function() {
+    console.log('running a task every sec');
+});
 
 
-//const React = require('react');
 const JsonNasdaq = require('./../symbols/nasdaq.json');
 const express = require('express');
 const app = express();
@@ -15,12 +14,12 @@ const socketIO = require('socket.io');
 const fetch = require("node-fetch");
 
 var connection = mysql.createConnection({
-    host: 'localhost',
-    user: 'root',
-    password: 'root',
-    database: 'greenstock',
-    port: '8889',
-    socketPath: '/Applications/MAMP/tmp/mysql/mysql.sock'
+    host: process.env.REACT_APP_DB_HOST,
+    user: process.env.REACT_APP_DB_USER,
+    password: process.env.REACT_APP_DB_PASS,
+    database: process.env.REACT_APP_DB_NAME,
+    port: process.env.REACT_APP_DB_PORT,
+    // socketPath: '/Applications/MAMP/tmp/mysql/mysql.sock'
 });
 
 connection.connect((err) => {
