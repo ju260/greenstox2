@@ -1,4 +1,5 @@
 import React from 'react';
+import _ from 'lodash';
 import { Field, reduxForm } from 'redux-form';
 import InputRange from 'react-input-range';
 import Button from '@material-ui/core/Button';
@@ -8,6 +9,7 @@ import './filtres.css';
 
 const SearchForm = props => {
     const { handleSubmit, pristine, reset, submitting } = props;
+    console.log(props);
     const MyRange = props => (
         <InputRange
             maxValue={8}
@@ -18,10 +20,10 @@ const SearchForm = props => {
 
     return (
         <form onSubmit={handleSubmit} method="POST" action="">
-            <h2 class="title-2">SEARCH STOCKS</h2>
+            <h2 className="title-2">SEARCH STOCKS</h2>
             <ul className='filtres'>
                 <li className="filtres__li">
-                    <h3 class="title-3">PER</h3>
+                    <h3 className="title-3">PER</h3>
                     <Field
                         className="form-control"
                         name="per"

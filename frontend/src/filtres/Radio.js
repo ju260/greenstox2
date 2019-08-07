@@ -13,6 +13,7 @@ export const Radio = props => {
             name={props.input.name}
             type="radio"
             value={key}
+            key={`${props.input.name}-${index}`}
           />
           <label key={`${index}`} htmlFor={`${props.input.name}-${index}`}>
           {props.options[key]} <span className="filtres___def">{props.labels[key]}</span>

@@ -49,7 +49,7 @@ class Filtres extends React.Component {
     }
 
     handleSubmit(values) {
-        console.log(values)
+        console.log("values   "+values)
 
         this.data.per = values.per !== undefined ? values.per : 0;
         this.data.dividendYiel = values.dividendYiel !== undefined ? values.dividendYiel : 0;
@@ -57,7 +57,7 @@ class Filtres extends React.Component {
         //this.data.ebitdata = this.state.ebitdata;
         // this.data.leverage = this.state.leverage;
 
-        console.log(process.env.REACT_APP_API_URL)
+        console.log("srfzr  "+process.env.REACT_APP_API_URL)
 
         this.stocks = [];
         let self = this;
@@ -69,12 +69,13 @@ class Filtres extends React.Component {
             if (response.status >= 400) {
                 throw new Error("Bad response from server");
             }
+            console.log("response:  "+response)
 
             return response.json();
         }).then(function (data) {
             self.setState({ stocks: data, shown: true });
         }).catch(err => {
-            console.log('caught it!', err);
+            console.log('caught it1!', err);
         })
     }
 
