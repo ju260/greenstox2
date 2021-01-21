@@ -22,6 +22,6 @@
     "fetch": "^1.1.0",
     "mysql": "^2.16.0",
     "node-fetch": "^2.2.0",
-    "socket.io": "^2.1.1"
+    "socket.io": "^2.4.0"
   }
 }
